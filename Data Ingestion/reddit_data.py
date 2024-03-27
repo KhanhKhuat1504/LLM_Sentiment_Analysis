@@ -13,7 +13,7 @@ def extract_reddit_data():
 
     subreddit_names = [
         "ChatGPT",
-        "ChatGPTPro" "midjourney",
+        "ChatGPTPro", "midjourney",
         "StableDiffusion",
         "singularity",
         "CharacterAI",
@@ -27,7 +27,7 @@ def extract_reddit_data():
         "MistralAI",
         "ClaudeAI",
         "LocalLLM",
-        "OpenAI",
+        "OpenAI"
     ]
 
     # Initialize empty lists to store data
