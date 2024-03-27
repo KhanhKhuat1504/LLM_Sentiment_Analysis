@@ -13,7 +13,7 @@ def extract_reddit_data():
 
     subreddit_names = [
         "ChatGPT",
-        "ChatGPTPro", "midjourney",
+        "ChatGPTPro",
         "StableDiffusion",
         "singularity",
         "CharacterAI",
