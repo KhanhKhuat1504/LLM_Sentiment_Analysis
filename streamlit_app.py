@@ -4,8 +4,33 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 from wordcloud import WordCloud
 from textblob import TextBlob
+import mysql.connector
 
-# Load data from CSV
+
+# Connect to MySQL database
+mydb = mysql.connector.connect(
+    host="your_host",
+    user="your_username",
+    password="your_password",
+    database="your_database"
+)
+
+# Create a cursor object to execute SQL queries
+cursor = mydb.cursor()
+
+# Execute SQL query to fetch data from the database
+cursor.execute("SELECT * FROM your_table")
+rows = cursor.fetchall()
+
+# Display fetched data in Streamlit
+if rows:
+    st.write("Fetched data from database:")
+    for row in rows:
+        st.write(row)
+else:
+    st.write("No data available from the database.")
+
+# Load data from CSV  ---> comment out once mysql works
 df = pd.read_csv("sentiment_reddit_data.csv")
 
 # Convert 'CreatedTime' to datetime
@@ -116,3 +141,6 @@ else:
 # Can do additional topic modeling, LDA/NMF 
 #Entity Recognition (expressed w avg sentiment bar graph)
     
+# Close cursor and database connection
+cursor.close()
+mydb.close()
