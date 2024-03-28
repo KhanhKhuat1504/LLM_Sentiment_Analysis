@@ -3,32 +3,34 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from textblob import TextBlob
-import mysql.connector
+
+# import mysql.connector
 
 # Connect to MySQL database
-mydb = mysql.connector.connect(
-    host="your_host",
-    user="your_username",
-    password="your_password",
-    database="your_database"
-)
+#mydb = mysql.connector.connect(
+#    host="your_host",
+#    user="your_username",
+#    password="your_password",
+#    database="your_database"
+#)
 
 # Create a cursor object to execute SQL queries
-cursor = mydb.cursor()
+#cursor = mydb.cursor()
 
 # Execute SQL query to fetch data from the database
-cursor.execute("SELECT * FROM your_table")
-rows = cursor.fetchall()
+#cursor.execute("SELECT * FROM your_table")
+#rows = cursor.fetchall()
 
 # Display fetched data in Streamlit
-if rows:
-    st.write("Fetched data from database:")
-    for row in rows:
-        st.write(row)
-else:
-    st.write("No data available from the database.")
+#if rows:
+#    st.write("Fetched data from database:")
+#    for row in rows:
+#        st.write(row)
+#else:
+#    st.write("No data available from the database.")
 
-# Load data from CSV  ---> comment out once mysql works
+
+# Load data from CSV
 df = pd.read_csv("sentiment_reddit_data.csv")
 
 # Convert 'CreatedTime' to datetime
@@ -126,5 +128,5 @@ else:
     st.write("No data available for average sentiment by language model.")
 
 # Close cursor and database connection
-cursor.close()
-mydb.close()
+#cursor.close()
+#mydb.close()
