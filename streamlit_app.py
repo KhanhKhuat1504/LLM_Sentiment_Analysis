@@ -7,26 +7,26 @@ from textblob import TextBlob
 # import mysql.connector
 
 # Connect to MySQL database
-#mydb = mysql.connector.connect(
+# mydb = mysql.connector.connect(
 #    host="your_host",
 #    user="your_username",
 #    password="your_password",
 #    database="your_database"
-#)
+# )
 
 # Create a cursor object to execute SQL queries
-#cursor = mydb.cursor()
+# cursor = mydb.cursor()
 
 # Execute SQL query to fetch data from the database
-#cursor.execute("SELECT * FROM your_table")
-#rows = cursor.fetchall()
+# cursor.execute("SELECT * FROM your_table")
+# rows = cursor.fetchall()
 
 # Display fetched data in Streamlit
-#if rows:
+# if rows:
 #    st.write("Fetched data from database:")
 #    for row in rows:
 #        st.write(row)
-#else:
+# else:
 #    st.write("No data available from the database.")
 
 
@@ -34,28 +34,59 @@ from textblob import TextBlob
 df = pd.read_csv("sentiment_reddit_data.csv")
 
 # Convert 'CreatedTime' to datetime
-df['CreatedTime'] = pd.to_datetime(df['CreatedTime'])
+df["CreatedTime"] = pd.to_datetime(df["CreatedTime"])
+
+# Set title background image
+background_image = "statsbackground.jpg"
+
+# Define CSS for the decorative header
+header_style = f"""
+    <style>
+        .header {{
+            background-image: url('{background_image}');
+            background-size: cover;
+            height: 100px; /* Adjust height as needed */
+            width: 100%;
+            text-align: center;
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            padding-top: 30px; /* Adjust vertical alignment */
+        }}
+    </style>
+"""
+
+# Display the decorative header
+st.markdown(header_style, unsafe_allow_html=True)
+
+# Set title text
+title_text = "DASHBOARD\nLarge Language Models Leaderboard using Real-time Mining and Sentiment Analysis"
+
+# Display title text
+st.markdown(f"<div class='header'>{title_text}</div>", unsafe_allow_html=True)
 
 # Set the configuration option to disable the PyplotGlobalUseWarning
-st.set_option('deprecation.showPyplotGlobalUse', False)
+st.set_option("deprecation.showPyplotGlobalUse", False)
 
 # Calculate sentiment polarity and categorize into negative, neutral, and positive
-if 'Text' in df.columns:
+if "Text" in df.columns:
     # Replace missing values with empty strings
     df["Text"].fillna("", inplace=True)
 
     # Calculate sentiment polarity and handle None values
-    sentiments = [TextBlob(answer).sentiment.polarity if answer else None for answer in df["Text"]]
+    sentiments = [
+        TextBlob(answer).sentiment.polarity if answer else None for answer in df["Text"]
+    ]
     df["Sentiment"] = sentiments
 
     # Categorize sentiment into negative, neutral, and positive
-    df['Sentiment_Category'] = pd.cut(df['Sentiment'], bins=[-1, -0.01, 0.01, 1], labels=['Negative', 'Neutral', 'Positive'])
+    df["Sentiment_Category"] = pd.cut(
+        df["Sentiment"],
+        bins=[-1, -0.01, 0.01, 1],
+        labels=["Negative", "Neutral", "Positive"],
+    )
 else:
     st.write("No 'Text' column found in the DataFrame.")
-
-# Main content layout
-st.title("DASHBOARD")
-st.subheader("Large Language Models Leaderboard using Real-time Mining and Sentiment Analysis")
 
 # Sidebar layout
 with st.sidebar:
@@ -65,33 +96,71 @@ with st.sidebar:
     if tabs == "Direct Feed":
         st.markdown("# Total Reddit Posts: " + str(len(df)))
         st.subheader("Reddit Post Data")
-        st.table(df[['CreatedTime', 'SubmissionID', 'SubmissionTitle', 'Text', 'SubmissionURL', 'Score', 'NumberOfComments', 'SubredditName', 'Sentiment', 'Sentiment_Score']].head(10))
+        
+        # Display each post inside a bordered box
+        for index, row in df.head(10).iterrows():
+            with st.expander(f"{row['SubmissionTitle']} - {row['SubredditName']}", expanded=False):
+                st.markdown(
+                    f"**Score:** {row['Score']} | **Comments:** {row['NumberOfComments']}"
+                    f"\n{row['Text'][:200]}{'...' if len(row['Text']) > 200 else ''}"
+                    f"\n[Read More]({row['SubmissionURL']})"
+                )
+                
     elif tabs == "Filtered Feed":
         st.subheader("Filter Options")
-        selected_subreddit = st.selectbox("Select Subreddit:", df['SubredditName'].unique())
-        selected_sentiment = st.selectbox("Select Sentiment Category:", ['Negative', 'Neutral', 'Positive'])
-        selected_api = st.selectbox("Select API:", df['API'].unique())
-        filtered_df = df[(df['SubredditName'] == selected_subreddit) & 
-                         (df['Sentiment_Category'] == selected_sentiment) &
-                         (df['API'] == selected_api)]
-        st.write(filtered_df.head(10))
+        selected_subreddit = st.selectbox(
+            "Select Subreddit:", df["SubredditName"].unique()
+        )
+        selected_sentiment = st.selectbox(
+            "Select Sentiment Category:", ["Negative", "Neutral", "Positive"]
+        )
+        
+        # Check if the columns exist in the DataFrame
+        if {"SubredditName", "Sentiment_Category"}.issubset(df.columns):
+            filtered_df = df[
+                (df["SubredditName"] == selected_subreddit)
+                & (df["Sentiment_Category"] == selected_sentiment)
+            ]
+            
+            # Display filtered posts inside a bordered box
+            for index, row in filtered_df.head(10).iterrows():
+                with st.expander(f"{row['SubmissionTitle']} - {row['SubredditName']}", expanded=False):
+                    st.markdown(
+                        f"**Score:** {row['Score']} | **Comments:** {row['NumberOfComments']}"
+                        f"\n{row['Text'][:200]}{'...' if len(row['Text']) > 200 else ''}"
+                        f"\n[Read More]({row['SubmissionURL']})"
+                    )
+        else:
+            st.write("Required columns not found in the DataFrame. Unable to apply filters.")
 
 # Sentiment Analysis
 st.subheader("Sentiment Analysis")
 
 # Basic Statistics
 st.subheader("Basic Statistics")
-st.write(df.drop(columns=['CreatedTime']).describe())  # Exclude 'CreatedTime' column
+st.write(df.drop(columns=["CreatedTime"]).describe())  # Exclude 'CreatedTime' column
 
 # Line graph of Reddit Sentiment Trend by topic
 st.subheader("Reddit Sentiment Trend by Topic Over Time")
-if 'SubmissionTitle' in df.columns:
-    grouped_df = df.groupby([df['CreatedTime'].dt.date, 'Sentiment_Category']).size().unstack(fill_value=0).reset_index()
+if "SubmissionTitle" in df.columns:
+    grouped_df = (
+        df.groupby([df["CreatedTime"].dt.date, "Sentiment_Category"])
+        .size()
+        .unstack(fill_value=0)
+        .reset_index()
+    )
     fig, ax = plt.subplots()
-    ax.plot(grouped_df['CreatedTime'], grouped_df['Negative'], label='Negative', color='red')
-    ax.plot(grouped_df['CreatedTime'], grouped_df['Positive'], label='Positive', color='green')
-    plt.xlabel('Date')
-    plt.ylabel('Number of Posts')
+    ax.plot(
+        grouped_df["CreatedTime"], grouped_df["Negative"], label="Negative", color="red"
+    )
+    ax.plot(
+        grouped_df["CreatedTime"],
+        grouped_df["Positive"],
+        label="Positive",
+        color="green",
+    )
+    plt.xlabel("Date")
+    plt.ylabel("Number of Posts")
     plt.xticks(rotation=45)
     plt.legend()
     st.pyplot(fig)
@@ -100,33 +169,35 @@ else:
 
 # Word Cloud
 st.subheader("Word Cloud for All Data")
-if 'Text' in df.columns:
+if "Text" in df.columns:
     df["Text"].fillna("", inplace=True)
-    text = ' '.join(df['Text'])
-    wordcloud = WordCloud(width=800, height=400, background_color ='white').generate(text)
+    text = " ".join(df["Text"])
+    wordcloud = WordCloud(width=800, height=400, background_color="white").generate(
+        text
+    )
     plt.figure(figsize=(10, 5))
-    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")
     st.pyplot()
 else:
     st.write("No 'Text' column found in the DataFrame.")
 
 # Group by subreddit name and calculate average sentiment polarity
-subreddit_sentiments = df.groupby('SubredditName')['Sentiment'].mean().reset_index()
+subreddit_sentiments = df.groupby("SubredditName")["Sentiment"].mean().reset_index()
 
 # Bar graph of average sentiment by subreddit
 st.subheader("Average Sentiment by Language Model")
 if not subreddit_sentiments.empty:
     fig, ax = plt.subplots()
-    ax.bar(subreddit_sentiments['SubredditName'], subreddit_sentiments['Sentiment'], color='blue')
-    plt.xlabel('Language Model')
-    plt.ylabel('Average Sentiment')
-    plt.title('Average Sentiment by Language Model')
+    ax.bar(
+        subreddit_sentiments["SubredditName"],
+        subreddit_sentiments["Sentiment"],
+        color="blue",
+    )
+    plt.xlabel("Language Model")
+    plt.ylabel("Average Sentiment")
+    plt.title("Average Sentiment by Language Model")
     plt.xticks(rotation=45, fontsize=6)
     st.pyplot(fig)
 else:
     st.write("No data available for average sentiment by language model.")
-
-# Close cursor and database connection
-#cursor.close()
-#mydb.close()
