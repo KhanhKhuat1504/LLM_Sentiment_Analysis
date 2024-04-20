@@ -4,14 +4,14 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from textblob import TextBlob
 
-# import mysql.connector
+# import mysql.connector  do this in secrets in streamlit settings
 
 # Connect to MySQL database
 # mydb = mysql.connector.connect(
-#    host="your_host",
-#    user="your_username",
-#    password="your_password",
-#    database="your_database"
+#    host="database-1.csopvl4k4p5e.us-east-1.rds.amazonaws.com",
+#    user="admin",
+#    password="llmtest123",
+#    database="LLMProject"
 # )
 
 # Create a cursor object to execute SQL queries
@@ -29,6 +29,11 @@ from textblob import TextBlob
 # else:
 #    st.write("No data available from the database.")
 
+
+#importing an image
+#image = Image.open('')
+
+#st.image(image, use_column_width=True)
 
 # Load data from CSV
 df = pd.read_csv("sentiment_reddit_data.csv")
