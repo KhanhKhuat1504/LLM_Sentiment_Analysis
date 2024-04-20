@@ -2,5 +2,5 @@ streamlit
 matplotlib
 wordcloud
 textblob
-mysql.connector
+mysql-connector-python
 PIL
