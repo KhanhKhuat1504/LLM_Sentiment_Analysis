@@ -2,5 +2,4 @@ streamlit
 matplotlib
 wordcloud
 textblob
-mysqlclient
-SQLAlchemy
+mysql-connector-python
