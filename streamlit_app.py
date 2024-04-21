@@ -1,46 +1,45 @@
+
 import streamlit as st
+from sqlalchemy import create_engine
 import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from textblob import TextBlob
 from PIL import Image
-import mysql.connector
-
-
 
 #DATABASE
 ######################################################################
 
-# Establish connection to MySQL database
-try:
-    mydb = mysql.connector.connect(
-        host="database-1.csopvl4k4p5e.us-east-1.rds.amazonaws.com",
-        port=3306,
-        database="LLMProject",
-        user="admin",
-        password="llmtest123"
-    )
-    st.success("Connected to MySQL database successfully!")
-except mysql.connector.Error as err:
-    st.error(f"Error connecting to MySQL database: {err}")
-    st.stop()
+# Retrieve database credentials from secrets.toml
+server = st.secrets["server"]
+database = st.secrets["database"]
+username = st.secrets["username"]
+password = st.secrets["password"]
 
-# Create a cursor object to execute SQL queries
-cursor = mydb.cursor()
+# Construct the connection string using pymysql dialect
+connection_string = f"mysql+pymysql://{username}:{password}@{server}/{database}"
 
-# Execute SQL query to fetch data from the database
-query = "SELECT * FROM LLMProject.reddit_hn"  # Replace 'your_table' with the actual table name
-try:
-    cursor.execute(query)
-except mysql.connector.Error as err:
-    st.error(f"Error executing SQL query: {err}")
-    st.stop()
+# Function to get database connection
+def get_connection():
+    return create_engine(connection_string)
 
-# Fetch all rows from the query result
-rows = cursor.fetchall()
+# Get database connection
+engine = get_connection()
 
-# Convert fetched data to a pandas DataFrame
-df = pd.DataFrame(rows, columns=[desc[0] for desc in cursor.description])
+# Function to load data from the database
+def load_data():
+    query = """
+        SELECT * FROM reddit_hn;
+    """
+    try:
+        df = pd.read_sql(query, engine)
+        return df
+    except Exception as e:
+        st.error(f"Error loading data from database: {e}")
+        return pd.DataFrame()
+
+# Load data from the database
+df = load_data()
 
 # Calculate sentiment polarity and categorize into negative, neutral, and positive
 if "Text" in df.columns:
@@ -189,15 +188,22 @@ st.subheader("Word Cloud for All Data")
 if "Text" in df.columns:
     df["Text"].fillna("", inplace=True)
     text = " ".join(df["Text"])
-    wordcloud = WordCloud(width=800, height=400, background_color="white").generate(
-        text
-    )
-    plt.figure(figsize=(10, 5))
-    plt.imshow(wordcloud, interpolation="bilinear")
-    plt.axis("off")
-    st.pyplot()
+    
+    # Generate the word cloud
+    wordcloud = WordCloud(width=800, height=400, background_color="white").generate(text)
+    
+    # Plot the word cloud
+    fig, ax = plt.subplots(figsize=(10, 5))
+    ax.imshow(wordcloud, interpolation="bilinear")
+    
+    # Hide the axes
+    ax.axis("off")
+    
+    # Display the plot in Streamlit
+    st.pyplot(fig)
 else:
     st.write("No 'Text' column found in the DataFrame.")
+
 
 # Group by topic name and calculate average sentiment polarity
 topic_sentiments = df.groupby("TopicName")["Sentiment"].mean().reset_index()
@@ -219,7 +225,5 @@ if not topic_sentiments.empty:
 else:
     st.write("No data available for average sentiment by topic.")
 
-
-# Close cursor and connection to MySQL database
-cursor.close()
-mydb.close()
+# Close the connection to the database
+engine.dispose()
