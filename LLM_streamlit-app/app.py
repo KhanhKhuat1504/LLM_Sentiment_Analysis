@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -60,6 +61,9 @@ def dashboard():
                 width: 100%;  /* Increase image width to 100% */
                 height: auto; /* Adjust height to maintain aspect ratio */
             }
+             div[data-testid="stMarkdownContainer"][class^="st-emotion-cache-"] p {
+            font-size: 18px; /* Increase the font size as desired */
+        }
         </style>
     """
     # Apply custom CSS styles using st.markdown
