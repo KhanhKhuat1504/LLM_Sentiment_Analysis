@@ -25,5 +25,4 @@ Thumbs.db
 # Ignore streamlit files
 *.streamlit
 *.txt
-*.png
 *.JPG
