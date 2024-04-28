@@ -1,0 +1,2446 @@
+[
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "Weird Teeth Give Away the Fakery In Microsoft's Latest AI Video Generator",
+        "description": "Researchers at Microsoft released a paper this week about VASA-1, a new AI tool that can generate a convincing video of someone speaking, using just a still image. Microsoft doesn’t have immediate plans to release the new tool to the public, but it’s pretty i…",
+        "url": "https://gizmodo.com/weird-teeth-fake-microsoft-vasa-1-ai-free-video-creator-1851420514",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/23a648a512c8a34b6b7296aab9d330b7.gif",
+        "publishedAt": "2024-04-19T12:00:00Z",
+        "content": "Researchers at Microsoft released a paper this week about VASA-1, a new AI tool that can generate a convincing video of someone speaking, using just a still image. Microsoft doesnt have immediate pla… [+3846 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Graeme Hanna",
+        "title": "Microsoft’s new VASA-1 AI model can turn photos into ‘talking faces’",
+        "description": "Microsoft has provided a glimpse of VASA-1, its new artificial intelligence (AI) model, which can turn still images into ‘talking… Continue reading Microsoft’s new VASA-1 AI model can turn photos into ‘talking faces’\nThe post Microsoft’s new VASA-1 AI model c…",
+        "url": "https://readwrite.com/microsofts-new-vasa-1-ai-model-can-turn-photos-into-talking-faces/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/Screenshot-2024-04-19-14.55.04.png",
+        "publishedAt": "2024-04-19T15:51:18Z",
+        "content": "Microsoft has provided a glimpse of VASA-1, its new artificial intelligence (AI) model, which can turn still images into ‘talking faces’ to great effect.\r\nThe end product is either very impressive or… [+2123 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "Microsoft's VASA-1 Can Deepfake a Person With One Photo and One Audio Track",
+        "description": "Microsoft Research Asia earlier this week unveiled VASA-1, an AI model that can create a synchronized animated video of a person talking or singing from a single photo and an existing audio track. ArsTechnica: In the future, it could power virtual avatars tha…",
+        "url": "https://slashdot.org/story/24/04/19/1931210/microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track",
+        "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+        "publishedAt": "2024-04-19T19:30:00Z",
+        "content": "In the future, it could power virtual avatars that render locally and don't require video feeds -- or allow anyone with similar tools to take a photo of a person found online and make them appear to … [+847 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Authority"
+        },
+        "author": "Rushil Agrawal",
+        "title": "Microsoft’s New AI Video tool could be the next Internet revolution — or nightmare",
+        "description": "Microsoft's new AI system, VASA-1, can generate realistic life-like human videos from just a single image and an audio clip.",
+        "url": "https://www.androidauthority.com/microsoft-vasa-video-3435466/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2019/08/Deepfake-AI-facial-recognition.jpg",
+        "publishedAt": "2024-04-18T18:18:51Z",
+        "content": "<ul><li>Microsoft has developed a new AI tool called VASA-1 that can generate videos from a single image and audio clip.</li><li>This technology has incredible potential for positive uses but also ca… [+2494 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "XDA Developers"
+        },
+        "author": "Rahul Naskar",
+        "title": "Microsoft's new AI tech shows we aren't far from webcam-free video conferencing",
+        "description": "It can generate a talking face video with a portrait photo and speech audio.",
+        "url": "https://www.xda-developers.com/microsofts-webcam-free-video-conferencing/",
+        "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/teams-avatars.png",
+        "publishedAt": "2024-04-18T09:29:35Z",
+        "content": "Key Takeaways\r\n<ul><li> Microsoft has introduced VASA, an AI-driven framework to generate lifelike talking faces from images and audio. </li><li> VASA-1 delivers 512x512 videos at 40fps with realisti… [+2285 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PetaPixel"
+        },
+        "author": "Matt Growcoot",
+        "title": "Microsoft’s VASA-1 AI Can Make Any Person’s Image Move and Speak",
+        "description": "Microsoft unveiled a new lip-syncing AI tool that transforms a still image of a person's face into an animated clip of them talking or singing.\n[Read More]",
+        "url": "https://petapixel.com/2024/04/19/microsofts-vasa-1-ai-can-make-any-persons-image-move-and-speak/",
+        "urlToImage": "https://petapixel.com/assets/uploads/2024/04/Mona-Lisa.jpg",
+        "publishedAt": "2024-04-19T16:54:14Z",
+        "content": "Still images begin to talk and sing thanks to Microsoft’s VASA program.\r\nMicrosoft unveiled a new lip-syncing AI tool that transforms a still image of a person’s face into an animated clip of them ta… [+2104 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Creative Bloq"
+        },
+        "author": "Daniel John",
+        "title": "Microsoft's new AI tool is a deepfake nightmare machine",
+        "description": "VASA-1 can create videos from a single image.",
+        "url": "https://www.creativebloq.com/news/microsoft-ai",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/L5J453DxYskGkpNoWN6bAD-1200-80.jpg",
+        "publishedAt": "2024-04-18T10:55:03Z",
+        "content": "It almost seems quaint to remember when all AI could do was generate images from a text prompt. Over the last couple of years generative AI has become more and more powerful, making the jump from pho… [+2234 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Matt Novak / Gizmodo",
+        "title": "Microsoft has a new AI video generator and there's a way to tell it's all fake",
+        "description": "Researchers at Microsoft released a paper this week about VASA-1, a new AI tool that can generate a convincing video of someone speaking, using just a still image. Microsoft doesn’t have immediate plans to release the new tool to the public, but it’s pretty i…",
+        "url": "https://qz.com/microsoft-ai-video-generator-vasa1-teeth-fake-1851422461",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/23a648a512c8a34b6b7296aab9d330b7.gif",
+        "publishedAt": "2024-04-19T16:00:16Z",
+        "content": "Researchers at Microsoft released a paper this week about VASA-1, a new AI tool that can generate a convincing video of someone speaking, using just a still image. Microsoft doesnt have immediate pla… [+3905 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New Atlas"
+        },
+        "author": "Paul Ridden",
+        "title": "Microsoft AI creates scary real talkie videos from a single photo",
+        "description": "Microsoft Research Asia has revealed an AI model that can generate frighteningly realistic deepfake videos from a single still image and an audio track. How will we be able to trust what we see and hear online from here on in?Continue ReadingCategory: Technol…",
+        "url": "https://newatlas.com/technology/microsoft-vasa1-ai-video-audio-photo/",
+        "urlToImage": "https://assets.newatlas.com/dims4/default/382a53d/2147483647/strip/true/crop/2637x1384+0+186/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F69%2Fe8%2F3a7b49ae458f84219ead32c80638%2F01.jpg&na.image_optimisation=0",
+        "publishedAt": "2024-04-19T18:10:51Z",
+        "content": "Microsoft Research Asia has revealed an AI model that can generate frighteningly realistic deepfake videos from a single still image and an audio track. How will we be able to trust what we see and h… [+3452 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Thurrott.com"
+        },
+        "author": "Laurent Giret",
+        "title": "Microsoft’s VASA-1 AI Tool Can Create “Talking Faces” From Photos",
+        "description": "Microsoft’s Research arm has created a new VASA-1 AI model that can create realistic-looking “talking faces” using just a picture and a voice clip.\nThe post Microsoft’s VASA-1 AI Tool Can Create “Talking Faces” From Photos appeared first on Thurrott.com.",
+        "url": "https://www.thurrott.com/a-i/301048/microsofts-vasa-1-ai-tool-can-create-talking-faces-from-photos",
+        "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/04/Microsoft-VASA-1-Talking-faces.jpg",
+        "publishedAt": "2024-04-19T14:26:49Z",
+        "content": "Microsofts Research arm has just detailed its ongoing work on VASA-1, a new AI framework that can create realistic-looking talking faces using just a picture and a voice clip. The AI tool can also sy… [+2305 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TechSpot"
+        },
+        "author": "Cal Jeffrey",
+        "title": "Microsoft VASA tech can create realistic deepfakes using a single photo and one audio track",
+        "description": "The Visual Affective Skills Animator, or VASA, is a machine-learning framework that analyzes a facial photo and then animates it to a voice, syncing the lips and mouth movements to the audio. It also simulates facial expressions, head movements, and even unse…",
+        "url": "https://www.techspot.com/news/102686-microsoft-vasa-technology-can-sync-any-face-audio.html",
+        "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/04/2024-04-19-image-23.jpg",
+        "publishedAt": "2024-04-19T21:29:00Z",
+        "content": "Through the looking glass: Microsoft Research Asia has released a white paper on a generative AI application it is developing. The program is called VASA-1, and it can create very realistic videos fr… [+2910 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "International Business Times"
+        },
+        "author": "Glenn CHAPMAN",
+        "title": "Microsoft Teases Lifelike Avatar AI Tech But Gives No Release Date",
+        "description": "Researchers at Microsoft have revealed a new artificial tool that can create deeply realistic human avatars -- but offered no timetable to make it available to the public, citing concerns about facilitating deep fake content.",
+        "url": "https://www.ibtimes.com/microsoft-teases-lifelike-avatar-ai-tech-gives-no-release-date-3730144",
+        "urlToImage": "https://d.ibtimes.com/en/full/4522696/microsoft-researchers-say-ai-model-they-have-developed-lets-avatars-engage-realistic-seeming.jpg",
+        "publishedAt": "2024-04-19T20:36:05Z",
+        "content": "Researchers at Microsoft have revealed a new artificial tool that can create deeply realistic human avatars -- but offered no timetable to make it available to the public, citing concerns about facil… [+2574 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "The Canadian Press",
+        "title": "Brandon Miller's big first half helps Hornets snap Magic's 3-game win streak, 124-115",
+        "description": "CHARLOTTE, N.C. (AP) — Brandon Miller made his first 10 shots from the field and finished with 32 points as the Charlotte Hornets snapped the Orlando Magic’s three-game win streak with a 124-115 victory on Friday night. Miles Bridges added 23 points and Grant…",
+        "url": "https://ca.sports.yahoo.com/news/brandon-millers-big-first-half-014434759.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cHluozCHlpr3ex3aTk_SeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cp.org/2675ec3b43f9489e05a4977b73b57d54",
+        "publishedAt": "2024-04-06T02:15:38Z",
+        "content": "CHARLOTTE, N.C. (AP) Brandon Miller made his first 10 shots from the field and finished with 32 points as the Charlotte Hornets snapped the Orlando Magics three-game win streak with a 124-115 victory… [+1733 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Plos.org"
+        },
+        "author": "Marie Clémot, Cecilia D’Alterio, Alexa C. Kwang, D. Leanne Jones",
+        "title": "mTORC1 is required for differentiation of germline stem cells in the Drosophila melanogaster testis",
+        "description": "Metabolism participates in the control of stem cell function and subsequent maintenance of tissue homeostasis. How this is achieved in the context of adult stem cell niches in coordination with other local and intrinsic signaling cues is not completely unders…",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300337",
+        "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0300337.g004&size=inline",
+        "publishedAt": "2024-03-21T14:00:00Z",
+        "content": "Citation: Clémot M, DAlterio C, Kwang AC, Jones DL (2024) mTORC1 is required for differentiation of germline stem cells in the Drosophila melanogaster testis. PLoS ONE 19(3):\r\n e0300337.\r\nhttps://doi… [+61209 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Microsoft’s new VASA-1 AI framework generates super-realistic talking heads that can even sing songs",
+        "description": "Microsoft Corp. has published a research paper that introduces a new kind of artificial intelligence framework that makes it possible to upload a still photo, add a voice sample, and create a super-realistic talking head that looks and sounds like the real pe…",
+        "url": "https://siliconangle.com/2024/04/18/microsofts-new-vasa-1-ai-framework-generates-super-realistic-talking-heads-can-even-sing-songs/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/04/teaser.jpg",
+        "publishedAt": "2024-04-19T01:44:23Z",
+        "content": "Microsoft Corp. has published a research paper that introduces a new kind of artificial intelligence framework that makes it possible to upload a still photo, add a voice sample, and create a super-r… [+4374 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TweakTown"
+        },
+        "author": "Darren Allan",
+        "title": "Meet Microsoft's VASA-1: AI can now take a photo and turn it into a 'talking head' video clip",
+        "description": "Is this one of the scariest uses of AI we've seen? Frankly, yes, as the results are frighteningly good - and the potential for misuse equally so. Continue reading at TweakTown >",
+        "url": "https://www.tweaktown.com/news/97688/meet-microsofts-vasa-1-ai-can-now-take-photo-and-turn-it-into-talking-head-video-clip/index.html",
+        "urlToImage": "https://static.tweaktown.com/news/9/7/97688_01_meet-microsofts-vasa-1-ai-can-now-take-photo-and-turn-it-into-talking-head-video-clip_full.jpg",
+        "publishedAt": "2024-04-18T19:30:03Z",
+        "content": "A fresh jaw-dropping initiative for AI, this one from Microsoft, runs like this - give AI a photo of someone, and an audio clip of their voice, and it'll mock up a video clip of that person chatting … [+2642 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tech Xplore"
+        },
+        "author": "Bob Yirka",
+        "title": "Microsoft's AI app VASA-1 makes photographs talk and sing with believable facial expressions",
+        "description": "A team of AI researchers at Microsoft Research Asia has developed an AI application that converts a still image of a person and an audio track into an animation that accurately portrays the individual speaking or singing the audio track with appropriate facia…",
+        "url": "https://techxplore.com/news/2024-04-microsoft-ai-app-vasa-believable.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/microsofts-ai-app-vasa.jpg",
+        "publishedAt": "2024-04-19T13:54:01Z",
+        "content": "This article has been reviewed according to Science X's \r\n editorial process\r\n and policies.\r\n Editors have highlighted\r\n the following attributes while ensuring the content's credibility:\r\nfact-chec… [+2086 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "entrepreneur.com",
+        "title": "Microsoft's New AI Vasa App Makes Photos Talk and Sing",
+        "description": "The VASA-1 AI model was not trained on the Mona Lisa but could animate it anyway. Microsoft published a research paper this week highlighting a new AI model called VASA-1 that can transform a single picture and audio clip of a person into a realistic video of…",
+        "url": "https://biztoc.com/x/b233802d32d3716b",
+        "urlToImage": "https://c.biztoc.com/p/b233802d32d3716b/s.webp",
+        "publishedAt": "2024-04-19T21:32:05Z",
+        "content": "The VASA-1 AI model was not trained on the Mona Lisa but could animate it anyway.Microsoft published a research paper this week highlighting a new AI model called VASA-1 that can transform a single p… [+261 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Benj Edwards",
+        "title": "Microsoft’s VASA-1 can deepfake a person with one photo and one audio track",
+        "description": "YouTube videos of 6K celebrities helped train AI model to animate photos in real time.",
+        "url": "https://arstechnica.com/information-technology/2024/04/microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/teaser-760x380.jpg",
+        "publishedAt": "2024-04-19T13:07:06Z",
+        "content": "Enlarge/ A sample image from Microsoft for \"VASA-1: Lifelike Audio-Driven Talking Faces\r\nGenerated in Real Time.\"\r\n39\r\nOn Tuesday, Microsoft Research Asia unveiled VASA-1, an AI model that can create… [+5018 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Plos.org"
+        },
+        "author": "Suhan Ma, Xuyang Ni, Shimin Chen, Xiaomu Qiao, Xuejiao Xu, Weizhe Chen, Jackson Champer, Jia Huang",
+        "title": "A small-molecule approach to restore female sterility phenotype targeted by a homing suppression gene drive in the fruit pest Drosophila suzukii",
+        "description": "Author summary In the quest to control disease-transmitting vectors and agricultural pests, the revolutionary CRISPR-based gene drive emerges as a powerful tool. This genetic engineering innovation manipulates the inheritance of specific genes, ensuring their…",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011226",
+        "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011226.g004&size=inline",
+        "publishedAt": "2024-04-05T14:00:00Z",
+        "content": "Abstract\r\nCRISPR-based gene drives offer promising prospects for controlling disease-transmitting vectors and agricultural pests. A significant challenge for successful suppression-type drive is the … [+50972 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Minneapolis Star Tribune"
+        },
+        "author": "STEVE REED",
+        "title": "Scoot Henderson outduels Branon Miller as Trail Blazers beat Hornets 89-86 to snap 10-game skid",
+        "description": "Scoot Henderson had 22 points and 10 assists and the Portland Trail Blazers beat Brandon Miller and the Charlotte Hornets 89-86 on Wednesday night in a matchup of two of the league's top three draft picks.",
+        "url": "https://www.startribune.com/scoot-henderson-outduels-branon-miller-as-trail-blazers-beat-hornets-89-86-to-snap-10-game-skid/600356200/",
+        "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1711485830",
+        "publishedAt": "2024-04-04T01:39:04Z",
+        "content": "CHARLOTTE, N.C. Scoot Henderson had 22 points and 10 assists and the Portland Trail Blazers beat Brandon Miller and the Charlotte Hornets 89-86 on Wednesday night in a matchup of two of the league's … [+2059 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gadgets360.com"
+        },
+        "author": "Akash Dutta, Siddharth Suvarna",
+        "title": "Microsoft Unveils VASA-1, an Image-to-Video AI Model That Generates Eerily Realistic Results",
+        "description": "Microsoft has introduced a new artificial intelligence (AI) model that can generate hyperrealistic videos of talking human faces. Dubbed VASA-1, the AI image-to-video model can generate videos from just one photo and a speech audio clip. The company says the …",
+        "url": "https://www.gadgets360.com/ai/news/microsoft-vasa-1-ai-video-model-introduced-hyperrealistic-results-5468035",
+        "urlToImage": "https://i.gadgets360cdn.com/large/microsoft_vasa_1713427041332.jpg",
+        "publishedAt": "2024-04-18T08:36:39Z",
+        "content": "Microsoft has introduced a new artificial intelligence (AI) model that can generate hyper-realistic videos of talking human faces. Dubbed VASA-1, the AI image-to-video model can generate videos from … [+2698 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Plos.org"
+        },
+        "author": "Jiani Chen, Chaoqun Li, Yifeng Sheng, Junwei Zhang, Lan Pang, Zhi Dong, Zhiwei Wu, Yueqi Lu, Zhiguo Liu, Qichao Zhang, Xueying Guan, Xuexin Chen, Jianhua Huang",
+        "title": "Communication between the stem cell niche and an adjacent differentiation niche through miRNA and EGFR signaling orchestrates exit from the stem cell state in the Drosophila ovary",
+        "description": "There is increasing interest on how the local microenvironment influences stem cell proliferation and differentiation. In this study, the authors examine inter-niche signaling in the Drosophila ovary, revealing a mechanism involving miR124 and EGFR that regul…",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002515",
+        "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002515.g006&size=inline",
+        "publishedAt": "2024-03-21T14:00:00Z",
+        "content": "Abstract\r\nThe signaling environment, or niche, often governs the initial difference in behavior of an adult stem cell and a derivative that initiates a path towards differentiation. The transition be… [+104071 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Minneapolis Star Tribune"
+        },
+        "author": "CHARLES ODUM",
+        "title": "Hot-shooting Murray's 28 points power Hawks past Bridges, Hornets 132-91",
+        "description": "Dejounte Murray made a season-high seven 3-pointers while scoring 28 points and the Atlanta Hawks beat the Charlotte Hornets 132-91 on Saturday night to strengthen their hold on the final spot in the Eastern Conference play-in tournament.",
+        "url": "https://www.startribune.com/hot-shooting-murrays-28-points-power-hawks-past-bridges-hornets-132-91/600353625/",
+        "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1710437827",
+        "publishedAt": "2024-03-24T01:51:01Z",
+        "content": "ATLANTA Dejounte Murray made a season-high seven 3-pointers while scoring 28 points and the Atlanta Hawks beat the Charlotte Hornets 132-91 on Saturday night to strengthen their hold on the final spo… [+1998 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Minneapolis Star Tribune"
+        },
+        "author": "STEVE REED",
+        "title": "Brandon Miller scores 31 points on seven 3s as Hornets beat Cavaliers 118-111",
+        "description": "Rookie Brandon Miller made seven 3-pointers and finished with 31 points, and the Charlotte Hornets beat the Cleveland Cavaliers 118-111 on Wednesday night to avenge a 23-point loss earlier in the week.",
+        "url": "https://www.startribune.com/brandon-miller-scores-31-points-on-seven-3s-as-hornets-beat-cavaliers-118-111/600354559/",
+        "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1711485830",
+        "publishedAt": "2024-03-28T01:39:08Z",
+        "content": "CHARLOTTE, N.C. Rookie Brandon Miller made seven 3-pointers and finished with 31 points, and the Charlotte Hornets beat the Cleveland Cavaliers 118-111 on Wednesday night to avenge a 23-point loss ea… [+1795 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Minneapolis Star Tribune"
+        },
+        "author": "STEVE REED",
+        "title": "Josh Giddey has 11th career triple-double, Thunder hold off Hornets 121-118 to snap 3-game skid",
+        "description": "Josh Giddey had 20 points, 13 assists and 13 rebounds for his 11th career triple-double, Isaiah Joe had two key 3-pointers in the final 1:30 and the Oklahoma City Thunder beat the Charlotte Hornets 121-118 on Sunday night to snap a three-game losing streak.",
+        "url": "https://www.startribune.com/josh-giddey-has-11th-career-triple-double-thunder-hold-off-hornets-121-118-to-snap-3-game-skid/600357099/",
+        "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1711485830",
+        "publishedAt": "2024-04-08T00:45:05Z",
+        "content": "CHARLOTTE, N.C. Josh Giddey had 20 points, 13 assists and 13 rebounds for his 11th career triple-double, Isaiah Joe had two key 3-pointers in the final 1:30 and the Oklahoma City Thunder beat the Cha… [+2259 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Digital Journal"
+        },
+        "author": "AFP",
+        "title": "Microsoft teases lifelike avatar AI tech but gives no release date",
+        "description": "Researchers at Microsoft have revealed a new artificial tool that can create deeply realistic human avatars — but offered no timetable to make it available to the public, citing concerns about facilitating deep fake content. The AI model known as VASA-1, for …",
+        "url": "https://www.digitaljournal.com/world/microsoft-teases-lifelike-avatar-ai-tech-but-gives-no-release-date/article",
+        "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/04/970e11af8cc930e1bb9a59d4aad44192e3a8de0d.jpg",
+        "publishedAt": "2024-04-19T20:35:01Z",
+        "content": "Microsoft researchers say an AI model they have developed lets avatars engage in realistic seeming conversations complete with nuanced facial expressions - Copyright AFP/File Pau BARRENA\r\nResearchers… [+2762 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "tomsguide.com",
+        "title": "Microsoft researchers introduce VASA-1, an AI model that creates a realistic talking face video from a portrait photo and an audio file, in research preview",
+        "description": "A new AI research paper from Microsoft promises a future where you can upload a photo, a sample of your voice and create a live, animated talking head of your own face. VASA-1 takes in a single portrait photo and an audio file and converts it into a hyper rea…",
+        "url": "https://biztoc.com/x/ef33607e397efcd2",
+        "urlToImage": "https://c.biztoc.com/p/ef33607e397efcd2/s.webp",
+        "publishedAt": "2024-04-19T01:00:07Z",
+        "content": "A new AI research paper from Microsoft promises a future where you can upload a photo, a sample of your voice and create a live, animated talking head of your own face.VASA-1 takes in a single portra… [+298 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Neowin"
+        },
+        "author": "Martin Hodás",
+        "title": "Microsoft's new AI creates super-realistic talking-head deepfakes, and it made Mona Lisa rap",
+        "description": "A new AI model by Microsoft Research Asia, VASA-1, can create incredibly realistic deepfakes based only on a single photograph and one voice sample. The model easily beats anything available today. Read more...",
+        "url": "https://www.neowin.net/news/microsofts-new-ai-creates-super-realistic-talking-head-deepfakes-and-it-made-mona-lisa-rap/",
+        "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/04/1713444497_ms_vasa-1_ico_story.jpg",
+        "publishedAt": "2024-04-18T13:08:01Z",
+        "content": "Microsoft Research Asia released a new paper introducing VASA, a framework for generating lifelike talking faces. The researchers presented their model, dubbed VASA-1, that can generate realistic vid… [+3141 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Plos.org"
+        },
+        "author": "Shuangshuang Qi, Shengfei Dai, Xin Zhou, Xueyan Wei, Ping Chen, Yuanyuan He, Thomas D. Kocher, Deshou Wang, Minghui Li",
+        "title": "Dmrt1 is the only male pathway gene tested indispensable for sex determination and functional testis development in tilapia",
+        "description": "Author summary In vertebrates, the antagonistic effect between male and female pathway genes determines the development of gonads towards ovaries or testes and maintains the final gonadal phenotype. Using tilapia as animal model, we found that the dmrt1 mutan…",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011210",
+        "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011210.g007&size=inline",
+        "publishedAt": "2024-03-27T14:00:00Z",
+        "content": "Citation: Qi S, Dai S, Zhou X, Wei X, Chen P, He Y, et al. (2024) Dmrt1 is the only male pathway gene tested indispensable for sex determination and functional testis development in tilapia. PLoS Gen… [+88614 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Plos.org"
+        },
+        "author": "Riccardo Pianezza, Almorò Scarpa, Prakash Narayanan, Sarah Signor, Robert Kofler",
+        "title": "Spoink, a LTR retrotransposon, invaded D. melanogaster populations in the 1990s",
+        "description": "Author summary Horizontal transfer of transposable elements (TE) is a major factor driving genome evolution. Yet well documented cases of such horizontal transfer events are rare. Most evidence is indirect, relying on sequence similarity of TEs between specie…",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011201",
+        "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011201.g005&size=inline",
+        "publishedAt": "2024-03-26T14:00:00Z",
+        "content": "Citation: Pianezza R, Scarpa A, Narayanan P, Signor S, Kofler R (2024) Spoink, a LTR retrotransposon, invaded D. melanogaster populations in the 1990s. PLoS Genet 20(3):\r\n e1011201.\r\nhttps://doi.org/… [+53918 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MSPoweruser"
+        },
+        "author": "Devesh Beri",
+        "title": "Microsoft’s new VASA-1 makes realistic talking faces from images and speech",
+        "description": "Microsoft researchers have developed a new VASA system that can create lifelike talking faces from a single image and an audio clip. VASA-1, the first model built with this framework, can produce facial expressions, precisely synchronized lip movements, and n…",
+        "url": "https://mspoweruser.com/microsofts-new-vasa-1-makes-realistic-talking-faces-from-images-and-speech/",
+        "urlToImage": "https://mspoweruser.com/wp-content/uploads/2024/04/teaser-scaled.jpg",
+        "publishedAt": "2024-04-18T02:46:07Z",
+        "content": "Microsoft researchers have developed a new VASA system that can create lifelike talking faces from a single image and an audio clip. VASA-1, the first model built with this framework, can produce fac… [+1888 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fark.com"
+        },
+        "author": null,
+        "title": "Southwest Airlines flight being investigated for high speed pass over air control tower. Penny Benjamin also sought for questioning [Scary]",
+        "description": "Southwest Airlines flight being investigated for high speed pass over air control tower. Penny Benjamin also sought for questioning",
+        "url": "https://www.fark.com/comments/13210140/Southwest-Airlines-flight-being-investigated-for-high-speed-pass-over-air-control-tower-Penny-Benjamin-also-sought-for-questioning",
+        "urlToImage": "https://usrimg-850.fark.net/U/UG/fark_UGsnBufUqQt0TkwgsLXIb63UST0.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1712548800&Signature=NVpXcm8BtB7FqLMVKq18p3JMhQI%3D",
+        "publishedAt": "2024-04-04T18:46:03Z",
+        "content": "Warthog:[YouTube video: NEAR COLLISION with Control Tower! | Plane Deviates from Landing Path]\r\nHere's the VASA aviation breakdown, with maps and audio.  There's some f*cky stuff that went on here.  … [+231 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Robert Hof",
+        "title": "AI model creators play an endless game of leapfrog as the rest of us worry what’s next",
+        "description": "The game of large language model leapfrog looks to be speeding up, if that’s even possible, as Meta Platforms, Elon Musk’s xAI, Microsoft, Stability AI and of course OpenAI all weighed in this week with new models of various kinds. It’s perhaps no coincidence…",
+        "url": "https://siliconangle.com/2024/04/19/ai-model-creators-play-endless-game-leapfrog-rest-us-worry-whats-next/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/04/aileapfrog.jpeg",
+        "publishedAt": "2024-04-19T17:07:40Z",
+        "content": "The game of large language model leapfrog looks to be speeding up, if that’s even possible, as Meta Platforms, Elon Musk’s xAI, Microsoft, Stability AI and of course OpenAI all weighed in this week w… [+9563 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Plos.org"
+        },
+        "author": "Pingjuan Bai, Xueping Xiang, Jiawen Kang, Xiaoqing Xiang, Jingwen Jiang, Xiaohua Fu, Yong Zhang, Lesai Li",
+        "title": "DFMG decreases angiogenesis to uphold plaque stability by inhibiting the TLR4/VEGF pathway in mice",
+        "description": "The aim of this study was to elucidate the specific mechanism through which 7-difluoromethoxy-5,4’-dimethoxygenistein (DFMG) inhibits angiogenesis in atherosclerosis (AS) plaques, given its previously observed but poorly understood inhibitory effects. In vitr…",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302387",
+        "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0302387.g005&size=inline",
+        "publishedAt": "2024-04-18T14:00:00Z",
+        "content": "Abstract\r\nThe aim of this study was to elucidate the specific mechanism through which 7-difluoromethoxy-5,4-dimethoxygenistein (DFMG) inhibits angiogenesis in atherosclerosis (AS) plaques, given its … [+51707 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Thewindowsclub.com"
+        },
+        "author": "Guru@TWCN",
+        "title": "Microsoft VASA-1 AI can make a single image sing or talk",
+        "description": "AI and its models are evolving fast. From generating images, videos, and audio to making audio and video clips from a single image, there has been a tremendous improvement. Microsoft Research has announced has introduced VASA-1, an AI model that can make an i…",
+        "url": "https://news.thewindowsclub.com/microsoft-vasa-1-ai-can-make-a-single-image-sing-or-talk-108621/",
+        "urlToImage": "https://news.thewindowsclub.com/wp-content/uploads/2024/04/vasa-1.jpg",
+        "publishedAt": "2024-04-19T16:33:09Z",
+        "content": "AI and its models are evolving fast. From generating images, videos, and audio to making audio and video clips from a single image, there has been a tremendous improvement. Microsoft Research has ann… [+2072 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Minneapolis Star Tribune"
+        },
+        "author": "STEVE REED",
+        "title": "Brandon Miller's big first half helps Hornets snap Magic's 3-game win streak 124-115",
+        "description": "Brandon Miller made his first 10 shots from the field and finished with 30 points as the Charlotte Hornets snapped the Orlando Magic's three-game win streak with a 124-115 victory on Friday night.",
+        "url": "https://www.startribune.com/brandon-millers-big-first-half-helps-hornets-snap-magics-3-game-win-streak-124-115/600356789/",
+        "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1711485830",
+        "publishedAt": "2024-04-06T01:44:00Z",
+        "content": "CHARLOTTE, N.C. Brandon Miller made his first 10 shots from the field and finished with 30 points as the Charlotte Hornets snapped the Orlando Magic's three-game win streak with a 124-115 victory on … [+1695 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Freerepublic.com"
+        },
+        "author": "Freethink",
+        "title": "OpenAI and Microsoft are reportedly planning a $100B supercomputer",
+        "description": "Microsoft and OpenAI are reportedly planning to build a $100 billion data center and supercomputer that could lead to the creation of AIs far more capable than anything possible today.Power hungry: Soon after investing its first $1 billion into OpenAI in 2019…",
+        "url": "https://freerepublic.com/focus/f-chat/4232250/posts",
+        "urlToImage": null,
+        "publishedAt": "2024-04-19T13:21:43Z",
+        "content": "Skip to comments.\r\nOpenAI and Microsoft are reportedly planning a $100B supercomputerFreethink ^\r\n | 11 April 2024\r\n | Kristin Houser\r\nPosted on 04/19/2024 6:21:43 AM PDT by ShadowAce\r\nMicrosoft and … [+5110 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "feedfeeder",
+        "title": "Microsoft's VASA-1 can deepfake a person with one photo and one audio track - Ars Technica",
+        "description": "Microsoft's VASA-1 can deepfake a person with one photo and one audio trackArs Technica Weird Teeth Give Away the Fakery In Microsoft's Latest AI Video GeneratorGizmodo Ever wondered what Mona Lisa would look like rapping? Microsoft launches VASA-1 AI bot tha…",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=173582016",
+        "urlToImage": null,
+        "publishedAt": "2024-04-19T15:13:40Z",
+        "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "feedfeeder",
+        "title": "Weird Teeth Give Away the Fakery In Microsoft's Latest AI Video Generator - Gizmodo",
+        "description": "Weird Teeth Give Away the Fakery In Microsoft's Latest AI Video GeneratorGizmodo Microsoft's new AI tool is a deepfake nightmare machineCreative Bloq Cool or creepy? Microsoft's VASA-1 is a new AI model that turns photos into 'talking faces'Tom's Guide Ever w…",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=173581162",
+        "urlToImage": null,
+        "publishedAt": "2024-04-19T13:55:08Z",
+        "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "feedfeeder",
+        "title": "Microsoft’s VASA-1 can deepfake a person with one photo and one audio track",
+        "description": "YouTube videos of 6K celebrities helped train AI model to animate photos in real time.",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=173581292",
+        "urlToImage": null,
+        "publishedAt": "2024-04-19T14:15:22Z",
+        "content": "Our OS who art in CPU, UNIX be thy name.\r\nThy programs run, thy syscalls done,\r\nIn kernel as it is in user!"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hot Hardware"
+        },
+        "author": "Tim Sweezy",
+        "title": "Watch Microsoft’s VASA-1 AI Make The Mona Lisa Sing Like A Rap Star In Wild Demo",
+        "description": "Microsoft is showing off its AI chops with a new demo of its VASA-1, making Mona Lisa spit out rhymes like a rap star. The new framework is used for generating lifelike talking faces of virtual characters with visual affective skills (VAS).\n\nThe fear of AI be…",
+        "url": "https://hothardware.com/news/microsoft-vasa-1-mona-lisa",
+        "urlToImage": "https://images.hothardware.com/contentimages/newsitem/64388/content/hero-microsoft-vasa-1-mona-lisa.jpg",
+        "publishedAt": "2024-04-19T14:08:00Z",
+        "content": "Microsoft is showing off its AI chops with a new demo of its VASA-1, making Mona Lisa spit out rhymes like a rap star. The new framework is used for generating lifelike talking faces of virtual chara… [+2155 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gosummarize.com"
+        },
+        "author": "Go Sumamrizer",
+        "title": "Devin AI-first AI software engineer is a big lie?",
+        "description": "The video exposes the deception surrounding AI software engineer Devin, highlighting the importance of transparency and truthfulness in marketing AI products. It discusses the risks of misinformation, the impact on trust in AI, and the need for clear communic…",
+        "url": "https://gosummarize.com/youtube/@internetofbugs/debunking-devin-first-ai-software-engineer-upwork-lie-exposed",
+        "urlToImage": "https://gosummarize.com/favicon.ico",
+        "publishedAt": "2024-04-13T06:17:42Z",
+        "content": "Short SummaryThe video exposes the deception surrounding AI software engineer Devin, highlighting the importance of transparency and truthfulness in marketing AI products. It discusses the risks of m… [+486 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Github.com"
+        },
+        "author": "OpenDevin",
+        "title": "OpenDevin – open-source implementation of devin",
+        "description": " OpenDevin: Code Less, Make More. Contribute to OpenDevin/OpenDevin development by creating an account on GitHub.",
+        "url": "https://github.com/OpenDevin/OpenDevin",
+        "urlToImage": "https://opengraph.githubassets.com/1d3afbc434390fdbea1eab4b4a985b606856431968f0a3320e55c84c24779da9/OpenDevin/OpenDevin",
+        "publishedAt": "2024-03-23T23:01:48Z",
+        "content": "Welcome to OpenDevin, an open-source project aiming to replicate Devin, an autonomous AI software engineer who is capable of executing complex engineering tasks and collaborating actively with users … [+3676 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Digital Trends"
+        },
+        "author": "Arif Bacchus",
+        "title": "Here’s proof that Snapdragon X Elite laptops can play hit games without issue",
+        "description": "Qualcomm has showcased Baldur’s Gate 3 running at perfectly playable frame rates on a reference Snapdragon X Elite laptop",
+        "url": "https://www.digitaltrends.com/computing/snapdragon-x-elite-laptop-baulders-gate-3/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/10/Snapdragon-X-Elite_Lifestyle.webp?resize=1200%2C630&p=1",
+        "publishedAt": "2024-03-27T16:25:00Z",
+        "content": "Fionna Agomuoh / Digital Trends\r\nWindows laptops with Qualcomm’s ARM-based Snapdragon X Elite chip are set to come this summer, but we’re already getting a preview of how good the devices will be for… [+2311 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Oreilly.com"
+        },
+        "author": "Mike Loukides",
+        "title": "Radar Trends to Watch: April 2024",
+        "description": "There are lots of new models, including one from Apple, but that’s hardly news. AI news is infiltrating other sections of Trends (particularly Programming and Security)—but that’s also hardly news. NVidia CEO Jensen Huang has said that AI will replace coding—…",
+        "url": "https://www.oreilly.com/radar/radar-trends-to-watch-april-2024/",
+        "urlToImage": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2023/06/radar-1400x950-6.png",
+        "publishedAt": "2024-04-02T10:16:22Z",
+        "content": "There are lots of new models, including one from Apple, but thats hardly news. AI news is infiltrating other sections of Trends (particularly Programming and Security)but thats also hardly news. NVid… [+12829 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Interconnected.org"
+        },
+        "author": null,
+        "title": "Who will build new search engines for new personal AI agents?",
+        "description": "Posted on Wednesday 20 Mar 2024. 2,867 words, 12 links. By Matt Webb.",
+        "url": "https://interconnected.org/home/2024/03/20/agents",
+        "urlToImage": "https://interconnected.org/home/2024/03/20/agents.png?v=1",
+        "publishedAt": "2024-03-21T03:15:50Z",
+        "content": "Short version:\r\n<ul><li>Were going to end up running personal AI agents to do tasks for us.</li><li>The actual issue here is how exactly to make them personalised. Ultimately this is where new search… [+15932 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Authority"
+        },
+        "author": "Calvin Wankhede",
+        "title": "AI apocalypse: Why and how Silicon Valley has become terrified of its own creation",
+        "description": "Silicon Valley increasingly believe that we're on track to build an AI that can harm humans and potentially render us extinct. Here's why.",
+        "url": "https://www.androidauthority.com/ai-apocalypse-3432135/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/11/Google-Pixel-Watch-Google-Assistant-scaled.jpg",
+        "publishedAt": "2024-04-08T19:35:49Z",
+        "content": "Thanks to ChatGPT and its many rivals, artificial intelligence has gone from being a phrase that once evoked boundless enthusiasm to one that now sparks a sense of dread. Its not hard to see why the … [+5844 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNET"
+        },
+        "author": "Lisa Lacy",
+        "title": "AI Can't Do All Our Jobs for Us. But We Can Make It a 'Superhero Sidekick' - CNET",
+        "description": "Experts say the key is to foster a partnership between humans and generative AI, rather than a rivalry.",
+        "url": "https://www.cnet.com/tech/ai-cant-do-all-our-job-for-us-but-we-can-make-it-a-superhero-sidekick/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/958e6b7b49b2d8d8757fe5cbbc2a33b9bf7c1d5a/hub/2024/03/22/246892a8-adbc-43a1-8ca9-49ee1658eea4/ai-and-the-2024-job-market.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-04-02T14:00:04Z",
+        "content": "If you don't have experience with medical malpractice lawsuits, \"Bourguignon v. Coordinated Behavioral Health Servs., Inc., 114 A.D.3d 947 (3d Dep't 2014)\" may sound like a perfectly legitimate case.… [+14816 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Quartz India"
+        },
+        "author": "Britney Nguyen",
+        "title": "An AI startup that's not even 6 months old says it's worth $2 billion",
+        "description": "As analysts debate whether high investments and valuations in the AI space are creating a bubble akin to the dot-com bubble of the 90s, a less than six-month-old startup is seeking a valuation in the billions.Read more...",
+        "url": "https://qz.com/ai-startup-cognition-labs-seeks-2-billion-valuation-1851378157",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/78a14fc09cfa67576241e47d844cf1f7.jpg",
+        "publishedAt": "2024-04-01T13:15:57Z",
+        "content": "As analysts debate whether high investments and valuations in the AI space are creating a bubble akin to the dot-com bubble of the 90s, a less than six-month-old startup is seeking a valuation in the… [+2022 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "theinformation.com",
+        "title": "When Does ‘Fake It Till You Make It’ Just Become ‘Faking It’?; The History of ‘Plagiarism’ in AI",
+        "description": "Fame can be a double-edged sword—a lesson some artificial intelligence startups are learning the hard way. Take Devin, the AI-powered coding assistant developed by Cognition AI that went viral when it launched last month with an impressive demo showing how it…",
+        "url": "https://biztoc.com/x/77e4e57791f733c5",
+        "urlToImage": "https://c.biztoc.com/274/og.png",
+        "publishedAt": "2024-04-18T11:18:14Z",
+        "content": "Fame can be a double-edged sworda lesson some artificial intelligence startups are learning the hard way.Take Devin, the AI-powered coding assistant developed by Cognition AI that went viral when it … [+243 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "aol.com",
+        "title": "AI startup Cognition Labs, founded in November, seeks $2 billion valuation amid investor frenzy, warnings of a bubble",
+        "description": "Artificial intelligence will no doubt change much about our world in the long run. But for now, we may be living through an AI bubble. Those seeking evidence of this might cite news of Cognition Labs seeking a $2 billion valuation, as reported by the Wall Str…",
+        "url": "https://biztoc.com/x/b952f6f2c2e8183d",
+        "urlToImage": "https://c.biztoc.com/p/b952f6f2c2e8183d/s.webp",
+        "publishedAt": "2024-04-01T02:28:07Z",
+        "content": "Artificial intelligence will no doubt change much about our world in the long run. But for now, we may be living through an AI bubble.Those seeking evidence of this might cite news of Cognition Labs … [+287 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "Installing the autonomous Open Devin AI Software Engineer on Windows",
+        "description": "This guide offers insight on installing and setting up Open Devin, an AI software engineering tool, on a Windows system. Open Devin is an open-source project that has gained popularity in the developer community for its autonomous operation and user-friendly …",
+        "url": "https://www.geeky-gadgets.com/?p=423614",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/04/how-to-install-Open-Devin-on-Windows.webp",
+        "publishedAt": "2024-04-03T10:07:24Z",
+        "content": "This guide offers insight on installing and setting up Open Devin, an AI software engineering tool, on a Windows system. Open Devin is an open-source project that has gained popularity in the develop… [+8650 chars]"
+    },
+    {
+        "source": {
+            "id": "next-big-future",
+            "name": "Next Big Future"
+        },
+        "author": "Brian Wang",
+        "title": "Devin AI Failure on One of Its Upwork Projects",
+        "description": "Youtuber, Internet of bugs, broke down the Devin Upwork video frame by frame. He shows what Devin was supposed to do, what it actually managed to do instead, and how bad a job of that it did. Devin was not given the right instructions by the Cognition Employe…",
+        "url": "https://www.nextbigfuture.com/2024/04/devin-ai-failure-on-one-of-its-upwork-projects.html",
+        "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/04/Screen-Shot-2024-04-18-at-8.45.48-PM.jpg",
+        "publishedAt": "2024-04-19T03:46:22Z",
+        "content": "Youtuber, Internet of bugs, broke down the Devin Upwork video frame by frame. He shows what Devin was supposed to do, what it actually managed to do instead, and how bad a job of that it did.\r\nDevin … [+3608 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Johan Koch, Forbes Councils Member, \n Johan Koch, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/johankoch/",
+        "title": "Unleashing The Potential: AI, Immersive Technologies And The Future Of Customer Engagement",
+        "description": "To fully embrace this transformative shift in the technology industry and unlock the potential for unparalleled guest experiences, companies must adopt a proactive approach to integrating AI-driven solutions into their digital environments and workstreams.",
+        "url": "https://www.forbes.com/sites/forbestechcouncil/2024/04/02/unleashing-the-potential-ai-immersive-technologies-and-the-future-of-customer-engagement/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/607df720641e5ffe97c51836/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-02T12:30:00Z",
+        "content": "Johan Koch is Global Vice President - Digital &amp; Technology at CBRE.\r\ngetty\r\nThe landscape of immersive customer engagement and technology is undergoing a remarkable evolution. Traditionally, thes… [+11593 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "SWE-Agent powerful AI open source Devin alternative",
+        "description": "If you are searching for an artificial intelligent (AI) autonomous software engineer Devin alternative that is powerful enough to compete with  the recently announced autonomous AI coding platform.  You might be interested in learning more about SWE-Agent, a …",
+        "url": "https://www.geeky-gadgets.com/devin-alternative-swe-agent/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/04/Devin-AI-alternative-SWE-Agent.jpg",
+        "publishedAt": "2024-04-03T09:04:34Z",
+        "content": "If you are searching for an artificial intelligent (AI) autonomous software engineer Devin alternative that is powerful enough to compete with  the recently announced autonomous AI coding platform.  … [+5337 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Classmethod.jp"
+        },
+        "author": "PoojaSunil Jadhav",
+        "title": "Exploring Devin: Cognition’s Breakthrough in Engineering AI",
+        "description": "Introduction. In the rapidly evolving landscape of artificial intelligence, advancements in natural language p […]",
+        "url": "https://dev.classmethod.jp/articles/exploring-devin-cognitions-breakthrough-in-engineering-ai/",
+        "urlToImage": "https://devio2023-media.developers.io/wp-content/uploads/2024/03/imresizer-1711084917367.jpg",
+        "publishedAt": "2024-03-22T05:43:35Z",
+        "content": "Introduction.\r\nIn the rapidly evolving landscape of artificial intelligence, advancements in natural language processing (NLP) continue to reshape how we interact with technology. Cognition, a leadin… [+4906 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "OpenDevin AI coding assistant capable of complex tasks",
+        "description": "OpenDevin is a new AI coding assistant inspired by Devin, offering user a cutting-edge open-source AI software engineer. OpenDevin has been created to try and replicate Devin, an autonomous AI software engineer that is capable of executing complex engineering…",
+        "url": "https://www.geeky-gadgets.com/ai-coding-assistant-2024/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/AI-coding-assistant-.jpg",
+        "publishedAt": "2024-03-27T12:29:41Z",
+        "content": "OpenDevin is a new AI coding assistant inspired by Devin, offering user a cutting-edge open-source AI software engineer. OpenDevin has been created to try and replicate Devin, an autonomous AI softwa… [+4209 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New Atlas"
+        },
+        "author": "Paul McClure",
+        "title": "AI now surpasses humans in almost all performance benchmarks",
+        "description": "Stanford University’s Institute for Human-Centered Artificial Intelligence (HAI) has released the seventh annual issue of its comprehensive AI Index report, written by an interdisciplinary team of academic and industrial experts.Continue ReadingCategory: Tech…",
+        "url": "https://newatlas.com/technology/ai-index-report-global-impact/",
+        "urlToImage": "https://assets.newatlas.com/dims4/default/8a47131/2147483647/strip/true/crop/1792x941+0+25/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fcd%2Fb64c40b942478cf1ff66e7de6e23%2Fglobal-impact-of-ai.jpg&na.image_optimisation=0",
+        "publishedAt": "2024-04-19T07:02:48Z",
+        "content": "Stanford Universitys Institute for Human-Centered Artificial Intelligence (HAI) has released the seventh annual issue of its comprehensive AI Index report, written by an interdisciplinary team of aca… [+6372 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Craig S. Smith, Contributor, \n Craig S. Smith, Contributor\n https://www.forbes.com/sites/craigsmith/",
+        "title": "The 15 Top AI-Powered Tools For Automated Unit Testing",
+        "description": "Understand the power of unit testing through the different types, examples, and softwares and tools available to boost efficiency and code reliability.",
+        "url": "https://www.forbes.com/sites/technology/article/unit-testing/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65fb34981128bdae5f6b4179/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-07T21:00:00Z",
+        "content": "Artificial intelligence can be a huge help to humans writing unit testing scripts.\r\nMidjourney\r\nSoftware development is a creative endeavor, but it can be filled with tedious tasks. Most mundane of a… [+12198 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sylvain Duranton, Contributor, \n Sylvain Duranton, Contributor\n https://www.forbes.com/sites/sylvainduranton/",
+        "title": "Are Coders' Jobs At Risk? AI's Impact On The Future Of Programming",
+        "description": "Nvidia CEO Jensen Huang caused a stir when he declared recently that kids no longer need to learn to code - AI will do that for us. Is he right?",
+        "url": "https://www.forbes.com/sites/sylvainduranton/2024/04/15/are-coders-jobs-at-risk-ais-impact-on-the-future-of-programming/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661d4eb9065307a2821d8dd7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-15T16:23:19Z",
+        "content": "Developers photographed at their studio in Guildford, on December 12, 2013. (Photo by Rob Monk/Edge ... [+] Magazine/Future via Getty Images)\r\nFuture via Getty Images\r\nNvidia CEO Jensen Huang caused … [+6646 chars]"
+    },
+    {
+        "source": {
+            "id": "next-big-future",
+            "name": "Next Big Future"
+        },
+        "author": "Brian Wang",
+        "title": "AI LLM Has Trillion Dollar Use Case By Increasing Computer Programming Productivity",
+        "description": "Devin is an AI that was used on the SWE-bench, a challenging benchmark that asks agents to resolve real-world GitHub issues found in open source projects like Django and scikit-learn. Devin correctly resolves 13.86% of the issues end-to-end, far exceeding the…",
+        "url": "https://www.nextbigfuture.com/2024/04/ai-llm-has-trillion-dollar-use-case-by-increasing-computer-programming-productivity.html",
+        "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/04/Screen-Shot-2024-04-08-at-12.32.58-PM.jpg",
+        "publishedAt": "2024-04-08T19:46:55Z",
+        "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DevOps.com"
+        },
+        "author": "John Willis",
+        "title": "To Devin or Not to Devin?",
+        "description": "Cognition Labs' Devin is creating a lot of buzz in the industry, but John Willis urges organizations to proceed with caution.",
+        "url": "https://devops.com/to-devin-or-not-to-devin/",
+        "urlToImage": "https://devops.com/wp-content/uploads/2021/03/canstockphoto11449264.jpg",
+        "publishedAt": "2024-03-28T11:30:43Z",
+        "content": "Devin.ai is an impressive generative AI solution that claims to be a new kind of AI engineer designed to perform software engineering tasks autonomously. Cognition Labs, Devin’s creator, said Devin i… [+4739 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Liz Haberberger, Forbes Councils Member, \n Liz Haberberger, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/lizhaberberger/",
+        "title": "How To Avoid Having An AI Robot Lead Your Team",
+        "description": "As AI becomes ingrained in business, it's important for leaders to focus on certain strategies of creativity and knowledge.",
+        "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/09/how-to-avoid-having-an-ai-robot-lead-your-team/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6614035cbdf4fcbc0744db6a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-09T11:30:00Z",
+        "content": "Liz Haberberger is an effortlessly energetic leader. President and Owner of Dale Carnegie Missouri.\r\ngetty\r\nIf you are concerned about AI taking your job, I think maybe you should beat least partly.\r… [+3822 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Consequence.net"
+        },
+        "author": "Jon Hadusek",
+        "title": "Dream Theater Keyboardist Jordan Rudess Releases New Song “Embers”: Stream",
+        "description": "The track sees Ruddess in collaboration with the Moises AI platform.\nDream Theater Keyboardist Jordan Rudess Releases New Song “Embers”: Stream\nJon Hadusek",
+        "url": "https://consequence.net/2024/03/jordan-rudess-embers-stream/",
+        "urlToImage": "https://consequence.net/wp-content/uploads/2024/03/jordan-rudess-embers-stream.jpg",
+        "publishedAt": "2024-03-27T14:12:02Z",
+        "content": "Dream Theater keyboardist Jordan Rudess has unveiled a new solo single, “Embers,” that was made in collaboration with the Moises AI platform.\r\nRudess composed “Embers” specifically for the Moises Jam… [+1610 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "AutoDev AI coding engineer and personal assistant",
+        "description": "AutoDev is an open-source AI-powered coding tool that serves as an alternative to the not-yet-released Devin, which is an AI software engineer capable of autonomously building and deploying applications. AutoDev is a new AI coding assistant that’s quickly bec…",
+        "url": "https://www.geeky-gadgets.com/?p=422793",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/AutoDev-AI-assistant.jpg",
+        "publishedAt": "2024-03-21T13:15:02Z",
+        "content": "AutoDev is an open-source AI-powered coding tool that serves as an alternative to the not-yet-released Devin, which is an AI software engineer capable of autonomously building and deploying applicati… [+4123 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Changelog.com"
+        },
+        "author": null,
+        "title": "JS Party 317: 13% of the time, Devin works every time",
+        "description": "Jerod, KBall & Nick discuss the latest news: Devin, Astro DB, The JavaScript Registry, Tailwind 4 & Angular merging with Wiz. Oh, and a surprise mini-game of HeadLIES!\n\nLeave us a comment\n\nChangelog++ members save 5 minutes on this episode because they made t…",
+        "url": "https://changelog.com/jsparty/317",
+        "urlToImage": "https://cdn.changelog.com/static/images/share/twitter-jsparty-da8b18a62e1b0a5cf593f5ec9ef3b021.png",
+        "publishedAt": "2024-03-28T16:30:00Z",
+        "content": "PowerSyncBuild local-first web apps Give users instantly reactive UX with an in-browser database that keeps itself in sync with any backend Postgres. No need to wait for network requests, code compli… [+664 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Digitimes"
+        },
+        "author": "Jerry Chen",
+        "title": "One-click AI coding assistant 'Devin' sparks job security fears among human software engineers",
+        "description": "A new AI-powered virtual program assistant has recently come onto the scene, sparking concerns among human software engineers for their job security.",
+        "url": "https://www.digitimes.com/news/a20240325PD209/cognition-ai-ai-coding-software-programming.html",
+        "urlToImage": null,
+        "publishedAt": "2024-03-26T07:51:14Z",
+        "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Zerotomastery.io"
+        },
+        "author": null,
+        "title": "Zero to Mastery: Python Monthly Newsletter ",
+        "description": "52nd issue of Andrei Neagoie's must-read monthly Python Newsletter read by 15,000+ Pythonistas. Get up-to-date with the top Python news from last month.",
+        "url": "https://zerotomastery.io/blog/python-monthly-newsletter-march-2024/",
+        "urlToImage": "https://images.ctfassets.net/aq13lwl6616q/6QISfE5q85w790libGuFID/b564a4b46253311f115cc4024b196850/Python_Monthly.png",
+        "publishedAt": "2024-04-01T10:00:00Z",
+        "content": "52nd issue! If you missed the previous ones, you can read all the previous issues of my monthly Python newsletter here.\r\nPython Developer Monthly Newsletter\r\nIf its your first time here, welcome, kee… [+6107 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CoinDesk"
+        },
+        "author": "Dom Kwok",
+        "title": "The EasyA Consensus Hackathon: Web3 Unicorn Breeding Ground",
+        "description": "The event, during the Consensus festival, invites 500 builders from across the world to pitch and refine their ideas. Hackers receive free tickets and several perks.",
+        "url": "https://www.coindesk.com/consensus-magazine/2024/04/05/the-easya-consensus-hackathon-web3-unicorn-breeding-ground/",
+        "urlToImage": "https://www.coindesk.com/resizer/3ZTFh5aA1etMjp58NxwiJgug33A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PHIQA2LBPVAZ7GP3XLDCT6ZGFU.jpg",
+        "publishedAt": "2024-04-05T16:44:36Z",
+        "content": "You may have heard of Devin, the AI software engineer built by Cognition Labs and its massive $21 million Series A it raised, led by Peter Thiels Founders Fund. But did you know that just one and a h… [+3116 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ubuntu.com"
+        },
+        "author": "Marina Khachatryan (Marina Khachatryan)",
+        "title": "Meet our Federal team at NLIT 2024",
+        "description": "We’re excited to announce our participation in NLIT 2024. […]",
+        "url": "https://ubuntu.com/blog/meet-our-federal-team-at-nlit-2024",
+        "urlToImage": "https://ubuntu.com/wp-content/uploads/0d06/picnlit.png",
+        "publishedAt": "2024-04-05T19:09:00Z",
+        "content": "Were excited to announce our participation in NLIT 2024. As our collaboration with the Department of Energy (DOE) is strengthening, were looking forward to meeting our partners and customers on-site … [+4267 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WebProNews"
+        },
+        "author": "Staff",
+        "title": "Revolutionizing Tech: Meet Scott Wu, CEO of Devin AI",
+        "description": "WebProNews\nRevolutionizing Tech: Meet Scott Wu, CEO of Devin AI\nDespite the skepticism and debate surrounding Devon AI, one thing remains clear: Scott Wu and Cognition Labs have set a new standard for innovation in the tech industry. Their relentless pursuit …",
+        "url": "https://www.webpronews.com/revolutionizing-tech-meet-scott-wu-ceo-of-devin-ai/",
+        "urlToImage": "https://www.webpronews.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-9.35.26-AM.jpg",
+        "publishedAt": "2024-03-24T13:36:49Z",
+        "content": "In a world where innovation is the lifeblood of progress, the emergence of groundbreaking technologies is both expected and celebrated. One such innovation has recently taken the tech industry by sto… [+3320 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Samantha Kroontje, Contributor, \n Samantha Kroontje, Contributor\n https://www.forbes.com/sites/samanthakroontje/",
+        "title": "The Richest Woman In The World 2024",
+        "description": "This heiress has been the world’s wealthiest woman for five out of the past six years.",
+        "url": "https://www.forbes.com/sites/samanthakroontje/2024/04/03/the-richest-woman-in-the-world-2024/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660b0303461c424528106b0d/0x0.jpg?format=jpg&crop=1800,1011,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-03T10:30:00Z",
+        "content": "For the fourth year in a row, LOréal heiress Françoise Bettencourt Meyersan author and avid pianisthas secured the spot as the richest woman in the world.\r\nThe vast majority of the 70-year-olds estim… [+3645 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Zoya Hasan, Forbes Staff, \n Zoya Hasan, Forbes Staff\n https://www.forbes.com/sites/zoyahasan/",
+        "title": "Phoebe Dynevor, Lando Norris, Nude Project And More Join The Forbes 30 Under 30 Europe Class Of 2024",
+        "description": "Meet more members of the newest class of the Forbes Under 30 Europe list. Plus: a $21 million Series A raise and an Under 30 Music lister collaboration.",
+        "url": "https://www.forbes.com/sites/zoyahasan/2024/04/12/phoebe-dynevor-lando-norris-nude-project-and-more-join-the-forbes-30-under-30-europe-class-of-2024/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66180a95f353eee10e90fe01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-12T12:00:00Z",
+        "content": "Forbes Under 30 Europe 2024\r\nPHOTOGRAPHY BY LEVON BISS FOR FORBES; PINKPANTHERESS BY STEPHANE CARDINALE/CORBIS/GETTY IMAGES\r\nAt 19 years old, Alejandro Benlloch and Bruno Casanovas launched the stree… [+5757 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "HYPEBEAST"
+        },
+        "author": "info@hypebeast.com (Hypebeast)",
+        "title": "Bode Unearths the Nike Astrograbber in this Week's Best Footwear Drops",
+        "description": "After an exciting March Madness, there's more high-stakes basketball to be played as the NBA kicks off its postseason with the play-in tournament starting tonight. In addition to the exciting games to come, brands have prepared a loaded week of releases for s…",
+        "url": "https://hypebeast.com/2024/4/best-sneaker-releases-april-2024-week-3-bode-nike-astrograbber-bape-adidas-lwst-auralee-new-balance-wrpd-runner",
+        "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F04%2F15%2Fbest-sneaker-releases-april-2024-week-3-bode-nike-astrograbber-bape-adidas-lwst-auralee-new-balance-wrpd-runner-0.jpg?w=1080&cbr=1&q=90&fit=max",
+        "publishedAt": "2024-04-15T21:23:46Z",
+        "content": "You are reading your free article for this month.Members-only\r\nAfter an exciting March Madness, there’s more high-stakes basketball to be played as the NBA kicks off its postseason with the play-in t… [+8042 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Gina Carey",
+        "title": "AI Is Coming for This Job Next",
+        "description": "Devin can write code, collaborate with co-workers, accept their feedback, and moonlight on Upwork—just don't mistake Devin for a human. This advancement in generative AI software development comes from 2-month-old startup Cognition AI, which is backed by Pete…",
+        "url": "https://www.newser.com/story/347853/ai-is-coming-for-this-job-next.html",
+        "urlToImage": "https://img1-azrcdn.newser.com/image/1524510-12-20240330115032.jpeg",
+        "publishedAt": "2024-03-30T16:30:00Z",
+        "content": "Devin can write code, collaborate with co-workers, accept their feedback, and moonlight on Upwork—just don't mistake Devin for a human. This advancement in generative AI software development comes fr… [+1748 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Steve Mollman",
+        "title": "AI startup Cognition Labs, founded in November, seeks $2B valuation amid investor frenzy, warnings of bubble",
+        "description": "As more and more AI ventures snag improbably large sums from investors, the sense of a bubble increases.",
+        "url": "https://fortune.com/2024/03/31/cognition-labs-ai-startup-seeks-2-billion-valuation-investor-frenzy-warnings-bubble/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/03/GettyImages-2113301673-e1711926186699.jpg?resize=1200,600",
+        "publishedAt": "2024-03-31T23:17:48Z",
+        "content": "Artificial intelligence will no doubt change much about our world in the long run. But for now, we may be living through an AI bubble.Those seeking evidence of this might cite news of Cognition Labs … [+2249 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Sabrina Ortiz",
+        "title": "OpenAI makes GPT-4 Turbo with Vision available to developers to unlock new AI apps",
+        "description": "A multimodal model like this one can take AI chatbots and other AI applications to new heights by combining text and images, for example.",
+        "url": "https://www.zdnet.com/article/openai-makes-gpt-4-turbo-with-vision-available-for-developers/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/1e7c0078df2a0e7d8537d95482473e6c3a5a9159/2024/04/09/bf78fcf9-0c0d-4a93-89c9-d2c518fa8c5c/getty-sopa-images-openai.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-04-09T20:27:00Z",
+        "content": "SOPA Images / Getty\r\nOpenAI is best known for its advanced large language models (LLMs) used to power some of the most popular AI chatbots, such as ChatGPT and Copilot. However, multimodal models can… [+1699 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WebProNews"
+        },
+        "author": "Ryan Gibson",
+        "title": "Revolutionizing Software Development with AI Agent Agencies",
+        "description": "WebProNews\nRevolutionizing Software Development with AI Agent Agencies\nOne key advantage of AI agent agencies is their ability to adapt and learn in real-time. Unlike traditional automation tools, which follow pre-defined scripts and workflows, AI agents poss…",
+        "url": "https://www.webpronews.com/revolutionizing-software-development-with-ai-agent-agencies/",
+        "urlToImage": "https://www.webpronews.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-6.51.06-AM.jpg",
+        "publishedAt": "2024-03-24T10:53:27Z",
+        "content": "In the rapidly evolving software development landscape, a groundbreaking trend is on the horizon: the emergence of AI agent agencies. Imagine a scenario where instead of relying solely on human devel… [+3083 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Christianheilmann.com"
+        },
+        "author": "Chris Heilmann",
+        "title": "Dev Digest 108 – Git off my cloud!",
+        "description": "Welcome to another edition of the WeAreDevelopers Dev Digest. This time we have am interview with Sead Ahmetovic, CEO of of WeAreDevelopers amd Scott Chacon, co-Founder of GitHub. They talk about careers, early coding days, developer communities, evangelizing…",
+        "url": "https://christianheilmann.com/2024/03/26/dev-digest-108-git-off-my-cloud/",
+        "urlToImage": null,
+        "publishedAt": "2024-03-26T08:10:33Z",
+        "content": "Welcome to another edition of the WeAreDevelopers Dev Digest. This time we have am interview with Sead Ahmetovic, CEO of of WeAreDevelopers amd Scott Chacon, co-Founder of GitHub. They talk about car… [+5121 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Changelog.com"
+        },
+        "author": null,
+        "title": "Changelog News 90: Devin's Upwork \"side hustle\" exposed",
+        "description": "YouTuber “Internet of Bugs” breaks down why AI “software engineer” Devin is no Upwork hero, Redka is Anton Zhiyanov’s attempt to reimplement Redis with SQLite, OpenTofu issues its response to Hashicorp’s Cease and Desist letter, Brian LeRoux introduces Enhanc…",
+        "url": "https://changelog.com/news/90",
+        "urlToImage": "https://cdn.changelog.com/static/images/share/twitter-news-f48944e5ee8f74e0a75c4000fb833e2f.png",
+        "publishedAt": "2024-04-15T18:50:00Z",
+        "content": "Sponsors\r\nTailscaleAdam loves Tailscale! Tailscale is programmable networking software thats private and secure by default. Its the easiest way to connect devices and services to each other, wherever… [+198 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Cloudflare.com"
+        },
+        "author": "Rita Kozlov",
+        "title": "Welcome to Developer Week 2024",
+        "description": "We’re kicking off 2024’s Developer Week, and we’re excited to welcome you to the week and give you a small preview of what to expect, and how we’re thinking about the future of our platform",
+        "url": "https://blog.cloudflare.com/welcome-to-developer-week-2024",
+        "urlToImage": "http://blog.cloudflare.com/content/images/2024/03/BLOG-2393-1.png",
+        "publishedAt": "2024-03-31T17:00:42Z",
+        "content": "Its time to ship. For us (thats what Innovation Weeks are all about!), and also for our developers. \r\nShipping itself is always fun, but getting there is not always easy. Bringing something from idea… [+7204 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Indian AI Engineer Devika Challenges Devin, World's First 'AI Coder'",
+        "description": "The launch of Devika adds another layer to the global race for AI innovation, particularly within the software development field.",
+        "url": "https://www.ndtv.com/feature/artificial-intelligence-indian-ai-engineer-devika-emerges-to-challenge-devin-the-worlds-first-ai-coder-5355983",
+        "urlToImage": "https://c.ndtvimg.com/2024-04/ebmbpu5_devika_625x300_02_April_24.jpeg?ver-20240316.08",
+        "publishedAt": "2024-04-02T02:26:06Z",
+        "content": "Devika, open-source AI engineer, understands human instructions adeptly.\r\nFollowing the buzz around Devin, the world's first \"AI software engineer\" created by Cognition Labs in the US, India has emer… [+2293 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MediaNama.com"
+        },
+        "author": "Pragati Singh",
+        "title": "OpenAI Unveils GPT-4 Turbo with Vision, Empowering AI with Multimedia Analysis",
+        "description": "GPT-4 Turbo with Vision builds upon the foundation of the GPT-4 model, integrating the enhanced token outputs introduced in the Turbo model, and now includes upgraded computer vision capabilities for analyzing multimedia files.\nThe post OpenAI Unveils GPT-4 T…",
+        "url": "https://www.medianama.com/2024/04/223-openai-unveils-gpt-4-turbo-with-vision-empowering-ai-with-multimedia-analysis/",
+        "urlToImage": "https://www.medianama.com/wp-content/uploads/2024/02/levart_photographer-7q-kE4SZzvQ-unsplash-scaled.jpg",
+        "publishedAt": "2024-04-12T11:24:17Z",
+        "content": "Through a Twitter post, OpenAI announced a substantial enhancement to its latest artificial intelligence (AI) model, GPT-4 Turbo, introducing computer vision capabilities on April 9, according to an … [+2979 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "Browser-based IDE startup Replit debuts generative AI coding assistant",
+        "description": "Developer tooling startup Replit Inc. is looking to challenge GitHub Inc. and others with the launch of a new, artificial intelligence-powered coding tool that it says will vastly improve the efficiency of software developers. The new product is called Replit…",
+        "url": "https://siliconangle.com/2024/04/02/browser-based-ide-startup-replit-debuts-generative-ai-coding-assistant/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/04/image_2024-04-03_094025255.png",
+        "publishedAt": "2024-04-03T02:41:09Z",
+        "content": "Developer tooling startup Replit Inc. is looking to challenge GitHub Inc. and others with the launch of a new, artificial intelligence-powered coding tool that it says will vastly improve the efficie… [+6025 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mark Albertson",
+        "title": "Madrona Venture Group sees wave of startups beginning to fuel deployment of intelligent applications",
+        "description": "The investment strategy for the Madrona Venture Group is described by the maxim “day one for the long run.” This has been the firm’s guiding principle in its funding for artificial intelligence startups and it has shaped its view of intelligent applications a…",
+        "url": "https://siliconangle.com/2024/04/03/madrona-venture-group-sees-startups-fuel-ai-deployment-cubeconversations/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/04/Dave-Vellante-SiliconANGLE-George-Gilbert-SiliconANGLE-Soma-Somasegar-Madrona-Venture-Group-Road-to-Intelligent-Data-Apps.jpg",
+        "publishedAt": "2024-04-03T19:28:26Z",
+        "content": "The investment strategy for the Madrona Venture Group is described by the maxim day one for the long run. This has been the firms guiding principle in its funding for artificial intelligence startups… [+5269 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ieee.org"
+        },
+        "author": "Rina Diane Caballar",
+        "title": "AI Coding Is Going From Copilot to Autopilot",
+        "description": "A new breed of AI-powered coding tools have emerged—and they’re claiming to be more autonomous versions of earlier assistants like GitHub Copilot, Amazon CodeWhisperer, and Tabnine.One such new entrant, Devin AI has been dubbed an “AI software engineer” by it…",
+        "url": "https://spectrum.ieee.org/ai-code-generator",
+        "urlToImage": "https://spectrum.ieee.org/media-library/ai-speech-bubbles-over-a-background-of-code.jpg?id=51953942&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+        "publishedAt": "2024-04-09T13:00:03Z",
+        "content": "A new breed of AI-powered coding tools have emergedand theyre claiming to be more autonomous versions of earlier assistants like GitHub Copilot, Amazon CodeWhisperer, and Tabnine.\r\nOne such new entra… [+4643 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Devony Hof",
+        "title": "LangChain supports AI-based app development and exploration",
+        "description": "As everyone tries to read the tea leaves for artificial intelligence, attempting to divine which companies will land on top and how AI will affect people’s livelihoods, one company that looks to be on the cutting edge of machine learning is LangChain Inc., wh…",
+        "url": "https://siliconangle.com/2024/04/05/langchain-ai-based-app-development-supercloud6/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Harrison-Chase-founder-and-chief-executive-officer-of-LangChain-Super-Cloud-6-AI-Innovators-2024.jpg",
+        "publishedAt": "2024-04-05T15:30:15Z",
+        "content": "As everyone tries to read the tea leaves for artificial intelligence, attempting to divine which companies will land on top and how AI will affect peoples livelihoods, one company that looks to be on… [+4060 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gadgets360.com"
+        },
+        "author": "Akash Dutta, Siddharth Suvarna",
+        "title": "OpenAI Unveils GPT-4 Turbo With Vision Capabilities in API and ChatGPT",
+        "description": "OpenAI announced a major improvement to its latest artificial intelligence (AI) model GPT-4 Turbo on Tuesday. The AI model now comes with computer vision capabilities, allowing it to process and analyse multimedia inputs. It can answer questions about an imag…",
+        "url": "https://www.gadgets360.com/ai/news/openai-gpt-4-turbo-vision-launched-api-chatgpt-5414001",
+        "urlToImage": "https://i.gadgets360cdn.com/large/chatgpt_unsplash2_1712756463558.jpg",
+        "publishedAt": "2024-04-10T14:11:27Z",
+        "content": "OpenAI announced a major improvement to its latest artificial intelligence (AI) model GPT-4 Turbo on Tuesday. The AI model now comes with computer vision capabilities, allowing it to process and anal… [+2102 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "Cognition Seeks $2 Billion Valuation for AI Code-Writing Tool",
+        "description": "Cognition Labs is reportedly aiming to become the next multibillion-dollar artificial intelligence (AI) startup. The company, which is developing an AI tool for writing code, is in discussions with investors to raise money at a valuation of up to $2 billion, …",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2024/cognition-seeks-2-billion-valuation-for-ai-code-writing-tool/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/03/Cognition-Labs.jpg",
+        "publishedAt": "2024-03-31T23:28:39Z",
+        "content": "Cognition Labs is reportedly aiming to become the next multibillion-dollar artificial intelligence (AI) startup.\r\nThe company, which is developing an AI tool for writing code, is in discussions with … [+2487 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Video Of Devin Creator Scott Wu's \"Wicked Fast\" Math Performance Viral",
+        "description": "Many users were blown away by the fact that a young Scott Wu gave the correct answer even before the host could complete the question.",
+        "url": "https://www.ndtv.com/feature/video-of-devin-creator-scott-wus-wicked-fast-math-performance-goes-viral-5318770",
+        "urlToImage": "https://c.ndtvimg.com/2024-03/9rfo463_scott-wu-devin_625x300_27_March_24.jpeg?ver-20240316.08",
+        "publishedAt": "2024-03-27T06:03:01Z",
+        "content": "Scott Wu created Devin, world's first AI software engineer, this year.\r\nA video of Scott Wu, the founder and CEO of company that introduced 'Devin' - an artificial intelligence (AI) software engineer… [+1960 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "fortune.com",
+        "title": "AI startup Cognition Labs, founded in November, seeks $2B valuation amid investor frenzy, warnings of bubble",
+        "description": "Artificial intelligence will no doubt change much about our world in the long run. But for now, we may be living through an AI bubble. Those seeking evidence of this might cite news of Cognition Labs seeking a $2 billion valuation, as reported by the Wall Str…",
+        "url": "https://biztoc.com/x/be495aedfcf50896",
+        "urlToImage": "https://c.biztoc.com/p/be495aedfcf50896/s.webp",
+        "publishedAt": "2024-03-31T23:28:04Z",
+        "content": "Artificial intelligence will no doubt change much about our world in the long run. But for now, we may be living through an AI bubble.Those seeking evidence of this might cite news of Cognition Labs … [+293 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "Cognition Labs Aims to Revolutionize Coding With AI",
+        "description": "As the world becomes more connected and digital, coding, previously confined to specialized computer programmers, now influences everything from our daily communication and online shopping to healthcare management and financial transactions.  Peter Thiel’s ve…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2024/cognition-labs-aims-to-revolutionize-coding-with-ai/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/04/AI-coding-Cognition.jpg",
+        "publishedAt": "2024-04-01T20:19:12Z",
+        "content": "As the world becomes more connected and digital, coding, previously confined to specialized computer programmers, now influences everything from our daily communication and online shopping to healthc… [+5954 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Wccftech"
+        },
+        "author": "Hassan Mujtaba",
+        "title": "Snapdragon X Elite CPU With 4.6 TFLOPs Adreno GPU Runs Baldur’s Gate 3 At Around 30 FPS At 1080p",
+        "description": "The much-awaited Snapdragon X Elite CPU platform has been demoed running Baldur's Gate 3 at 30 FPS as a demonstration of its gaming GPU performance. Snapdragon X Elite's Adreno GPU Delivers Around 30 FPS In Baldur's Gate 3 at 1080p, Software Work To Enable Fa…",
+        "url": "https://wccftech.com/snapdragon-x-elite-cpu-4-6-tflops-adreno-gpu-baldurs-gate-3-30-fps-1080p/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/03/Snapdragon-X-Elite-CPU-Adreno-GPU-Gaming-Laptop.jpg",
+        "publishedAt": "2024-03-26T15:25:28Z",
+        "content": "The much-awaited Snapdragon X Elite CPU platform has been demoed running Baldur's Gate 3 at 30 FPS as a demonstration of its gaming GPU performance.\r\nSnapdragon X Elite's Adreno GPU Delivers Around 3… [+3623 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "Datavolo Raises $21 Million to Build Multimodal Data Pipelines for AI",
+        "description": "Datavolo has raised $21 million to continue helping customers build scalable and secure multimodal data pipelines for artificial intelligence (AI).  The company will use the new capital to harness Apache NiFi, which was created at the National Security Agency…",
+        "url": "https://www.pymnts.com/news/investment-tracker/2024/datavolo-raises-21-million-to-build-multimodal-data-pipelines-for-ai/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/04/Datavolo-investments-funding-data-processing.png",
+        "publishedAt": "2024-04-02T22:17:50Z",
+        "content": "Datavolo has raised $21 million to continue helping customers build scalable and secure multimodal data pipelines for artificial intelligence (AI). \r\nThe company will use the new capital to harness A… [+2258 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Himanshi Lohchab",
+        "title": "Meet Devika, India’s first AI engineer who can do it all",
+        "description": "Devika, India's AI engineer, competes with US's Devin using LLMs. It assists developers, plans to add multimodal features. Mufeed, a cybersecurity enthusiast, founded Lyminal, Stition, focusing on CodeSentry for automated secure operations.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/meet-devika-indias-first-ai-engineer-who-can-do-it-all/articleshow/109043053.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-109044160,width-1200,height-630,imgsize-1392830,overlay-ettech/photo.jpg",
+        "publishedAt": "2024-04-05T00:31:00Z",
+        "content": "A 21-year old Kerala boy has created Indias first AI software engineer that can understand human instructions and generate software code and even do bug fixing. Named Devika, the AI agent is inspired… [+4141 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Investing.com",
+        "title": "TMTG set to debut on Nasdaq with ticker \"DJT\"",
+        "description": "TMTG set to debut on Nasdaq with ticker \"DJT\"",
+        "url": "https://www.investing.com/news/stock-market-news/tmtg-set-to-debut-on-nasdaq-with-ticker-djt-93CH-3351893",
+        "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI1L0IW_L.jpg",
+        "publishedAt": "2024-03-25T15:45:51Z",
+        "content": "MIAMI, FL - Trump Media &amp; Technology Group Corp. (TMTG), in partnership with Digital World Acquisition Corp., has announced the completion of their business combination. Starting Tuesday, TMTG's … [+1758 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "forbes",
+        "title": "FORBES: New Billionaires 2024: Taylor Swift, Magic Johnson And 263 Others...",
+        "description": "Meet the latest entrants to the three-comma club, from sports stars to Hollywood stars—and the world's most famous pop star.",
+        "url": "https://www.forbes.com/sites/segunolakoyenikan/2024/04/02/new-billionaires-2024-taylor-swift-magic-johnson-and-263-others-join-the-ranks-this-year/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660afdb4f517fecdf1cfdcba/0x0.jpg?format=jpg&crop=3133,1761,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-02T15:00:04Z",
+        "content": "Meet the latest entrants to the three-comma club.\r\nThe worlds billionaires are riding high, with Forbes finding a record 2,781 of them around the globe this year, worth a record $14.2 trillion altoge… [+6164 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Marketscreener.com"
+        },
+        "author": null,
+        "title": "Spectral AI Secures Access to $12.5 Million of New Equity Capital",
+        "description": "(marketscreener.com) Issuance of Convertible Instrument Balances Certainty, Timing, and ExecutionCapital Supports Strategic Imperatives and Commercialization Initiatives DALLAS, March 20, 2024 -- Spectral AI, Inc. , an artificial intelligence company focused …",
+        "url": "https://www.marketscreener.com/quote/stock/SPECTRAL-AI-INC-159194869/news/Spectral-AI-Secures-Access-to-12-5-Million-of-New-Equity-Capital-46245149/",
+        "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "publishedAt": "2024-03-20T18:46:05Z",
+        "content": "Issuance of Convertible Instrument Balances Certainty, Timing, and ExecutionCapital Supports Strategic Imperatives and Commercialization Initiatives\r\n DALLAS, March 20, 2024 (GLOBE NEWSWIRE) -- Spect… [+5694 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Danielmiessler.com"
+        },
+        "author": "Daniel Miessler",
+        "title": "UL NO. 425: The Efficient Security Principle",
+        "description": "US drone combat, extract ideas from any book, Pinker writing analysis, Flipper reversal, GPT-5 updates, and more…",
+        "url": "https://danielmiessler.com/p/ul-425",
+        "urlToImage": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c57f075f-ce47-4d3a-adb6-47e7cb563244/425.png?t=1711309662",
+        "publishedAt": "2024-03-25T20:12:43Z",
+        "content": "Continue reading online to avoid the email cutoff issue\r\nUnsupervised Learning is a security, AI, and meaning-focused newsletter that looks at how best to thrive as humans in a world thats changing f… [+13437 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "C-sharpcorner.com"
+        },
+        "author": "Lokesh Varman",
+        "title": "How Devin AI Crafts an App-From Brainstorm to Build",
+        "description": "Devin AI, the trailblazing AI software engineer, isn&#39;t just about fixing bugs or writing code snippets. It can take your application idea from a napkin sketch to a functional reality. Let&#39;s delve into Devin&#39;s remarkable process.",
+        "url": "https://www.c-sharpcorner.com/article/how-devin-ai-crafts-an-app-from-brainstorm-to-build/",
+        "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner.png",
+        "publishedAt": "2024-03-27T00:00:00Z",
+        "content": "Introduction\r\nDevin AI, the trailblazing AI software engineer, isn't just about fixing bugs or writing code snippets. It can take your application idea from a napkin sketch to a functional reality. I… [+2849 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Decrypt"
+        },
+        "author": "Andrew Hayward",
+        "title": "OpenSea Adds Support for 'Off the Grid' GUNZ Blockchain on Avalanche",
+        "description": "Gunzilla Games’ GUNZ network, built on an Avalanche subnet, will have its NFTs tradeable on OpenSea as the first game Off the Grid nears release.",
+        "url": "https://decrypt.co/225358/opensea-off-grid-gunz-blockchain-avalanche",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/03/off-the-grid-gID_7.png",
+        "publishedAt": "2024-04-09T13:01:02Z",
+        "content": "Gunzilla Games, the game studio behind upcoming first-person battle royale shooter Off the Grid, has announced the integration of its GUNZ blockchain platform with the prominent NFT marketplace OpenS… [+1674 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "IT World Canada"
+        },
+        "author": "Jim Love",
+        "title": "CIOs complain of “application sprawl” – Hashtag Trending, Monday March 25th, 2024",
+        "description": "Apple may get an unexpected penalty from the US Governments new lawsuit, survey of CIOs complains of application sprawl but proposes that the way to get out of it is “more applications”, 1% of employees cause 89% of data loss events and information surfaces a…",
+        "url": "https://www.itworldcanada.com/article/cios-complain-of-application-sprawl-hashtag-trending-monday-march-25th-2024/560277",
+        "urlToImage": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
+        "publishedAt": "2024-03-25T22:00:16Z",
+        "content": "Apple may get an unexpected penalty from the US Governments new lawsuit, survey of CIOs complains of application sprawl but proposes that the way to get out of it is more applications, 1% of employee… [+8722 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "The new AI disruption tool: Devin(e) or Devil for software engineers?",
+        "description": "After ChatGPT made waves all over the world for its surprising generative AI capacity, a US-based company called Cognition has announced the launch of a new AI tool called Devin which it claims to be the world's first fully autonomous AI software engineer whi…",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/the-new-ai-disruption-tool-devine-or-devil-for-software-engineers/articleshow/108654112.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-108654079,width-1200,height-630,imgsize-440978,overlay-economictimes/photo.jpg",
+        "publishedAt": "2024-03-20T14:02:44Z",
+        "content": "While explosive growth in artificial intelligence (AI) is augmenting capacities in several sectors, there are also concerns over how it can affect humans. Firms have invested heavily in AI, leaving e… [+6376 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Investing.com",
+        "title": "Earnings call: Goldman Sachs reports robust Q1 results, eyes AI growth",
+        "description": "Earnings call: Goldman Sachs reports robust Q1 results, eyes AI growth",
+        "url": "https://www.investing.com/news/stock-market-news/earnings-call-goldman-sachs-reports-robust-q1-results-eyes-ai-growth-93CH-3379216",
+        "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAF0OJ-ORUBS_L.jpg",
+        "publishedAt": "2024-04-15T22:48:32Z",
+        "content": "Goldman Sachs (GS) has delivered strong first-quarter results for 2024, with net revenues reaching $14.2 billion and net earnings of $4.1 billion. The company's Global Banking &amp; Markets segment w… [+58946 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Techtarget.com"
+        },
+        "author": "Beth Pariseau",
+        "title": "New Google Gemini AI tie-ins dig into local codebases",
+        "description": "Google ties in its latest Gemini AI model with company-specific data in a new code assistant and Vertex AI updates that also anticipate a coming wave of AI agent development.",
+        "url": "https://www.techtarget.com/searchsoftwarequality/news/366580176/New-Google-Gemini-AI-tie-ins-dig-into-local-codebases",
+        "urlToImage": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+        "publishedAt": "2024-04-09T10:59:00Z",
+        "content": "Google's Gemini 1.5 Pro model forms the foundation for a new AI code assistant and for updates to Vertex AI that also add the context of companies' own data to enhance results.\r\nThe updates were part… [+5973 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Investing.com",
+        "title": "Bandwidth Inc. controller sells $424 in stock",
+        "description": "Bandwidth Inc. controller sells $424 in stock",
+        "url": "https://www.investing.com/news/company-news/bandwidth-inc-controller-sells-424-in-stock-93CH-3380913",
+        "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+        "publishedAt": "2024-04-16T20:28:26Z",
+        "content": "RALEIGH, NC – Bandwidth Inc. (NASDAQ:BAND), a leading provider of cloud-based communications and API solutions, reported a recent transaction by Controller and Principal Accounting Officer Devin M. K… [+3388 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Investing.com",
+        "title": "Progressive Corp director sells shares worth over $208,000",
+        "description": "Progressive Corp director sells shares worth over $208,000",
+        "url": "https://www.investing.com/news/company-news/progressive-corp-director-sells-shares-worth-over-208000-93CH-3387061",
+        "urlToImage": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+        "publishedAt": "2024-04-19T15:41:33Z",
+        "content": "In a recent transaction on April 17, 2024, Devin C. Johnson, a director of Progressive Corp (NYSE:PGR), sold 1,000 shares of the company's stock. The shares were sold at an average price of $208.326,… [+2868 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Investing.com",
+        "title": "Bandwidth Inc. controller sells shares worth over $10k",
+        "description": "Bandwidth Inc. controller sells shares worth over $10k",
+        "url": "https://www.investing.com/news/stock-market-news/bandwidth-inc-controller-sells-shares-worth-over-10k-93CH-3352382",
+        "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_L.jpg",
+        "publishedAt": "2024-03-25T21:42:16Z",
+        "content": "Bandwidth Inc. (NASDAQ:BAND), a prominent player in the prepackaged software industry, has reported a notable transaction involving its Controller and Principal Accounting Officer (PAO), Devin M. Kru… [+3712 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Investing.com",
+        "title": "Trump Media finalizes live TV streaming development",
+        "description": "Trump Media finalizes live TV streaming development",
+        "url": "https://www.investing.com/news/company-news/trump-media-finalizes-live-tv-streaming-development-93CH-3379844",
+        "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+        "publishedAt": "2024-04-16T11:35:47Z",
+        "content": "SARASOTA, Fla. - Trump Media &amp; Technology Group Corp. (NASDAQ:DJT), known for its social media platform Truth Social, has completed the research and development phase for its new live TV streamin… [+3591 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mattturck.com"
+        },
+        "author": "fredcavazza",
+        "title": "Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape – Matt Turck",
+        "description": "This is our tenth annual landscape and “state of the union” of the data, analytics, machine learning and AI ecosystem.\n\n\n\nIn 10+ years covering the space, things have never been as exciting and promising as they are today.  All trends and subtrends we describ…",
+        "url": "https://mattturck.com/mad2024/",
+        "urlToImage": "https://mattturck.com/wp-content/uploads/2024/03/firstmark-mad-landscape-open-graph_purple-1-1024x534.jpeg",
+        "publishedAt": "2024-04-09T05:47:01Z",
+        "content": "This is our tenth annual landscape and state of the union of the data, analytics, machine learning and AI ecosystem.\r\nIn 10+ years covering the space, things have never been as exciting and promising… [+61251 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ETtech",
+        "title": "India’s new AI law decoded; Navi eyes $2 billion valuation",
+        "description": "News publishers in India have been seeking changes to the information technology rules to ensure fair compensation for the use of their content by generative AI models. The Digital News Publishers Association (DNPA) grouping has sent a letter and made represe…",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/indias-new-ai-law-decoded-navi-eyes-2-billion-valuation/articleshow/109049857.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-109049857,width-1070,height-580,imgsize-30684,overlay-ettech/photo.jpg",
+        "publishedAt": "2024-04-05T01:33:23Z",
+        "content": "The centre is working on a new artificial intelligence law which will protect the interests of news publishers and creators. Details on this and more in todays ETtech Morning DispatchAlso in this let… [+6467 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Techtarget.com"
+        },
+        "author": "Beth Pariseau",
+        "title": "GitLab Duo plans harness growing interest in platform AI",
+        "description": "GitLab's next release will tie its Duo AI tools to the full DevSecOps pipeline in a bid to capitalize on increased interest in AI automation among platform engineers.",
+        "url": "https://www.techtarget.com/searchitoperations/news/366581457/GitLab-Duo-plans-harness-growing-interest-in-platform-AI",
+        "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a264431831.jpg",
+        "publishedAt": "2024-04-18T17:54:00Z",
+        "content": "GitHub Copilot remains the coding assistant of choice among developers, but GitLab's near-term roadmap appears primed for the next major wave of AI adoption among enterprise platform engineers, accor… [+7525 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Freerepublic.com"
+        },
+        "author": "CNBC Business News",
+        "title": "Trump Media alerts Nasdaq to potential market manipulation from \"naked\" short selling of DJT stock",
+        "description": "Trump Media CEO Devin Nunes in his letter to [Nasdaq CEO] Friedman did not directly accuse anyone in particular of naked short selling, which is the [short] sale of stock without first having borrowed [the stock] for that purpose...But Nunes noted that as of …",
+        "url": "https://freerepublic.com/focus/f-news/4232282/posts",
+        "urlToImage": null,
+        "publishedAt": "2024-04-19T15:11:16Z",
+        "content": "Skip to comments.\r\nTrump Media alerts Nasdaq to potential market manipulation from \"naked\" short selling of DJT stockCNBC Business News ^\r\n | 19 April 2024\r\n | Dan Mangan\r\nPosted on 04/19/2024 8:11:1… [+3192 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Bigtechnology.com"
+        },
+        "author": "fredcavazza",
+        "title": "Will Search Engine Traffic Really Drop 25% by 2026, As Gartner Predicts?",
+        "description": "Gartner VP Alan Antin on the company’s prediction that search engine traffic is about to fall off a cliff.",
+        "url": "https://www.bigtechnology.com/p/will-search-engine-traffic-really",
+        "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3ff755f-6937-474f-a4a0-6d18d261ecc3_2030x1496.png",
+        "publishedAt": "2024-03-21T05:47:01Z",
+        "content": "Late last month, Gartner made a stunning prediction, forecasting an imminent and dramatic decline in search engine traffic. By 2026, traditional search engine volume will drop 25%, the research firm … [+9399 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Himanshi Lohchab and Beena Parmar",
+        "title": "Prompt in progress: GenAI text-to-code tools boost productivity",
+        "description": "Gen AI text-to-code tools hold promise of up to a 50% gain in productivity. Top IT firms are also embracing them for efficiency. But as Himanshi Lohchab and Beena Parmar find, the road to large-scale adoption is still dotted with caution.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/prompt-in-progress-genai-text-to-code-tools-boost-productivity/articleshow/109093288.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-109093796,width-1200,height-630,imgsize-2303570,overlay-ettech/photo.jpg",
+        "publishedAt": "2024-04-07T00:30:00Z",
+        "content": "Software developers across organisations are taking to generative artificial intelligence (AI) text-to-code tools such as IBM Codenet, Microsofts GitHub CoPilot, Amazons Code Whisperer as well as Sta… [+9002 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Platformer.news"
+        },
+        "author": "Zoë Schiffer",
+        "title": "Marissa Mayer’s eternal Sunshine",
+        "description": "I. For a brief moment in the tech world last week, it felt like 2012 again: a new photo sharing app had just launched, and everyone was talking about Marissa Mayer. Mayer, a prominent early Google emp",
+        "url": "https://www.platformer.news/marissa-mayer-sunshine-shine-app-design-cofounder-quits/",
+        "urlToImage": "https://www.platformer.news/content/images/size/w1200/2024/04/GettyImages-1179053428.jpg",
+        "publishedAt": "2024-04-05T00:00:00Z",
+        "content": "I.\r\nFor a brief moment in the tech world last week, it felt like 2012 again: a new photo sharing app had just launched, and everyone was talking about Marissa Mayer.\r\nMayer, a prominent early Google … [+19921 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "extracty added to PyPI",
+        "description": "extract structured data from any unstructered web page",
+        "url": "https://pypi.org/project/extracty/",
+        "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "publishedAt": "2024-03-27T23:38:59Z",
+        "content": "Extract structured data from any unstructered web page\r\nextracty is a library designed to streamline and simplify the process of extracting structured data from websites. Utilizing the robust functio… [+3078 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vox"
+        },
+        "author": "Kelsey Piper",
+        "title": "AI “agents” could do real work in the real world. That might not be a good thing.",
+        "description": "Why AI agents that could book your vacation or pay your bills are the next frontier in artificial intelligence.",
+        "url": "https://www.vox.com/future-perfect/24114582/artificial-intelligence-agents-openai-chatgpt-microsoft-google-ai-safety-risk-anthropic-claude",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/K65V2wS5Rarg8tP808XKRiVRyAA=/0x350:9128x5129/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25359520/GettyImages_1533302708.jpg",
+        "publishedAt": "2024-03-29T13:00:00Z",
+        "content": "Malorny/Getty Images\r\n\n \n\n Why AI agents that could book your vacation or pay your bills are the next frontier in artificial intelligence. ChatGPT and its large language model (LLM) competitors that … [+7281 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Investing.com",
+        "title": "Earnings call: Forge Global reports modest revenue growth in Q4",
+        "description": "Earnings call: Forge Global reports modest revenue growth in Q4",
+        "url": "https://www.investing.com/news/stock-market-news/earnings-call-forge-global-reports-modest-revenue-growth-in-q4-93CH-3355431",
+        "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_L.jpg",
+        "publishedAt": "2024-03-27T16:25:54Z",
+        "content": "Forge Global, Inc. (FRGE) reported an increase in fourth-quarter revenue and a significant growth in custodial administration fees for the full year 2023. The company, which has been investing in tec… [+53823 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Bleeding Cool News"
+        },
+        "author": "Rich Johnston",
+        "title": "Pink Floyd's Dark Side Of AI in The Daily LITG 8th of April 2024",
+        "description": "Pink Floyd's announcememt of an AI winning one of its 50th Anniversary of Dark Side Of The Moon animated video competitions topped yesterday's traffic at Bleeding Cool. Here you can still read all about comics, merch, TV shows, games, movies, and more. The Da…",
+        "url": "https://bleedingcool.com/pop-culture/pink-floyd-dark-side-of-ai-in-the-daily-litg-8th-of-april-2024/",
+        "urlToImage": "https://bleedingcool.com/wp-content/uploads/2024/04/Screenshot-861-2000x1125.jpg",
+        "publishedAt": "2024-04-08T07:45:07Z",
+        "content": "Posted in: Comics, Music, Pop Culture, TV | Tagged: newlitg, pink floyd\r\nPink Floyd's announcememt of an AI winning one of its Dark Side Of The Moon video competitions topped yesterday's traffic at B… [+8741 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Bleeding Cool News"
+        },
+        "author": "Rich Johnston",
+        "title": "Pink Floyd's Dark Side Of AI in The Daily LITG 8th of April 2024",
+        "description": "Pink Floyd's announcememt of an AI winning one of its 50th Anniversary of Dark Side Of The Moon animated video competitions topped yesterday's traffic at Bleeding Cool. Here you can still read all about comics, merch, TV shows, games, movies, and more. The Da…",
+        "url": "https://bleedingcool.com/comics/pink-floyd-dark-side-of-ai-in-the-daily-litg-8th-of-april-2024/",
+        "urlToImage": "https://bleedingcool.com/wp-content/uploads/2024/04/Screenshot-861-2000x1125.jpg",
+        "publishedAt": "2024-04-08T07:45:07Z",
+        "content": "Posted in: Comics | Tagged: newlitg, pink floyd\r\nPink Floyd's announcememt of an AI winning one of its Dark Side Of The Moon video competitions topped yesterday's traffic at Bleeding Cool.\r\nArticle S… [+8717 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PCMag.com"
+        },
+        "author": "Kate Irwin",
+        "title": "Google Launches Coding AIs That Could Rival Microsoft's Github Copilot",
+        "description": "Google releases Gemini Code Assist and CodeGemma, a version of its Gemini-inspired Gemma AI model that can write code in Python, Javascript, and Java.\nGoogle is launching two new AI coding tools based on its Gemini and Gemma AI models.The first is Gemini Code…",
+        "url": "https://uk.pcmag.com/ai/151788/google-launches-coding-ais-that-could-rival-microsofts-github-copilot",
+        "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/g/google-lau/google-launches-coding-ais-that-could-rival-microsofts-githu_kvbq.1200.jpg",
+        "publishedAt": "2024-04-10T12:27:53Z",
+        "content": "Google is launching two new AI coding tools based on its Gemini and Gemma AI models.\r\nThe first is Gemini Code Assist, which is based on Google's Gemini model formerly known as Bard. Gemini Code Assi… [+2617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Opensauced.pizza"
+        },
+        "author": "brianllamar",
+        "title": "Discovering Devin, Devika, and OpenDevin",
+        "description": "Chances are, you've heard of Devin, the AI software engineer that's \"going to take your job.\" No one will argue that AI is changing the way things are happening in tech. But now it's a little different. Now, AI isn't just helping software engineers, it's beco…",
+        "url": "https://news.opensauced.pizza/open-source-projects-that-are-gaining-steam-that-you-havent-heard-of/",
+        "urlToImage": "https://news.opensauced.pizza/content/images/size/w1200/2024/03/blogpost--5-.png",
+        "publishedAt": "2024-04-02T21:48:29Z",
+        "content": "Chances are, you've heard of Devin, the AI software engineer that's \"going to take your job.\" No one will argue that AI is changing the way things are happening in tech. But now it's a little differe… [+5263 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PCMag.com"
+        },
+        "author": "Kate Irwin",
+        "title": "Google Launches Coding AIs That Could Rival Microsoft's Github Copilot",
+        "description": "Google releases Gemini Code Assist and CodeGemma, a version of its Gemini-inspired Gemma AI model that can write code in Python, Javascript, and Java.\nGoogle is launching two new AI coding tools based on its Gemini and Gemma AI models.The first is Gemini Code…",
+        "url": "https://me.pcmag.com/en/ai/22994/google-launches-coding-ais-that-could-rival-microsofts-github-copilot",
+        "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/g/google-lau/google-launches-coding-ais-that-could-rival-microsofts-githu_912s.1200.jpg",
+        "publishedAt": "2024-04-10T12:27:53Z",
+        "content": "Google is launching two new AI coding tools based on its Gemini and Gemma AI models.\r\nThe first is Gemini Code Assist, which is based on Google's Gemini model formerly known as Bard. Gemini Code Assi… [+2617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Github.com"
+        },
+        "author": "afthab",
+        "title": "Show HN: Devika – Open-source alternative to Devin",
+        "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective...",
+        "url": "https://github.com/stitionai/devika",
+        "urlToImage": "https://opengraph.githubassets.com/9a780de536ee7b6a029e6c1fe995d0811491a5edd4a18259e2fa8cfcc7cdc528/stitionai/devika",
+        "publishedAt": "2024-03-21T07:38:08Z",
+        "content": "Important\r\nThis project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the pro… [+10615 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PCMag.com"
+        },
+        "author": "Kate Irwin",
+        "title": "AI Scientists Create Humanoid Robot That 'Thinks' Its Way Through Tasks",
+        "description": "The MenteeBot prototype responds to voice commands and can pick up and carry a range of objects to complete household tasks using real-time 'cognitive maps.'\nTech startup Mentee Robotics has unveiled its flagship robot, Mentee, whose prototype is able to list…",
+        "url": "https://uk.pcmag.com/news/151893/ai-scientists-create-humanoid-robot-that-thinks-its-way-through-tasks",
+        "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-scienti/ai-scientists-create-humanoid-robot-that-thinks-its-way-thro_f61q.1200.jpg",
+        "publishedAt": "2024-04-17T12:29:38Z",
+        "content": "Tech startup Mentee Robotics has unveiled its flagship robot, Mentee, whose prototype is able to listen to voice commands to complete a range of different tasks. The MenteeBot uses large language AI … [+2936 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PCMag.com"
+        },
+        "author": "Kate Irwin",
+        "title": "AI Scientists Create Humanoid Robot That 'Thinks' Its Way Through Tasks",
+        "description": "The MenteeBot prototype responds to voice commands and can pick up and carry a range of objects to complete household tasks using real-time 'cognitive maps.'\nTech startup Mentee Robotics has unveiled its flagship robot, Mentee, whose prototype is able to list…",
+        "url": "https://me.pcmag.com/en/news/23104/ai-scientists-create-humanoid-robot-that-thinks-its-way-through-tasks",
+        "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/a/ai-scienti/ai-scientists-create-humanoid-robot-that-thinks-its-way-thro_mx9q.1200.jpg",
+        "publishedAt": "2024-04-17T12:29:38Z",
+        "content": "Tech startup Mentee Robotics has unveiled its flagship robot, Mentee, whose prototype is able to listen to voice commands to complete a range of different tasks. The MenteeBot uses large language AI … [+2936 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Github.com"
+        },
+        "author": "miscstuffz",
+        "title": "Show HN: Anterion – Open-source AI software engineer (SWE-agent and OpenDevin)",
+        "description": "Hi there! At Anterion we've been working on merging together SWE-agent and OpenDevin to enable exploring SWE-agents open-ended problem solving capabilities. Excited to share our work with the wider community and see how well SWE-bench benchmarked agents work …",
+        "url": "https://github.com/MiscellaneousStuff/anterion",
+        "urlToImage": "https://opengraph.githubassets.com/0a66e93b51ebc3e6e1bbe5ad842e21783aa59269ff6f71fc5c36dcb95b1541f1/MiscellaneousStuff/anterion",
+        "publishedAt": "2024-04-10T23:20:11Z",
+        "content": "Anterion is an open-source AI software engineer.\r\nAnterion extends the capabilities of SWE-agent to plan and execute open-ended engineering tasks, with a frontend inspired by\r\nOpenDevin.\r\nWe've equip… [+2287 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Kyle Wiggers",
+        "title": "Canoo reveals it paid for CEO's jet, AT&T leaks records and X announces NSFW plans | TechCrunch",
+        "description": "Heya, folks, welcome to Week in Review (WiR), TechCrunch’s newsletter recapping the noteworthy happenings in tech over the past several days (and change).",
+        "url": "https://techcrunch.com/2024/04/06/canoo-reveals-it-paid-for-ceos-jet-att-leaks-records-and-x-announces-nsfw-plans/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/canoo-walmart-arkansas.jpg?resize=1200,670",
+        "publishedAt": "2024-04-06T20:17:24Z",
+        "content": "Heya, folks, welcome to Week in Review (WiR), TechCrunchs newsletter recapping the noteworthy happenings in tech over the past several days (and change).\r\nFamed startup accelerator Y Combinator had i… [+3298 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Wheresyoured.at"
+        },
+        "author": "cdme",
+        "title": "They're Looting the Internet",
+        "description": "Last week, Meta revealed (in a motion trying to dismiss an FTC anti-monopoly lawsuit) that Instagram made an astonishing $32.4 billion in advertising revenue in 2021. That figure becomes even more shocking when you consider Google's YouTube made $28.8 billion…",
+        "url": "https://www.wheresyoured.at/the-great-looting-of-the-internet/",
+        "urlToImage": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+        "publishedAt": "2024-04-15T19:23:36Z",
+        "content": "Last week, Meta revealed (in a motion trying to dismissan FTC anti-monopoly lawsuit\r\n) that Instagram madean astonishing $32.4 billion in advertising revenue in 2021\r\n. That figure becomes even more … [+30350 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "Hilary Lewis",
+        "title": "Writers Guild Awards 2024 Winners List (Updating Live)",
+        "description": "'American Fiction,' 'The Last of Us' and 'Beef' are among the winners so far. Follow along as this year's film and TV trophy recipients are announced in simultaneous ceremonies in New York and Los Angeles.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/writers-guild-awards-2024-winners-list-1235873732/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/GettyImages-12034464241.jpg?w=1024",
+        "publishedAt": "2024-04-14T23:03:52Z",
+        "content": "The 2024 Writers GuildAwards is taking place in simultaneous ceremonies in New York and Los Angeles.\r\nThe first award handed out in L.A. was for best adapted screenplay, which was given to the Oscars… [+18594 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Scott Shafer",
+        "title": "14 Bills Address the Legacy of Slavery and Racism in California",
+        "description": "After two years of work examining the legacy of slavery and racism, the California Legislative Black Caucus is prioritizing 14 bills aimed at addressing past wrongs. The bills range from ending involuntary servitude in prison to banning discrimination based o…",
+        "url": "https://www.kqed.org/news/11981649/14-bills-address-the-legacy-of-slavery-and-racism-in-california",
+        "urlToImage": null,
+        "publishedAt": "2024-04-03T00:30:05Z",
+        "content": "window.__IS_SSR__=true\r\n window.__INITIAL_STATE__={\"attachmentsReducer\":{\"audio_0\":{\"type\":\"attachments\",\"id\":\"audio_0\",\"imgSizes\":{\"kqedFullSize\":{\"file\":\"https://ww2.kqed.org/news/wp-content/themes… [+396463 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Attila Pelit",
+        "title": "California Universities Are Required to Offer Abortion Pills. Many Just Don’t Mention It",
+        "description": "California is the first state to require public universities to provide abortion pills to students, but 1 year on, information on where or how students can obtain the medication is lacking or nonexistent.",
+        "url": "https://www.kqed.org/news/11981688/california-universities-are-required-to-offer-abortion-pills-many-just-dont-mention-it",
+        "urlToImage": null,
+        "publishedAt": "2024-04-03T11:01:56Z",
+        "content": "window.__IS_SSR__=true\r\n window.__INITIAL_STATE__={\"attachmentsReducer\":{\"audio_0\":{\"type\":\"attachments\",\"id\":\"audio_0\",\"imgSizes\":{\"kqedFullSize\":{\"file\":\"https://ww2.kqed.org/news/wp-content/themes… [+499082 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Alan Montecillo",
+        "title": "A Toxic Dust Threatens Salmon. Can We Do Something About It?",
+        "description": "KQED provides public radio, television, and independent reporting on issues that matter to the Bay Area. We’re the NPR and PBS member station for Northern California.",
+        "url": "https://www.kqed.org/news/11981642/a-toxic-dust-threatens-salmon-can-we-do-something-about-it",
+        "urlToImage": null,
+        "publishedAt": "2024-04-03T10:00:36Z",
+        "content": "window.__IS_SSR__=true\r\n window.__INITIAL_STATE__={\"attachmentsReducer\":{\"audio_0\":{\"type\":\"attachments\",\"id\":\"audio_0\",\"imgSizes\":{\"kqedFullSize\":{\"file\":\"https://ww2.kqed.org/news/wp-content/themes… [+499052 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Vanessa Rancaño",
+        "title": "Audit Finds SF Homeless Housing Provider Misspent Taxpayer Money",
+        "description": "KQED provides public radio, television, and independent reporting on issues that matter to the Bay Area. We’re the NPR and PBS member station for Northern California.",
+        "url": "https://www.kqed.org/news/11981767/audit-finds-sf-homeless-housing-provider-misspent-taxpayer-money",
+        "urlToImage": null,
+        "publishedAt": "2024-04-03T19:41:21Z",
+        "content": "window.__IS_SSR__=true\r\n window.__INITIAL_STATE__={\"attachmentsReducer\":{\"audio_0\":{\"type\":\"attachments\",\"id\":\"audio_0\",\"imgSizes\":{\"kqedFullSize\":{\"file\":\"https://ww2.kqed.org/news/wp-content/themes… [+465052 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Nik Altenberg",
+        "title": "After Delays, Vallejo’s Homeless Shelter Finally Underway",
+        "description": "KQED provides public radio, television, and independent reporting on issues that matter to the Bay Area. We’re the NPR and PBS member station for Northern California.",
+        "url": "https://www.kqed.org/news/11981737/after-delays-vallejos-homeless-shelter-finally-underway",
+        "urlToImage": null,
+        "publishedAt": "2024-04-03T21:00:52Z",
+        "content": "window.__IS_SSR__=true\r\n window.__INITIAL_STATE__={\"attachmentsReducer\":{\"audio_0\":{\"type\":\"attachments\",\"id\":\"audio_0\",\"imgSizes\":{\"kqedFullSize\":{\"file\":\"https://ww2.kqed.org/news/wp-content/themes… [+465090 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "KQED News Staff",
+        "title": "Snow Survey Reveals Good News for Californians",
+        "description": "Latest Snow Survey 110 Percent of Average State water officials say the last snow survey of the season on Tuesday revealed good news for the millions of Californians and farms who rely on snowmelt. Reporter: Ezra David Romero, KQED LA County Giving Out Gun Lo…",
+        "url": "https://www.kqed.org/news/11981730/snow-survey-reveals-good-news-for-californians",
+        "urlToImage": null,
+        "publishedAt": "2024-04-03T14:05:08Z",
+        "content": "window.__IS_SSR__=true\r\n window.__INITIAL_STATE__={\"attachmentsReducer\":{\"audio_0\":{\"type\":\"attachments\",\"id\":\"audio_0\",\"imgSizes\":{\"kqedFullSize\":{\"file\":\"https://ww2.kqed.org/news/wp-content/themes… [+465068 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Attila Pelit",
+        "title": "World Central Kitchen Has Fed Crisis Zones for Years, Including in California",
+        "description": "The U.S.-based nonprofit founded by celebrity chef José Andrés and his wife announced a pause to its Gaza aid operations after an Israeli strike killed seven World Central Kitchen workers on April 1.",
+        "url": "https://www.kqed.org/news/11981650/world-central-kitchen-has-fed-crisis-zones-for-years-including-in-california",
+        "urlToImage": null,
+        "publishedAt": "2024-04-03T14:30:14Z",
+        "content": "window.__IS_SSR__=true\r\n window.__INITIAL_STATE__={\"attachmentsReducer\":{\"audio_0\":{\"type\":\"attachments\",\"id\":\"audio_0\",\"imgSizes\":{\"kqedFullSize\":{\"file\":\"https://ww2.kqed.org/news/wp-content/themes… [+465130 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "VentureBeat"
+        },
+        "author": "Carl Franzen",
+        "title": "SambaNova announces new AI Samba-CoE v0.2 that already beats Databricks DBRX",
+        "description": "What makes this achievement particularly notable is the efficiency of the model—it achieves these speeds without compromising on precision.",
+        "url": "https://venturebeat.com/ai/sambanova-announces-new-ai-samba-coe-v0-2-that-already-beats-databricks-dbrx/",
+        "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_an_orange_robot_takes_the_lead_over_rival_blue_and_gree_aad87311-9031-47e3-b727-e73fa40e34ce.webp?w=1200&strip=all",
+        "publishedAt": "2024-03-28T23:09:45Z",
+        "content": "Join us in Atlanta on April 10th and explore the landscape of security workforce. We will explore the vision, benefits, and use cases of AI for security teams.Request an invite here.\r\nAI chip-maker S… [+1056 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Runtime.news"
+        },
+        "author": "Tom Krazit",
+        "title": "Big money lines up behind a Redis fork",
+        "description": "Today: why some of the biggest names in enterprise tech will back an open-source fork of Redis, Databricks jumps into the open LLM game, and the latest moves in enterprise tech.",
+        "url": "https://www.runtime.news/big-money-lines-up-behind-a-redis-fork/",
+        "urlToImage": "https://images.unsplash.com/photo-1625859436660-08e1a5e28684?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNyb3Nzcm9hZHN8ZW58MHx8fHwxNzExNjY4NDY0fDA&ixlib=rb-4.0.3&q=80&w=2000content/images/size/w1200",
+        "publishedAt": "2024-03-30T00:12:36Z",
+        "content": "Welcome to Runtime! Today: why some of the biggest names in enterprise tech will back an open-source fork of Redis, Databricks jumps into the open LLM game, and the latest moves in enterprise tech.\r\n… [+7209 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Github.io"
+        },
+        "author": "Qwen Team",
+        "title": "Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series",
+        "description": "GITHUB HUGGING FACE MODELSCOPE DEMO DISCORD\nIntroduction The open-source community has long sought a model that strikes an ideal balance between performance, efficiency, and memory footprint. Despite the emergence of cutting-edge models like Qwen1.5-72B and D…",
+        "url": "http://qwenlm.github.io/blog/qwen1.5-32b/",
+        "urlToImage": "http://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E",
+        "publishedAt": "2024-04-05T15:13:29Z",
+        "content": "GITHUBHUGGING FACEMODELSCOPEDEMODISCORD\r\nIntroduction#\r\nThe open-source community has long sought a model that strikes an ideal balance between performance, efficiency, and memory footprint. Despite … [+4989 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "It's sentencing day for Sam Bankman-Fried",
+        "description": "Bitcoin is booming, but a piece of its darker past is back in the spotlight.",
+        "url": "https://www.businessinsider.com/insider-today-sam-bankman-fried-ftx-bitcoin-prison-sentencing-cryptocurrency-2024-3",
+        "urlToImage": "https://i.insider.com/653aeece356802a56be57380?width=1200&format=jpeg",
+        "publishedAt": "2024-03-28T14:20:11Z",
+        "content": "Sam Bankman-Fried.Chelsea Jia Feng/Insider.\r\n<ul><li>This post originally appeared in the Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Hi! … [+6913 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Steve McDowell, Contributor, \n Steve McDowell, Contributor\n https://www.forbes.com/sites/stevemcdowell/",
+        "title": "Databrick’s New Open Source LLM",
+        "description": "Databricks addresses the need for open LLMs with DBRX, a new open, general-purpose large language model that sets new benchmarks for performance and efficiency.",
+        "url": "https://www.forbes.com/sites/stevemcdowell/2024/04/08/databricks-new-open-source-llm/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66146def4f81ec2044d07d7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-04-08T22:22:17Z",
+        "content": "Databricks\r\nSOPA Images/LightRocket via Getty Images\r\nData analytics company Databricks says its mission is to deliver data intelligence to every enterprise by allowing organizations to understand an… [+4892 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Richard Nieva, Forbes Staff, \n Richard Nieva, Forbes Staff\n https://www.forbes.com/sites/richardnieva/",
+        "title": "Databricks Unveils An AI Model That Helps Businesses Build Their Own Models",
+        "description": "Called DBRX, the model will allow businesses to create custom artificial intelligence based on their own proprietary data.",
+        "url": "https://www.forbes.com/sites/richardnieva/2024/03/27/databricks-dbrx/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6603574e5087d51972301ee1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-03-27T12:00:00Z",
+        "content": "Databricks, an AI analytics company, released its own AI language model.\r\nSOPA Images/LightRocket via Getty Images\r\nDatabricks, an AI data and analytics company valued at $43 billion, unveiled a new … [+3381 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "Introducing DBRX: A New State-of-the-Art Open LLM",
+        "description": "Today, we are excited to introduce DBRX, an open, general-purpose LLM created by Databricks. Across a range of standard benchmarks, DBRX sets a...",
+        "url": "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-03/dbrx-technical-blog-og_0.png",
+        "publishedAt": "2024-03-27T12:09:23Z",
+        "content": "Today, we are excited to introduce DBRX, an open, general-purpose LLM created by Databricks. Across a range of standard benchmarks, DBRX sets a new state-of-the-art for established open LLMs. Moreove… [+23772 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Github.io"
+        },
+        "author": "Qwen Team",
+        "title": "Qwen1.5-Moe: Matching 7B Model Performance with 1/3 Activated Parameters",
+        "description": "GITHUB HUGGING FACE MODELSCOPE DEMO DISCORD\nIntroduction Since the surge in interest sparked by Mixtral, research on mixture-of-expert (MoE) models has gained significant momentum. Both researchers and practitioners are keenly interested in understanding how …",
+        "url": "http://qwenlm.github.io/blog/qwen-moe/",
+        "urlToImage": "http://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E",
+        "publishedAt": "2024-03-29T18:45:31Z",
+        "content": "GITHUBHUGGING FACEMODELSCOPEDEMODISCORD\r\nIntroduction#\r\nSince the surge in interest sparked by Mixtral, research on mixture-of-expert (MoE) models has gained significant momentum. Both researchers an… [+10779 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "Announcing DBRX: A new standard for efficient open source LLMs",
+        "description": "Databricks’ mission is to deliver data intelligence to every enterprise by allowing organizations to understand and use their unique data to build their...",
+        "url": "https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-03/dbrx-founders-blog-og.png",
+        "publishedAt": "2024-03-27T12:09:23Z",
+        "content": "Databricks mission is to deliver data intelligence to every enterprise by allowing organizations to understand and use their unique data to build their own AI systems. Today, we are excited to advanc… [+4602 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "Accelerated DBRX Inference on Mosaic AI Model Serving",
+        "description": "Introduction In this blog post we dive into inference with DBRX, the open state-of-the-art large language model (LLM) created by Databricks (see Introducing...",
+        "url": "https://www.databricks.com/blog/accelerated-dbrx-inference-mosaic-ai-model-serving",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-04/Screenshot-2024-04-16-at-10.58.26-AM.png",
+        "publishedAt": "2024-04-16T17:00:00Z",
+        "content": "Introduction\r\nIn this blog post we dive into inference with DBRX, the open state-of-the-art large language model (LLM) created by Databricks (see Introducing DBRX). We discuss how DBRX was designed f… [+22493 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Macdailynews.com"
+        },
+        "author": "MacDailyNews",
+        "title": "DBRX: Inside the creation of the world’s most powerful open source AI model",
+        "description": "Startup Databricks just released DBRX, the most powerful open source large language model yet — eclipsing Meta’s Llama 2…\nThe post DBRX: Inside the creation of the world’s most powerful open source AI model appeared first on MacDailyNews.",
+        "url": "https://macdailynews.com/2024/03/27/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/",
+        "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2024/03/240327_dbrx.png",
+        "publishedAt": "2024-03-27T19:33:51Z",
+        "content": "Startup Databricks just released DBRX, the most powerful open source large language model yet eclipsing Metas Llama 2.\r\nDBRX is an open, general-purpose LLM. Across a range of standard benchmarks, DB… [+1938 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Databricks spent $10M on new DBRX generative AI model, but it can't beat GPT-4",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b6bdfe37-a286-4786-b559-52b1b0433ed9",
+        "urlToImage": null,
+        "publishedAt": "2024-03-27T12:00:33Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "Bringing MegaBlocks to Databricks",
+        "description": "At Databricks, we’re committed to building the most efficient and performant training tools for large-scale AI models. With the recent release of DBRX...",
+        "url": "https://www.databricks.com/blog/bringing-megablocks-databricks",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-04/bringing-megablocks-to-databricks-og.png",
+        "publishedAt": "2024-04-09T23:52:48Z",
+        "content": "At Databricks, were committed to building the most efficient and performant training tools for large-scale AI models. With the recent release of DBRX, weve highlighted the power of Mixture-of-Experts… [+4951 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ZDNet"
+        },
+        "author": "Tiernan Ray",
+        "title": "AI21 and Databricks show open source can radically slim down AI",
+        "description": "Two new large language models, Jamba and DBRX, dramatically reduce the compute and memory needed for predictions, while meeting or beating the performance of top models such as GPT-3.5 and Llama 2.",
+        "url": "https://www.zdnet.com/article/ai21-and-databricks-show-open-source-can-radically-slim-down-ai/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/fee8733d80a14f7ab5563c1c73c88561341c8559/2024/03/31/0dd4dd07-05b3-46b3-bc7f-5414d738d521/jamba-dbrx-splash-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-04-02T13:36:24Z",
+        "content": "AI21 Labs, Databricks\r\nAs the forces of open-source generative AI try to counter the closed-source AI giants like OpenAI and Anthropic, one of their key weapons will be the efficiency gains from runn… [+5068 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Dataversity.net"
+        },
+        "author": "DATAVERSITY News",
+        "title": "Databricks Launches Open-Source Large Language Model DBRX",
+        "description": "According to a new press release, Databricks has unveiled DBRX, a groundbreaking large language model (LLM), marking a significant stride in democratizing data and AI. DBRX stands out by surpassing established open-source models on various industry benchmarks…",
+        "url": "https://www.dataversity.net/databricks-launches-open-source-large-language-model-dbrx/",
+        "urlToImage": "https://d3an9kf42ylj3p.cloudfront.net/uploads/2023/08/data_news.jpg",
+        "publishedAt": "2024-03-28T07:20:00Z",
+        "content": "According to a new press release, Databricks has unveiled DBRX, a groundbreaking large language model (LLM), marking a significant stride in democratizing data and AI. DBRX stands out by surpassing e… [+1262 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Artificialanalysis.ai"
+        },
+        "author": null,
+        "title": "Comparison of AI Models across Quality, Performance, Price | Artificial Analysis",
+        "description": "Comparison of Models: Quality, Performance & Price AnalysisComparison and analysis of AI models across key metrics including quality, price, performance and speed (throughput tokens per second & latency), context window & others. Click on any model to see det…",
+        "url": "https://artificialanalysis.ai/models",
+        "urlToImage": "https://artificialanalysis.ai/img/open-graph/og-image.png",
+        "publishedAt": "2024-04-04T08:35:48Z",
+        "content": "Comparison and analysis of AI models across key metrics including quality, price, performance and speed (throughput tokens per second &amp; latency), context window &amp; others. Click on any model t… [+708 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Paul Gillin",
+        "title": "Databricks open-sources its own large language model, DBRX",
+        "description": "Databricks Inc. today launched DBRX, a general-purpose large language model that it says outperforms all existing open-source models — and some proprietary ones — on standard benchmarks. The company said it’s open-sourcing the model to encourage customers to …",
+        "url": "https://siliconangle.com/2024/03/27/databricks-open-sources-large-language-model/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/maxresdefault.jpg",
+        "publishedAt": "2024-03-27T12:00:26Z",
+        "content": "Databricks Inc. today launched DBRX, a general-purpose large language model that it says outperforms all existing open-source models and some proprietary ones on standard benchmarks.\r\nThe company sai… [+4571 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Mark Albertson",
+        "title": "DBRX launch by Databricks demonstrates how early gambles on industry direction can pay off",
+        "description": "In late March, when Databricks Inc. launched DBRX, a general-purpose large language model, it marked another milestone in a strategy based on three big bets when the firm started in 2013. “The first was that organizations were going to be moving to the cloud,…",
+        "url": "https://siliconangle.com/2024/04/12/databricks-dbrx-highlights-open-source-ai-googlecloudnext/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/04/Chris-D’Agostino-chief-technology-officer-Databricks-Google-Cloud-Next-2024-1.jpg",
+        "publishedAt": "2024-04-12T19:12:56Z",
+        "content": "In late March, when Databricks Inc. launched DBRX, a general-purpose large language model, it marked another milestone in a strategy based on three big bets when the firm started in 2013.\r\nThe first … [+2884 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huggingface.co"
+        },
+        "author": null,
+        "title": "Llama 3 8B is almost as good as Wizard 2 8x22B",
+        "description": "This 8b model is insane.... almost level of wizard 2 8x22b! which has 140b parameters....wtf!",
+        "url": "https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5",
+        "urlToImage": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5.png",
+        "publishedAt": "2024-04-19T09:11:27Z",
+        "content": "' --in-prefix \\\"\\\\n&lt;|start_header_id|&gt;user&lt;|end_header_id|&gt;\\\\n\\\\n\\\" --in-suffix \\\"&lt;|eot_id|&gt;&lt;|start_header_id|&gt;assistant&lt;|end_header_id|&gt;\\\\n\\\\n\\\" -p \\\"&lt;|begin_of_text… [+61690 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Zerotomastery.io"
+        },
+        "author": null,
+        "title": "Zero to Mastery: Python Monthly Newsletter ",
+        "description": "52nd issue of Andrei Neagoie's must-read monthly Python Newsletter read by 15,000+ Pythonistas. Get up-to-date with the top Python news from last month.",
+        "url": "https://zerotomastery.io/blog/python-monthly-newsletter-march-2024/",
+        "urlToImage": "https://images.ctfassets.net/aq13lwl6616q/6QISfE5q85w790libGuFID/b564a4b46253311f115cc4024b196850/Python_Monthly.png",
+        "publishedAt": "2024-04-01T10:00:00Z",
+        "content": "52nd issue! If you missed the previous ones, you can read all the previous issues of my monthly Python newsletter here.\r\nPython Developer Monthly Newsletter\r\nIf its your first time here, welcome, kee… [+6107 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theregister.com"
+        },
+        "author": "Lindsay Clark",
+        "title": "Databricks claims its open source foundational LLM outsmarts GPT-3.5",
+        "description": "In the AI gold rush, analytics outfit wants to provide the shovels Analytics platform Databricks has launched an open source foundational large language model, hoping enterprises will opt to use its tools to jump on the LLM bandwagon.…",
+        "url": "https://www.theregister.com/2024/03/28/databricks_dbrx_llm/",
+        "urlToImage": "https://regmedia.co.uk/2023/06/26/databricks_shutterstock.jpg",
+        "publishedAt": "2024-03-28T08:32:08Z",
+        "content": "Analytics platform Databricks has launched an open source foundational large language model, hoping enterprises will opt to use its tools to jump on the LLM bandwagon.\r\nThe biz, founded around Apache… [+3880 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "DSPy on Databricks",
+        "description": "Large language models (LLMs) have generated interest in effective human-AI interaction through optimizing prompting techniques. “Prompt engineering” is a growing methodology for tailoring...",
+        "url": "https://www.databricks.com/blog/dspy-databricks",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-04/dspy-on-databricks-social-card-2.png",
+        "publishedAt": "2024-04-08T22:24:46Z",
+        "content": "Large language models (LLMs) have generated interest in effective human-AI interaction through optimizing prompting techniques. Prompt engineering is a growing methodology for tailoring model outputs… [+9207 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sarah Whitmire, Forbes Staff, \n Sarah Whitmire, Forbes Staff\n https://www.forbes.com/sites/sarahwhitmire/",
+        "title": "Under Pressure: 25% Of Tech Leaders Say They Moved Too Fast On AI",
+        "description": "The published version of Forbes’ CIO newsletter delivers the latest news for chief innovation officers and other technology-focused leaders to inboxes every Thursday.",
+        "url": "https://www.forbes.com/sites/sarahwhitmire/2024/03/28/under-pressure-25-of-tech-leaders-say-they-moved-too-fast-on-ai/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6605c51ab2e7e7af3cc71c5f/0x0.jpg?format=jpg&crop=1823,1025,x0,y167,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-03-28T19:29:59Z",
+        "content": "This is the published version of Forbes CIO newsletter, which offers the latest news for chief innovation officers and other technology-focused leaders. Click here to get it delivered to your inbox e… [+6595 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "Simplifying Data Governance in AI-driven Financial Services",
+        "description": "In the era of rapid data growth and increasing pressure on financial institutions to utilize data for AI or genAI models, data governance...",
+        "url": "https://www.databricks.com/blog/simplifying-data-governance-ai-driven-financial-services",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-04/2024-04-blog-simplify-data-goverance-1200x628.png",
+        "publishedAt": "2024-04-03T12:58:10Z",
+        "content": "In the era of rapid data growth and increasing pressure on financial institutions to utilize data for AI or genAI models, data governance is becoming increasingly critical. Regulators are paying more… [+8592 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "Databricks Wins 2024 Google Cloud Partner of the Year Award",
+        "description": "We're excited to announce that Databricks has been honored with the 2024 Google Cloud Technology Partner of the Year award for Data -...",
+        "url": "https://www.databricks.com/blog/databricks-wins-2024-google-cloud-partner-year-award",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-04/db-958-blog-img-og.png",
+        "publishedAt": "2024-04-08T14:03:06Z",
+        "content": "We're excited to announce that Databricks has been honored with the 2024 Google Cloud Technology Partner of the Year award for Data - Artificial Intelligence &amp; Machine Learning. This award recogn… [+2588 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "theregister.com",
+        "title": "Databricks claims its open source foundational LLM outsmarts GPT-3.5",
+        "description": "Analytics platform Databricks has launched an open source foundational large language model, hoping enterprises will opt to use its tools to jump on the LLM bandwagon. The biz, founded around Apache Spark, published a slew of benchmarks claiming its general-p…",
+        "url": "https://biztoc.com/x/273081aae76baf50",
+        "urlToImage": "https://c.biztoc.com/p/273081aae76baf50/s.webp",
+        "publishedAt": "2024-03-28T08:44:12Z",
+        "content": "Analytics platform Databricks has launched an open source foundational large language model, hoping enterprises will opt to use its tools to jump on the LLM bandwagon.The biz, founded around Apache S… [+293 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "wired.com",
+        "title": "Inside the Creation of the World’s Most Powerful Open Source AI Model",
+        "description": "This past Monday, about a dozen engineers and executives at data science and AI company Databricks gathered in conference rooms connected via Zoom to learn if they had succeeded in building a top artificial intelligence language model. The team had spent mont…",
+        "url": "https://biztoc.com/x/c87f6ecdea8ea0de",
+        "urlToImage": "https://c.biztoc.com/p/c87f6ecdea8ea0de/s.webp",
+        "publishedAt": "2024-03-27T12:20:17Z",
+        "content": "This past Monday, about a dozen engineers and executives at data science and AI company Databricks gathered in conference rooms connected via Zoom to learn if they had succeeded in building a top art… [+303 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daemonology.net"
+        },
+        "author": null,
+        "title": "Daily Hacker News for 2024-03-27",
+        "description": "The 10 highest-rated articles on\nHacker News\non March 27, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n<ul>\n<li>\nWho killed the network switch? A Hubris Bug Story\n(comments)\n</li>\n<li>\nEveryone is John: A competitive roleplaying game fo…",
+        "url": "https://www.daemonology.net/hn-daily/2024-03-27.html",
+        "urlToImage": null,
+        "publishedAt": "2024-03-28T00:00:00Z",
+        "content": "The 10 highest-rated articles on\r\nHacker News\r\non March 27, 2024 which have not appeared on any previous\r\nHacker News Daily\r\nare:"
+    },
+    {
+        "source": {
+            "id": "hacker-news",
+            "name": "Hacker News"
+        },
+        "author": "m2gavin",
+        "title": "Introducing DBRX: A New State-of-the-Art Open LLM by Databricks | Hacker News",
+        "description": null,
+        "url": "https://news.ycombinator.com/item?id=39838104",
+        "urlToImage": null,
+        "publishedAt": "2024-03-29T05:47:01Z",
+        "content": "A lot of enterprise orgs are convinced of two things:1. They need to train their own LLMs\r\n2. They must fine-tune an LLM to make use of this tech\r\nNow number (1) is almost entirely false, but there a… [+1295 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Databricks.com"
+        },
+        "author": null,
+        "title": "Accurate, Safe and Governed: How to Move GenAI from POC to Production",
+        "description": "When it comes to enterprise adoption of generative AI, most organizations are in transition. While around 90% of customers we've talked to say...",
+        "url": "https://www.databricks.com/blog/accurate-safe-and-governed-GenAI",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2024-04/AccurateSafeGoverned.svg",
+        "publishedAt": "2024-04-17T19:23:29Z",
+        "content": "When it comes to enterprise adoption of generative AI, most organizations are in transition. While around 90% of customers we've talked to say they are currently running GenAI pilot projects, 90% of … [+8606 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "techcrunch.com",
+        "title": "Databricks spent $10M on new DBRX generative AI model, but it can’t beat GPT-4",
+        "description": "If you wanted to raise the profile of your major tech company and had $10 million to spend, how would you spend it? On a Super Bowl ad? An F1 sponsorship? You could spend it training a generative AI model. While not marketing in the traditional sense, generat…",
+        "url": "https://biztoc.com/x/463bd13417f66a31",
+        "urlToImage": "https://c.biztoc.com/p/463bd13417f66a31/s.webp",
+        "publishedAt": "2024-03-27T12:08:04Z",
+        "content": "If you wanted to raise the profile of your major tech company and had $10 million to spend, how would you spend it? On a Super Bowl ad? An F1 sponsorship?You could spend it training a generative AI m… [+275 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "techcrunch.com",
+        "title": "Databricks spent $10M on new DBRX generative AI model, but it can’t beat GPT-4",
+        "description": "If you wanted to raise the profile of your major tech company and had $10 million to spend, how would you spend it? On a Super Bowl ad? An F1 sponsorship? You could spend it training a generative AI model. While not marketing in the traditional sense, generat…",
+        "url": "https://biztoc.com/x/a1e41f3148716e75",
+        "urlToImage": "https://c.biztoc.com/p/a1e41f3148716e75/og.webp",
+        "publishedAt": "2024-03-27T15:32:05Z",
+        "content": "If you wanted to raise the profile of your major tech company and had $10 million to spend, how would you spend it? On a Super Bowl ad? An F1 sponsorship?You could spend it training a generative AI m… [+275 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Techtarget.com"
+        },
+        "author": "Eric Avidon",
+        "title": "New Databricks open source LLM targets custom development",
+        "description": "The data platform vendor's new language model was designed to provide open source users with AI development capabilities similar to those provided by closed source models.",
+        "url": "https://www.techtarget.com/searchbusinessanalytics/news/366575678/New-Databricks-open-source-LLM-targets-custom-development",
+        "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a252657224.jpg",
+        "publishedAt": "2024-03-27T15:56:00Z",
+        "content": "Databricks on Wednesday launched DBRX, a new open source large language model designed to match the performance of closed source models and help users develop customized AI models.\r\nDBRX is not the f… [+10028 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ComputerWeekly.com"
+        },
+        "author": "Steve  Ranger",
+        "title": "Generative AI: Databricks unveils open source large language model",
+        "description": "Enterprise customers are shifting to open source options to build customised generative AI tools using their own data, says Databricks",
+        "url": "https://www.computerweekly.com/news/366575612/Generative-AI-Databricks-unveils-open-source-large-language-model",
+        "urlToImage": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero Images/programming-language-code-script-adobe.jpg",
+        "publishedAt": "2024-03-27T09:05:00Z",
+        "content": "Data and artificial intelligence (AI) company Databricks has unveiled DBRX, a general-purpose large language model (LLM) that it claims can outperform other open source models.\r\nThe company said DBRX… [+5999 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "InfoWorld"
+        },
+        "author": "Anirban Ghoshal",
+        "title": "Databricks’ open-source DBRX LLM beats Llama 2, Mixtral, and Grok",
+        "description": "Data lakehouse provider Databricks has released a family of open-source large language models (LLM), DBRX, that it says outperforms OpenAI’s GPT 3.5 and open-source models such as Mixtral, Claude 3, Llama 2, and Grok-1 on standard benchmarking tests.\r\nTo read…",
+        "url": "https://www.infoworld.com/article/3714625/databricks-open-source-dbrx-llm-beats-llama-2-mixtral-and-grok.html",
+        "urlToImage": "https://images.idgesg.net/images/article/2023/11/shutterstock_2380464095-100948325-large.jpg?auto=webp&quality=85,70",
+        "publishedAt": "2024-03-27T16:10:00Z",
+        "content": "Data lakehouse provider Databricks has released a family of open-source large language models (LLM), DBRX, that it says outperforms OpenAIs GPT 3.5 and open-source models such as Mixtral, Claude 3, L… [+2083 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "On theCUBE Pod: Thoughts on Sam Bankman-Fried’s sentence and the latest in the AI arms race",
+        "description": "A massive development came down in the cryptocurrency world this week, as FTX Trading Ltd. founder Sam Bankman-Fried was sentenced to 25 years in prison for fraud. That was one piece of big news for theCUBE Research industry analysts John Furrier (pictured, l…",
+        "url": "https://siliconangle.com/2024/03/29/sam-bankman-fried-ftx-john-furrier-dave-vellante-thecubepod/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Dave-Vellante-and-John-Furrier-theCUBE-Podcast-Episode-52-28-March-2024.png",
+        "publishedAt": "2024-03-29T16:14:05Z",
+        "content": "A massive development came down in the cryptocurrency world this week, as FTX Trading Ltd. founder Sam Bankman-Fried was sentenced to 25 years in prison for fraud. That was one piece of big news for … [+6049 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "InfoQ.com"
+        },
+        "author": "Daniel Dominguez",
+        "title": "Databrix Announces DBRX, a New Open-Source LLM Standard",
+        "description": "Databricks launched DBRX, a new open-source large language model (LLM) that promises to redefine the standards of open models, outperforming well-known competitors on industry standards. By Daniel Dominguez",
+        "url": "https://www.infoq.com/news/2024/03/databrix-dbrx-llm/",
+        "urlToImage": "https://res.infoq.com/news/2024/03/databrix-dbrx-llm/en/headerimage/generatedHeaderImage-1711729499946.jpg",
+        "publishedAt": "2024-03-30T10:20:00Z",
+        "content": "Databricks launched DBRX, a new open-source large language model (LLM) that promises to redefine the standards of open models, outperforming well-known competitors on industry standards.\r\nWith a stag… [+2087 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MSPoweruser"
+        },
+        "author": "Rafly Gilang",
+        "title": "Databricks’ $10 million-worth new DBRX open-source language models are finally here",
+        "description": "Databricks has just recently announced that it's launching DBRX, its set of generative AI models that's now available on GitHub.\nThe post Databricks’ $10 million-worth new DBRX open-source language models are finally here appeared first on MSPoweruser.",
+        "url": "https://mspoweruser.com/databricks-10-million-worth-new-dbrx-open-source-language-models-are-finally-here/",
+        "urlToImage": "https://mspoweruser.com/wp-content/uploads/2024/03/dbrx.png",
+        "publishedAt": "2024-03-28T09:16:58Z",
+        "content": "Databricks has just recently announced that it’s launching DBRX, its set of generative AI models that’s now available on GitHub and Hugging Face. It’s pre-trained on 12T tokens, uses GLU and GQA, and… [+1261 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Robert Hof",
+        "title": "Big bucks keep streaming into generative AI. How long can this last?",
+        "description": "Big money keeps pouring into generative artificial intelligence, a sign of both the enthusiasm about its potential and the high costs of creating all those mega AI models. This week’s hauls included $2.75 billion for Anthropic from Amazon, and both Scale AI a…",
+        "url": "https://siliconangle.com/2024/03/29/big-bucks-keep-streaming-generative-ai-long-can-last/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/moneystreamingai.jpeg",
+        "publishedAt": "2024-03-29T20:01:26Z",
+        "content": "Big money keeps pouring into generative artificial intelligence, a sign of both the enthusiasm about its potential and the high costs of creating all those mega AI models.\r\nThis week’s hauls included… [+8807 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ETtech",
+        "title": "Aakash Chaudhry won’t return to Byju’s; Alteria’s Rs 1,550 crore Fund-III",
+        "description": "Happy Thursday! Talks between Aakash Institute promoters and Byju’s on Aakash Chaudhry’s return to helm the coaching firm have failed. Details on this and more in today’s ETtech Morning Dispatch.",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/aakash-chaudhry-wont-return-to-byjus-alterias-rs-1550-crore-fund-iii/articleshow/108833707.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-108833707,width-1070,height-580,imgsize-25496,overlay-ettech/photo.jpg",
+        "publishedAt": "2024-03-28T01:27:41Z",
+        "content": "Happy Thursday! Talks between Aakash Institute promoters and Byjus on Aakash Chaudhrys return to helm the coaching firm have failed. Details on this and more in todays ETtech Morning Dispatch.Also in… [+7517 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "BeauHD",
+        "title": "Databricks Claims Its Open Source Foundational LLM Outsmarts GPT-3.5",
+        "description": "Lindsay Clark reports via The Register: Analytics platform Databricks has launched an open source foundational large language model, hoping enterprises will opt to use its tools to jump on the LLM bandwagon. The biz, founded around Apache Spark, published a s…",
+        "url": "https://news.slashdot.org/story/24/04/01/2140222/databricks-claims-its-open-source-foundational-llm-outsmarts-gpt-35",
+        "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+        "publishedAt": "2024-04-02T02:02:00Z",
+        "content": "Analytics platform Databricks has launched an open source foundational large language model, hoping enterprises will opt to use its tools to jump on the LLM bandwagon. The biz, founded around Apache … [+1638 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "sillm-mlx added to PyPI",
+        "description": "Running and training LLMs on Apple Silicon via MLX",
+        "url": "https://pypi.org/project/sillm-mlx/",
+        "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "publishedAt": "2024-04-12T19:57:16Z",
+        "content": "SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework. Building upon the foundation provided by MLX Examples, this project… [+5095 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SiliconANGLE News"
+        },
+        "author": "Dave Vellante",
+        "title": "AWS’ AI blueprint emphasizes optionality, trust and scalable industry solutions",
+        "description": "This week we spent a day in New York City reviewing Amazon Web Services Inc.’s artificial intelligence strategy and progress with several AWS execs, including Matt Wood, vice president of AI at the company. We came away with a better understanding of AWS’ AI …",
+        "url": "https://siliconangle.com/2024/04/06/aws-ai-blueprint-emphasizes-optionality-trust-scalable-industry-solutions/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/04/AI-strategy-copy.png",
+        "publishedAt": "2024-04-06T16:29:51Z",
+        "content": "This week we spent a day in New York City reviewing Amazon Web Services Inc.s artificial intelligence strategy and progress with several AWS execs, including Matt Wood, vice president of AI at the co… [+21942 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Techtarget.com"
+        },
+        "author": "Esther Ajao",
+        "title": "Meta releases two Llama 3 models, more to come",
+        "description": "The social media giant’s new open source LLM is telling of the challenges in the open source market and its future ambitions involving multimodal and multilingual capabilities.",
+        "url": "https://www.techtarget.com/searchenterpriseai/news/366581475/Meta-releases-two-Llama-3-models-more-to-come",
+        "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a264431831.jpg",
+        "publishedAt": "2024-04-18T18:48:00Z",
+        "content": "Meta on Thursday introduced the next generation of its widely used open source large language model.\r\nThe social media giant revealed that the first two models in the Llama 3 family (the 8B and 70B p… [+6168 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "feedfeeder",
+        "title": "Inside the Creation of DBRX, the World's Most Powerful Open Source AI Model",
+        "description": "Startup Databricks just released DBRX, the most powerful open source large language model yet&mdash;eclipsing Meta&rsquo;s Llama 2.",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=173394309",
+        "urlToImage": null,
+        "publishedAt": "2024-03-27T12:12:08Z",
+        "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mattturck.com"
+        },
+        "author": "fredcavazza",
+        "title": "Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape – Matt Turck",
+        "description": "This is our tenth annual landscape and “state of the union” of the data, analytics, machine learning and AI ecosystem.\n\n\n\nIn 10+ years covering the space, things have never been as exciting and promising as they are today.  All trends and subtrends we describ…",
+        "url": "https://mattturck.com/mad2024/",
+        "urlToImage": "https://mattturck.com/wp-content/uploads/2024/03/firstmark-mad-landscape-open-graph_purple-1-1024x534.jpeg",
+        "publishedAt": "2024-04-09T05:47:01Z",
+        "content": "This is our tenth annual landscape and state of the union of the data, analytics, machine learning and AI ecosystem.\r\nIn 10+ years covering the space, things have never been as exciting and promising… [+61251 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Rappler"
+        },
+        "author": "Lance Spencer Yu",
+        "title": "A look at the ‘data plumbing’ that powers AI and companies like Grab, Coins.ph, and Maya",
+        "description": "Databricks vice president Cecily Ng says the Philippines is an 'especially exciting market' for artificial intelligence",
+        "url": "https://www.rappler.com/business/databricks-powers-artificial-intelligence-grab-coins-ph-maya/",
+        "urlToImage": "https://www.rappler.com/tachyon/2023/02/shutterstock-data-puzzle.jpg",
+        "publishedAt": "2024-04-18T07:50:44Z",
+        "content": "MANILA, Philippines Data and artificial intelligence are powerful.\r\nIt’s what has propelled disruptive companies like Netflix and Spotify which sometimes seem to know our interests better than oursel… [+4211 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Will Knight",
+        "title": "Inside the Creation of DBRX, the World's Most Powerful Open Source AI Model",
+        "description": "Startup Databricks just released DBRX, the most powerful open source large language model yet—eclipsing Meta’s Llama 2.",
+        "url": "https://www.wired.com/story/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/",
+        "urlToImage": "https://media.wired.com/photos/660359d1c5394d5463ec7d5f/191:100/w_1280,c_limit/2024_03_25_Databricks_%20164.jpg",
+        "publishedAt": "2024-03-27T12:00:00Z",
+        "content": "This past Monday, about a dozen engineers and executives at data science and AI company Databricks gathered in conference rooms connected via Zoom to learn if they had succeeded in building a top art… [+3592 chars]"
+    }
+]

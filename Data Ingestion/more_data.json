@@ -1,0 +1,3013 @@
+[
+    {
+        "by": "vyrotek",
+        "descendants": 134,
+        "id": 40071858,
+        "kids": [
+            40092641,
+            40090464,
+            40091389,
+            40090099,
+            40090096,
+            40079794,
+            40074589,
+            40075815,
+            40090297,
+            40090411,
+            40076453,
+            40072759,
+            40075386,
+            40090350,
+            40090417,
+            40074763,
+            40089980,
+            40090433,
+            40072463,
+            40093925,
+            40090126,
+            40074894,
+            40075687,
+            40074070,
+            40079687,
+            40077770,
+            40092189,
+            40090518,
+            40090891,
+            40083605,
+            40090887
+        ],
+        "score": 282,
+        "time": 1713401734,
+        "title": "VASA-1: Lifelike audio-driven talking faces generated in real time",
+        "type": "story",
+        "url": "https://www.microsoft.com/en-us/research/project/vasa-1/",
+        "keywords": [
+            "VASA-1"
+        ],
+        "comments": [
+            {
+                "by": "dang",
+                "id": 40092641,
+                "parent": 40071858,
+                "text": "Related: <a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2024&#x2F;04&#x2F;microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2024&#x2F;04&#x2F;micro...</a><p>(via <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40088826\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40088826</a>, but we merged that thread hither)",
+                "time": 1713565789,
+                "type": "comment"
+            },
+            {
+                "by": "cs702",
+                "id": 40090464,
+                "kids": [
+                    40090713,
+                    40095818,
+                    40096983,
+                    40092087,
+                    40097419,
+                    40090740
+                ],
+                "parent": 40071858,
+                "text": "And it&#x27;s only going to get faster, better, easier, cheaper.[a]<p>Meanwhile, yesterday my credit card company asked me if I wanted to use voice authentication for verifying my identity &quot;more securely&quot; on the phone. Surely the company spent many millions of dollars to enable this new security-theater feature.<p>It begs the question: Is every single executive and manager at my credit card company <i>completely unaware</i> that right now anyone can clone anyone else&#x27;s voice by obtaining a short sample audio clip taken from any social network? If anyone is aware, why is the company acting like this?<p>Corporate America is <i>so far behind the times</i> it&#x27;s not even funny.<p>---<p>[a] With apologies to Daft Punk.",
+                "time": 1713551801,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "user_7832",
+                        "id": 40090713,
+                        "kids": [
+                            40091425,
+                            40093098
+                        ],
+                        "parent": 40090464,
+                        "text": "&gt;  Is every single executive and manager at my credit card company completely unaware that right now anyone can clone anyone else&#x27;s voice by obtaining a short sample audio clip taken from any social network?<p>Your mistake is assuming the company cares. The &quot;company&quot; is a hundred different disjointed departments that only care about not getting caught Equifax-style (or filing for bankruptcy if caught). If the marketing director sees a shiny new thing that might boost some random KPI they may not really care about security.<p>However in the rare chance that your bank is actually half decent, I&#x27;d suggest contacting their IT&#x2F;Security teams about your concerns. Maybe you&#x27;ll save some folks from getting scammed?",
+                        "time": 1713553049,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "cyanydeez",
+                                "id": 40091425,
+                                "kids": [
+                                    40095234
+                                ],
+                                "parent": 40090713,
+                                "text": "Also, this feature is probably just some midd level execs plan for a bonus, not a rigorously reviewed and planned. It&#x27;s also probably in the pipeline for a decade so if they don&#x27;t push it out, suddenly they get no bonus for cancelling a project.<p>Corporations are ultimately no better than governments and likely worse depending on what their regulatory environment looks like.",
+                                "time": 1713557379,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "iamflimflam1",
+                                        "id": 40095234,
+                                        "kids": [
+                                            40095486
+                                        ],
+                                        "parent": 40091425,
+                                        "text": "There\u2019s a really important thing here for anyone trying to do sales to big companies.<p>Find an exec that needs a project to advance their career. Make your software that project.<p>Suck in as many other execs into the project so their careers become coupled to getting your software rolled out.",
+                                        "time": 1713593826,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "amindeed",
+                                                "id": 40095486,
+                                                "parent": 40095234,
+                                                "text": "That&#x27;s clever!",
+                                                "time": 1713597429,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "b3yondtopsecret",
+                                "dead": true,
+                                "id": 40093098,
+                                "parent": 40090713,
+                                "text": "[dead]",
+                                "time": 1713570255,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "supercheetah",
+                        "id": 40095818,
+                        "parent": 40090464,
+                        "text": "That scene from Sneakers would be so different nowadays. [1]<p>&quot;My voice is my passport. Verify me.&quot; [2]<p>1. <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;WdcIqFOc2UE?si=Df3DtSakatp9eD0L\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;WdcIqFOc2UE?si=Df3DtSakatp9eD0L</a><p>2. <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;-zVgWpVXb64?si=yT2GZpb7E2yZoEYl\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;-zVgWpVXb64?si=yT2GZpb7E2yZoEYl</a>",
+                        "time": 1713602451,
+                        "type": "comment"
+                    },
+                    {
+                        "deleted": true,
+                        "id": 40096983,
+                        "parent": 40090464,
+                        "time": 1713617240,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "ryandrake",
+                        "id": 40092087,
+                        "kids": [
+                            40098071
+                        ],
+                        "parent": 40090464,
+                        "text": "Any time you add a &quot;new&quot; security gate to your product, it should be <i>in addition to</i> and not <i>instead of</i> the existing gates. Biometrics should not replace username&#x2F;password, they should be in addition to. Security Questions like &quot;What was your first pet&#x27;s name&quot; should not be able to get you in the backdoor. SMS verification alone should not allow you to reset your password. Same with this voice authentication stuff. It should be another layer, not a replacement of your actual credentials.<p>If you treat it as OR instead of AND, then your security is only as good as the worst link in the chain.",
+                        "time": 1713561985,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "recursive",
+                                "id": 40098071,
+                                "parent": 40092087,
+                                "text": "If you make your product sufficiently inconvenient, then you&#x27;ll have the unassailable security posture of having no users.",
+                                "time": 1713626760,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "dade_",
+                        "id": 40097419,
+                        "parent": 40090464,
+                        "text": "Yes, they are and they also know it isn&#x27;t foolproof so that isn&#x27;t the only information being compared against.  Some services compare the calling number is compared against live activity on the PSTN (ie, subscriber&#x27;s phone is not in an active call, but their number is being presented as as the caller ID is one such metric).  Many of these deep fake generators with public access have watermarks in the audio.   The audio stream comparison continues, it needs to speak like you, word and phrase choices.  There are other fingerprints of generated audio that you can&#x27;t hear, but are still obvious at the moment.  With security, it always cat and mouse with fraudsters on one hand and the effort&#x2F;frustration with customers on the other.<p>Asking customers questions that they don&#x27;t remember and that fraudsters have in front of them isn&#x27;t working and the time it takes for agents to authenticate is very expensive.<p>While there is no doubt that companies will screw up with security, you are making wild accusations without reference to any evidence.",
+                        "time": 1713621796,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "fragmede",
+                        "id": 40090740,
+                        "kids": [
+                            40093680
+                        ],
+                        "parent": 40090464,
+                        "text": "I mean, what do you want them to do? If we think their security officers are freaking out and holding meetings right now about what to do, or if they&#x27;re asleep at the wheel, we&#x27;d be seeing the same thing from the outside, no?",
+                        "time": 1713553210,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "addandsubtract",
+                                "id": 40093680,
+                                "parent": 40090740,
+                                "text": "No, because multiple companies are pushing this atm. If it was only company I would agree, but with multiple, you&#x27;d have at least one that would back out of it again.",
+                                "time": 1713575658,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "smusamashah",
+                "id": 40091389,
+                "kids": [
+                    40091532
+                ],
+                "parent": 40071858,
+                "text": "This is good but nowhere as good as EMO <a href=\"https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;</a> (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326</a>)<p>This one has too much fake looking body movement and looks eerie&#x2F;robotic&#x2F;uncanny valley. The lips don&#x27;t sync properly in many places. Eye movement and over all head and body movement is not very natural at all.<p>While EMO looks just perfect mostly. The very first two videos on EMO page are perfect example of that. See the rap near the end to see how good EMO is at lip sync.",
+                "time": 1713557080,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "cchance",
+                        "id": 40091532,
+                        "parent": 40091389,
+                        "text": "Another research project with 0 model release",
+                        "time": 1713558144,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "TriangleEdge",
+                "id": 40090099,
+                "kids": [
+                    40098344,
+                    40090306,
+                    40097145,
+                    40096991,
+                    40091736,
+                    40090222,
+                    40090430
+                ],
+                "parent": 40071858,
+                "text": "Why is this research being done? Is this some kind of arms race? The only purpose of this technology I can think of is getting spies to abuse others.<p>Am I going to have to do AuthN and AuthZ on every phone call and zoom now?",
+                "time": 1713549949,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "HarHarVeryFunny",
+                        "id": 40098344,
+                        "parent": 40090099,
+                        "text": "&gt; Why is this research being done?<p>I think it&#x27;s mostly &quot;because it can be done&quot;. These types of impressive demos have become relatively low hanging fruit in terms of how modern machine learning can be applied.<p>One could imagine commercial applications (VR, virtual &quot;try before you buy&quot;, etc), but things like this can also be a flex by the AI labs, or a PhD student wanting to write a paper.",
+                        "time": 1713629103,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "tithe",
+                        "id": 40090306,
+                        "parent": 40090099,
+                        "text": "I get the feeling it&#x27;s &quot;someone&#x27;s going to do this, so it might as well be us.&quot;<p>It&#x27;s fascinating how research can take on a life of its own and will be pushed, by someone, to its own conclusion.  Even for immensely destructive technologies (e.g., atomic weapons, viruses), the impact of a technology is its own attractor (could you say that&#x27;s risk-seeking behavior?)<p>&gt; Am I going to have to do AuthN and AuthZ on every phone call and zoom now?<p>&quot;Alexa, I need an alibi for yesterday at noon.&quot;",
+                        "time": 1713550977,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "phkahler",
+                        "id": 40097145,
+                        "parent": 40090099,
+                        "text": "Newscasters and other talking heads will be out of business. Just pipe the script into some AI and get video.",
+                        "time": 1713618915,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "danmur",
+                        "id": 40096991,
+                        "kids": [
+                            40097432
+                        ],
+                        "parent": 40090099,
+                        "text": "We all know why this is really happening. Clippy 2.0.",
+                        "time": 1713617282,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "deleted": true,
+                                "id": 40097432,
+                                "parent": 40096991,
+                                "time": 1713621962,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "1659447091",
+                        "id": 40091736,
+                        "parent": 40090099,
+                        "text": "Advertising. Now you and your friends star in the streaming commercials and digital billboards near you! (whether you want to or not)",
+                        "time": 1713559701,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "Arnavion",
+                        "id": 40090222,
+                        "kids": [
+                            40091902,
+                            40090331,
+                            40090484,
+                            40092781
+                        ],
+                        "parent": 40090099,
+                        "text": "On the other hand, if deepfaking becomes common enough that everyone stops trusting everything they read &#x2F; see on the internet, it would be a net good against the spread of disinformation compared to today.",
+                        "time": 1713550504,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "anigbrowl",
+                                "id": 40091902,
+                                "kids": [
+                                    40092158
+                                ],
+                                "parent": 40090222,
+                                "text": "<i>everyone stops trusting everything</i><p>Why would you expect this to happen? Lots of people are gullible, if it were otherwise a lot of well-known politicians would be out of a job or would never have been elected to begin with.",
+                                "time": 1713560857,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "ryandrake",
+                                        "id": 40092158,
+                                        "parent": 40091902,
+                                        "text": "If it&#x27;s even commoner than &quot;common enough&quot; then anyone could at least try to help their gullible friends and family by sending them a deepfake video of them doing&#x2F;saying something they&#x27;ve never said. A lot of people will suddenly wise up when a problem affects them directly.",
+                                        "time": 1713562382,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "hiatus",
+                                "id": 40090331,
+                                "kids": [
+                                    40097047,
+                                    40090454
+                                ],
+                                "parent": 40090222,
+                                "text": "I don&#x27;t see that as an outcome. We have already seen a grand erosion of trust in institutions. Moving to an even lower trust society does not sound like it would have positive consequences for discourse, public policy, or society at large.",
+                                "time": 1713551099,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "throwthrowuknow",
+                                        "id": 40097047,
+                                        "kids": [
+                                            40098207
+                                        ],
+                                        "parent": 40090331,
+                                        "text": "The benefit is that you can only trust in person interaction with social and governmental institutions so people will have to leave their damn house again and go talk to each other face to face. Too many of our current problems are caused by people only interacting with each other and the world through third parties who are performing a MITM operation for their own benefit.",
+                                        "time": 1713617793,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "1attice",
+                                                "id": 40098207,
+                                                "parent": 40097047,
+                                                "text": "This assumes that it&#x27;s a two-way door.<p>Over the past century and a half, we&#x27;ve moved into vast, anonymous spaces, where I&#x27;m as likely to know <i>and get along with</i> my neighbour as I am to win the lottery.<p>And this is important. No, it&#x27;s not just a matter of putting on an effort to learn who my neighbour is -- my neighbour is literally someone whose life experiences are wildly different, whose social outcomes will be wildly different, whose beliefs and values are wildly different, and, for all I know, goes to conferences about how to eliminate me and my kind.<p>(This last part is not speculation; I&#x27;m trans; see: CPAC)<p>And these are <i>my</i> reasons. My neighbour is probably equivalently terrified of <i>me</i>, or what I represent, or the media I consume, or the conferences that I go to.<p>Generalizing, you can&#x27;t take a bunch of random people whose only bond is that they share meatspace-proximity, draw a circle around them, and declare them a community; those communities are _gone_, and you can no more bring them back than you can revive a corpse. (This would also probably not be a good idea, even if it were possible: they were also incredibly uncomfortable places for anyone who didn&#x27;t fit in, and we have generations of fiction about people risking everything to leave for those big anonymous cities we created in step 1.)<p>So, here we are, dependent on technology to stay in touch with far-flung friends and lovers and family, all of us, scattered like spiderwebs across the globe, and now into the strands drips a poison.<p>Daniel Dennett was right. Counterfeit people are an enormous danger to civilization. Research like this should stop immediately.",
+                                                "time": 1713627887,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "by": "rightbyte",
+                                        "id": 40090454,
+                                        "parent": 40090331,
+                                        "text": "Ironically low effort deep fakes might increase trust in organizations that have had the budget to fake stuff since their inception. The losers are &#x27;citizen journalist&#x27; broadcasting on Youtube etc.",
+                                        "time": 1713551764,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "notaustinpowers",
+                                "id": 40090484,
+                                "kids": [
+                                    40097070
+                                ],
+                                "parent": 40090222,
+                                "text": "I don&#x27;t see the extinction of trust through the introduction of garbage falsehoods to be a net good.<p>Believing that everything you eat is poisoned is no way to live. Believing that everything you see is a lie is also no way to live.",
+                                "time": 1713551927,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "throwthrowuknow",
+                                        "id": 40097070,
+                                        "parent": 40090484,
+                                        "text": "Before photography this was just the normal state of the world. Think a little, back then any story or picture you saw was made by a person and you only had their reputation to go by. Think some more and you realize that\u2019s never changed even with pictures and video. Easy AI generated pictures and video just remove the illusion of trust.",
+                                        "time": 1713618049,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "piva00",
+                                "id": 40092781,
+                                "parent": 40090222,
+                                "text": "That&#x27;s the whole issue though, spread of disinformation eroded trust, furthering this into obliteration of all trust is not a good outcome.",
+                                "time": 1713566954,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "andybak",
+                        "id": 40090430,
+                        "kids": [
+                            40093642
+                        ],
+                        "parent": 40090099,
+                        "text": "Because the text for this is only a slight variation of the tech for a broad range of legitimate applications?<p>Because even this precise tech has legitimate use cases?<p>&gt; The only purpose of this technology I can think of is getting spies to abuse others.<p>Can you really not think of any other use cases?",
+                        "time": 1713551667,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "krainboltgreene",
+                                "id": 40093642,
+                                "parent": 40090430,
+                                "text": "Why don&#x27;t you list some legitimate and useful values of this work? Especially at the price we and this company are paying.",
+                                "time": 1713575193,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "alfalfasprout",
+                "id": 40090096,
+                "kids": [
+                    40090157,
+                    40095060,
+                    40090379,
+                    40090158
+                ],
+                "parent": 40071858,
+                "text": "What this is starting to reveal is that there&#x27;s a clear need for some kind of chain of custody system that guarantees the authenticity of what we see. Nikon&#x2F;Canon tried doing this in the past, but improper storage of private keys lead to vulnerabilities. As far as I&#x27;m aware it&#x27;s never extended to video either.<p>With modern secure hardware keys it may yet be possible. The difficulty is that any kind of photo&#x2F;video manipulation would break the signature (and there are practical reasons to want to be able to edit videos obviously).<p>In the ideal world, any mutation to the original source content could be traceable to the original source content. But that&#x27;s not an easy problem to solve.",
+                "time": 1713549936,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "throw__away7391",
+                        "id": 40090157,
+                        "kids": [
+                            40090424,
+                            40091926,
+                            40090992,
+                            40090219
+                        ],
+                        "parent": 40090096,
+                        "text": "No, we are merely returning to the pre-photography state of things where a mere printed image is not sufficient evidence for anything.",
+                        "time": 1713550249,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "hx8",
+                                "id": 40090424,
+                                "kids": [
+                                    40090650,
+                                    40090626
+                                ],
+                                "parent": 40090157,
+                                "text": "True, an image, audio clip, or video is not enough evidence to establish truth.<p>We still need a way to establish truth.  It&#x27;s important for security cameras, for politics, and for public figures.  Here are some things we could start looking into.<p>* Cameras that sign their output.  Yes, this camera caught this video, and it hasn&#x27;t been modified.  This is a must for recordings being used in court evidence IMO.  Otherwise framing a crime is as easy as a few deep fakes and planting some DNA or fingerprints at the scene of the crime.<p>* People digitally signing pictures&#x2F;audio&#x2F;videos of them.  Even if they digitally modified the data it shows that they consent to having their image associated with that message.  It reduces the strength of the attack vector of deep fake videos for reputation sabotage.<p>* Malicious content source detection and flagging.  Think email spam filter type tagging of fake content.  Community notes on X would be another good example.<p>* Digital manipulation detection.  I&#x27;m less than hopeful this will be the way in the long term, but could be used to disprove some fraud.",
+                                "time": 1713551633,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "alex_suzuki",
+                                        "id": 40090650,
+                                        "parent": 40090424,
+                                        "text": "Signing is great, but the hard part is managing keys and trust.",
+                                        "time": 1713552696,
+                                        "type": "comment"
+                                    },
+                                    {
+                                        "by": "alchemist1e9",
+                                        "id": 40090626,
+                                        "kids": [
+                                            40095120
+                                        ],
+                                        "parent": 40090424,
+                                        "text": "Blockchains can be used for cryptography time-stamping.<p>I\u2019ve always had a suspicion that governments and large companies would prefer a world without hard cryptographic proofs. After wikileaks they noticed DKIM can cause them major blowback. Somehow general public isn\u2019t aware all the emails were proven authentic with DKIM signatures and even in fairly educated circles people believe the \u201cemails were fake\u201d but it\u2019s not actually possible.",
+                                        "time": 1713552553,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "PeterisP",
+                                                "id": 40095120,
+                                                "parent": 40090626,
+                                                "text": "Quite the opposite, governments and large companies even explicitly run services for digital timestamping of documents - if I wanted to potentially assert some facts in court, I&#x27;d definitely prefer having that e-document with a timestamp notarized from my local government service instead of Bitcoin, because while the cryptography is the same, it would be much simpler from the practical legal perspective, requiring less time and effort and cost to get the court to accept that.",
+                                                "time": 1713591848,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "anigbrowl",
+                                "id": 40091926,
+                                "kids": [
+                                    40096851
+                                ],
+                                "parent": 40090157,
+                                "text": "<i>merely</i><p>You say this as if it were not a big deal, but losing a century&#x27;s worth of authentication infrastructure&#x2F;practises is a Bad Thing which will have large negative externalities.",
+                                "time": 1713560994,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "throw__away7391",
+                                        "id": 40096851,
+                                        "parent": 40091926,
+                                        "text": "It isn&#x27;t really though. It has been technical possible to convincingly doctor photos for some time already, gradually getting easier, cheaper, and faster with time for decades, and even now the currently available tech has limitations and the full change is not going to happen overnight.",
+                                        "time": 1713615934,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "BobaFloutist",
+                                "id": 40090992,
+                                "parent": 40090157,
+                                "text": "Pre-photography it at least took effort, practice, and time, to draw something convincing. Any skill with that much of a barrier to entry kind of automatically reduces the ability to be anonymous. And we didn&#x27;t have the ability to instantaneously distribute images world-wide.",
+                                "time": 1713554645,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "tass",
+                                "id": 40090219,
+                                "kids": [
+                                    40090330
+                                ],
+                                "parent": 40090157,
+                                "text": "There goes the dashcam industry\u2026",
+                                "time": 1713550495,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "barbazoo",
+                                        "id": 40090330,
+                                        "parent": 40090219,
+                                        "text": "You&#x27;re being downvoted but I think the comment raises a good question. what will happen when someone gets accused of doctoring their dashcam footage? Or any footage used for evidence.",
+                                        "time": 1713551097,
+                                        "type": "comment"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "by": "PeterisP",
+                        "id": 40095060,
+                        "kids": [
+                            40097113
+                        ],
+                        "parent": 40090096,
+                        "text": "I think it&#x27;s practically impossible for such a system to be globally trustworthy due to the practical inevitability of &quot;but improper storage of private keys lead to vulnerabilities&quot; scenarios.<p>People will expect or require that chain of custody only if all or at least the vast majority of the content they want would have that chain of custody.<p>Photo&#x2F;video content will have that chain of custody only if all or almost all of devices recording that content will support it - including all the cheapest mass-produced devices in reasonably widespread use anywhere in the world.<p>And that chain of custody provides the benefit <i>only</i> if literally 100% of these manufacturers have their private keys secure 100% of the time, which is simply not happening; at least one such key will leak, if not unintentionally then intentionally for some intelligence agency who wants to fake content.<p>And what do you do once you see a leak of the private keys used for signing the certificates for the private keys securely embedded in (for example) all of 2029 Huawei smartphones, which could be like 200 million phones? The users won&#x27;t replace their phones just because of that, and you&#x27;ll have all these users making content - so everyone will have to choose to either auto-block and discard everything from all those 200 million users, or permit content with a potentially fake chain of custody; and I&#x27;m totally certain that most people will prefer the latter.",
+                        "time": 1713591179,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "macrolime",
+                                "id": 40097113,
+                                "parent": 40095060,
+                                "text": "Multisig by the user and camera manufacturer can help to some extent.",
+                                "time": 1713618632,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "bonton89",
+                        "id": 40090379,
+                        "kids": [
+                            40096461
+                        ],
+                        "parent": 40090096,
+                        "text": "I expect this type of system to be implemented in my lifetime. It will allow whistleblowers and investigative sources to be discredited or tracked down and persecuted.",
+                        "time": 1713551363,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "20after4",
+                                "id": 40096461,
+                                "parent": 40090379,
+                                "text": "Unfortunately that seems inevitable.",
+                                "time": 1713611858,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "deleted": true,
+                        "id": 40090158,
+                        "parent": 40090096,
+                        "time": 1713550250,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "ilaksh",
+                "id": 40079794,
+                "parent": 40071858,
+                "text": "The paper mentions it uses Diffusion Transformers. The open source implementation that comes up in Google is Facebook Research&#x27;s PyTorch implementation which is a non-commercial license. <a href=\"https:&#x2F;&#x2F;github.com&#x2F;facebookresearch&#x2F;DiT\">https:&#x2F;&#x2F;github.com&#x2F;facebookresearch&#x2F;DiT</a><p>Is there something equivalent but MIT or Apache?<p>I feel like diffusion transformers are key now.<p>I wonder if OpenAI implemented their SORA stuff from scratch or if they built on the Facebook Research diffusion transformers library. That would be interesting if they violated the non-commercial part.<p>Hm. Found one: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;milmor&#x2F;diffusion-transformer-keras\">https:&#x2F;&#x2F;github.com&#x2F;milmor&#x2F;diffusion-transformer-keras</a>",
+                "time": 1713468016,
+                "type": "comment"
+            },
+            {
+                "by": "nojvek",
+                "id": 40074589,
+                "parent": 40071858,
+                "text": "I like the considerations topic.<p>There\u2019s likely also a an unsaid statement. This is for us only and we\u2019ll be the only ones making money from it with our definition of \u201csafety\u201d and \u201cpositive\u201d.",
+                "time": 1713434749,
+                "type": "comment"
+            },
+            {
+                "by": "fluffet",
+                "id": 40075815,
+                "kids": [
+                    40078765
+                ],
+                "parent": 40071858,
+                "text": "This is absolutely crazy. And it&#x27;ll only get better from here. Imagine &quot;VASA-9&quot; or whatever.<p>I thought deepfakes were still quite a bit away but after this I will have to be way more careful online. It&#x27;s not far from behind something that can show up in your &quot;YouTube shorts&quot; feed and trick you if you didn&#x27;t already know it was AI.",
+                "time": 1713445712,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "smusamashah",
+                        "id": 40078765,
+                        "kids": [
+                            40081343
+                        ],
+                        "parent": 40075815,
+                        "text": "This is good but nowhere as good as EMO <a href=\"https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;</a> (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326</a>)<p>This one has too much movement and looks eerie&#x2F;robotic&#x2F;uncanny valley. While EMO looks just perfect.",
+                        "time": 1713462347,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "vessenes",
+                                "id": 40081343,
+                                "kids": [
+                                    40085833
+                                ],
+                                "parent": 40078765,
+                                "text": "Hard disagree -- I think you might be misremembering how EMO looks in practice -- I&#x27;m sure we&#x27;ll learn VASA-1 &quot;telltales&quot; but to my eyes there are far fewer than EMO - zero of the EMO videos were &#x27;perfect&#x27; for me, and many show little glitches or missing sync. VASA-1 still blinks a bit more than I think is natural, but it looks much more fluid.<p>Both are, BTW, AMAZING!! Pretty crazy.",
+                                "time": 1713478671,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "smusamashah",
+                                        "id": 40085833,
+                                        "parent": 40081343,
+                                        "text": "In VASA there is way to much body movement instead of just being he head as if camera is moving in the strong winds. EMO is a lot more human like. In the very first video on the EMO page I still cannot see it as a generated video, its that real. The lip movement, the expressions are in almost in perfect sync with the voice. That is absolutely not the case with VASA",
+                                        "time": 1713529005,
+                                        "type": "comment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "physhster",
+                "id": 40090297,
+                "kids": [
+                    40096438,
+                    40090351
+                ],
+                "parent": 40071858,
+                "text": "A fantastic technological advance for election interference!",
+                "time": 1713550944,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "IshKebab",
+                        "id": 40096438,
+                        "parent": 40090297,
+                        "text": "As if this technology was needed.",
+                        "time": 1713611468,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "RGamma",
+                        "id": 40090351,
+                        "parent": 40090297,
+                        "text": "Such an <i>exciting</i> startup idea! I&#x27;m <i>thrilled</i>!",
+                        "time": 1713551172,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "binkHN",
+                "id": 40090411,
+                "parent": 40071858,
+                "text": "Full details at <a href=\"https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;project&#x2F;vasa-1&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;project&#x2F;vasa-1&#x2F;</a>",
+                "time": 1713551565,
+                "type": "comment"
+            },
+            {
+                "by": "gedy",
+                "id": 40076453,
+                "kids": [
+                    40095138,
+                    40083771
+                ],
+                "parent": 40071858,
+                "text": "My first thought was &quot;oh no the interview fakes&quot;, but then I realized - what if they just kept using the face?  Would I care?",
+                "time": 1713449415,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "PeterisP",
+                        "id": 40095138,
+                        "parent": 40076453,
+                        "text": "It would be interesting that a remote candidate could easily identify as whatever ethnicity, age or even gender they consider most beneficial for hiring to avoid discrimination or fit certain diversity incentives.<p>Tech like this has the potential to bring us back to the days of &quot;on the Internet, nobody know&#x27;s you&#x27;re a dog&quot; <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;On_the_Internet,_nobody_knows_you%27re_a_dog\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;On_the_Internet,_nobody_knows_...</a>",
+                        "time": 1713592106,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "acidburnNSA",
+                        "id": 40083771,
+                        "parent": 40076453,
+                        "text": "Yeah, even if they just use LLMs to do all the work, or are a LLM themselves, as long as they can do the work I guess.<p>Weird implications for various regulations though.",
+                        "time": 1713505478,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "acidburnNSA",
+                "id": 40072759,
+                "kids": [
+                    40076877
+                ],
+                "parent": 40071858,
+                "text": "Oh no. &quot;Cameras on please!&quot; will be replaced by &quot;AI generated faces off please!&quot; in teams.",
+                "time": 1713412019,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "darig",
+                        "dead": true,
+                        "id": 40076877,
+                        "parent": 40072759,
+                        "text": "[dead]",
+                        "time": 1713451790,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "qwertox",
+                "id": 40075386,
+                "parent": 40071858,
+                "text": "So an ugly person will be able to present his or her ideas on the same visual level as a beautiful person. Is this some sort of democratization?",
+                "time": 1713442481,
+                "type": "comment"
+            },
+            {
+                "by": "karaterobot",
+                "id": 40090350,
+                "kids": [
+                    40090419,
+                    40092684,
+                    40090468
+                ],
+                "parent": 40071858,
+                "text": "We need some clear legislation around this right now.",
+                "time": 1713551168,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "stronglikedan",
+                        "id": 40090419,
+                        "kids": [
+                            40090792
+                        ],
+                        "parent": 40090350,
+                        "text": "counterpoint: we don&#x27;t need any more legislation",
+                        "time": 1713551615,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "qwertox",
+                                "id": 40090792,
+                                "parent": 40090419,
+                                "text": "I tend towards agreeing with you. Many of the problems, like impersonation, are already illegal.<p>And replacing a person which spreads lies, as can be seen in most TV or glossy cover ads, shouldn&#x27;t trigger some new legal action. The only difference is that now the actor is also a lie.<p>And countries which use actors or news anchors for spreading propaganda surely won&#x27;t see an issue with replacing them with AI characters.<p>People who then get to read that their most favorite, stunningly beautiful Instagram or TikTok influencer is nothing but a fat, chips-eating ugly person using AI, may try to raise some legal issues to soothe their disappointment. They then might raise a point which sounds reasonable, but which would then force politicians to also tackle the lies which are spread in TV&#x2F;Magazines ads.<p>Maybe clearly labeling any use of this tech, maybe even with a QR code linking to who is the owner of the AI, similar to QR codes on meat packaging which allow you to track the origin of the meat, would be something what laws could be helpful with, in the spirit of transparency.",
+                                "time": 1713553542,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "CamperBob2",
+                        "id": 40092684,
+                        "parent": 40090350,
+                        "text": "Legislation only impairs the good guys.",
+                        "time": 1713566161,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "4ndrewl",
+                        "id": 40090468,
+                        "kids": [
+                            40091322
+                        ],
+                        "parent": 40090350,
+                        "text": "In which jurisdiction?",
+                        "time": 1713551820,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "karaterobot",
+                                "id": 40091322,
+                                "parent": 40090468,
+                                "text": "What jurisdiction would not benefit from legislation around duplicating people&#x27;s identities using AI?",
+                                "time": 1713556660,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "FredPret",
+                "id": 40090417,
+                "kids": [
+                    40090731,
+                    40090486,
+                    40092036,
+                    40090506,
+                    40091964,
+                    40090571,
+                    40090505,
+                    40090437
+                ],
+                "parent": 40071858,
+                "text": "Anyone have any good ideas for how we&#x27;re going to do politics now?<p>Today a big ML model can do this and it&#x27;s somewhat regulate-able, tomorrow people can do this on their contact-lens supercomputers and anyone can generate a video of anything.<p>Is going back to personally knowing your local representative the only way? How will we vote for national candidates if nobody knows what they think or say?",
+                "time": 1713551602,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "dwb",
+                        "id": 40090731,
+                        "kids": [
+                            40092215,
+                            40092521,
+                            40091019,
+                            40090928
+                        ],
+                        "parent": 40090417,
+                        "text": "We already rely on chains of trust going back to the original source, and will still. I find these alarmist posts a bit mystifying \u2013 before photography, anyone could fake a quote of anyone, and human civilisation got quite far. We had a bit over a hundred years where phographic-quality images were possible and very hard to fake (which did and still does vary with technology), but clearly now we\u2019re past that. We\u2019ll manage!",
+                        "time": 1713553156,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "woleium",
+                                "id": 40092215,
+                                "parent": 40090731,
+                                "text": "The issue is better phrased as \u201chow will we survive the transition while some folk still believe the video they are seeing is irrefutable proof the event happened?\u201d",
+                                "time": 1713562763,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "GeoAtreides",
+                                "id": 40092521,
+                                "parent": 40090731,
+                                "text": "In the before times we didn&#x27;t have social media and its algorithms and reach. Does it matter that the chains of trust debunk a viral lie 24 hours after it had spread? Not that there&#x27;s a lot of trust in the chains of trust to begin with. And if you still have trust, then you&#x27;re not the target of the viral lie. And if you still have trust, then how long can you hold on that trust when the lies keep coming 24&#x2F;7 one after another without end. As one movie critic once put it: You might not have noticed it, but your brain did. Very malleable this brain of ours.<p>The civilization might be fine, sure. Now, democracy, on the other hand...",
+                                "time": 1713564978,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "marcusverus",
+                                "id": 40091019,
+                                "kids": [
+                                    40091286
+                                ],
+                                "parent": 40090731,
+                                "text": "Presidential elections are frequently pretty close. Taking the electoral college into account (not the popular vote, which doesn&#x27;t matter) Donald Trump won the 2016 election by a grand total of ~80,000 votes in three states[0].<p>Knowing that retractions rarely get viral exposure, it&#x27;s not difficult to imagine that a few sufficiently-viral videos could swing enough votes to impact a presidential election. <i>Especially</i> when considering that the average person is not up to speed on the current state of the tech, and so has not been prompted to build up the mindset that&#x27;s required to fend off this new threat.<p>[0] <a href=\"https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;news&#x2F;the-fix&#x2F;wp&#x2F;2016&#x2F;12&#x2F;01&#x2F;donald-trump-will-be-president-thanks-to-80000-people-in-three-states&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;news&#x2F;the-fix&#x2F;wp&#x2F;2016&#x2F;12&#x2F;01&#x2F;do...</a>",
+                                "time": 1713554821,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "dwb",
+                                        "id": 40091286,
+                                        "parent": 40091019,
+                                        "text": "Plausible. I was thinking over the longer-term.",
+                                        "time": 1713556412,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "BobaFloutist",
+                                "id": 40090928,
+                                "parent": 40090731,
+                                "text": "Yeah I mean tabloids have been fooling people with doctored photos for decades.<p>Potentially we&#x27;ll need slightly tighter regulations on formal press (so that people that care for accurate information have a place they can get it) and definitely we&#x27;ll want to steer the culture back towards holding them accountable for misinformation, but credulous people have always had easy access to bad information.<p>I&#x27;m <i>much</i> more worried at the potential abuse cases that involve ordinary people that aren&#x27;t public figures, and have much less ability to defend themselves. Heck, even celebrities are a more vulnerable targets than politicians.",
+                                "time": 1713554318,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "T-A",
+                        "id": 40090486,
+                        "kids": [
+                            40091544
+                        ],
+                        "parent": 40090417,
+                        "text": "&gt; Today a big ML model can do this<p>Not that big:<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;Zejun-Yang&#x2F;AniPortrait\">https:&#x2F;&#x2F;github.com&#x2F;Zejun-Yang&#x2F;AniPortrait</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;ZJYang&#x2F;AniPortrait&#x2F;tree&#x2F;main\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;ZJYang&#x2F;AniPortrait&#x2F;tree&#x2F;main</a>",
+                        "time": 1713551937,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "cchance",
+                                "id": 40091544,
+                                "parent": 40090486,
+                                "text": "Didn&#x27;t see that one pretty cool, not as good as Emo or Vasa but pretty good",
+                                "time": 1713558237,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "TimedToasts",
+                        "id": 40092036,
+                        "parent": 40090417,
+                        "text": "&gt; Anyone have any good ideas for how we&#x27;re going to do politics now?<p>If a business is showing a demo of this you can be assured that the Government already has this tech and has for a period of time.<p>&gt; How will we vote for national candidates if nobody knows what they think or say?<p>You don&#x27;t know what they think or say <i>now</i> - hopefully this disabuses people of this notion.",
+                        "time": 1713561666,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "4ndrewl",
+                        "id": 40090506,
+                        "parent": 40090417,
+                        "text": "DNS? Might be that we need a radical (for some) change of viewpoint.<p>Just as there&#x27;s no privacy on the internet, how about &#x27;theres very little trust on the internet&#x27;. Assume everything not securely signed by a trusted party is false.",
+                        "time": 1713552018,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "hooverd",
+                        "id": 40091964,
+                        "parent": 40090417,
+                        "text": "People already believe any quote you slap on a JPEG.",
+                        "time": 1713561200,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "kmlx",
+                        "id": 40090571,
+                        "parent": 40090417,
+                        "text": "&gt; How will we vote for national candidates if nobody knows what they think or say?<p>i\u2019m going to burst your bubble here, but most voters have no idea about policies or candidates. most voters vote based on inertia or minimal cues, not on policies or candidates.<p>i suggest you look up \u201cThe American Voter\u201d, \u201cThe Democratic Dilemma: Can Citizens Learn What They Need to Know?\u201d and \u201cAmerican National Election Studies\u201d.",
+                        "time": 1713552298,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "hx8",
+                        "id": 40090505,
+                        "parent": 40090417,
+                        "text": "Hyper targeted placement of generated content designed to entice you to donate to political campaigns and to vote.  Perhaps leading to a point where entire video clips are generated for a single viewer.  Politicians and political commentators will lease their likeness and voice out for targeted messaging to be generated using their likeness.  Less reputable platforms will allow disinformation campaigns to spread.",
+                        "time": 1713552011,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "qup",
+                        "id": 40090437,
+                        "kids": [
+                            40090516
+                        ],
+                        "parent": 40090417,
+                        "text": "People in my circles have been saying this for a few years now, and we&#x27;ve yet to see it happen.<p>I&#x27;ve got my popcorn ready.<p>But you can rest easy. Everyone just votes for the candidate their party picked, anyway.",
+                        "time": 1713551708,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "FredPret",
+                                "id": 40090516,
+                                "parent": 40090437,
+                                "text": "It&#x27;ll happen - deepfakes aren&#x27;t good enough yet. But when they become ubiquitous and hard to spot, it&#x27;ll be chaos until the average person is mentally inoculated against believing any video &#x2F; anything on the internet.<p>I wonder if it&#x27;s possible to digitally sign footage as it&#x27;s captured? It&#x27;d be nice to have some share-able demonstrably true media.<p>Edit: I&#x27;m a centrist and I definitely would lean one way or the other based on who the options are (or who I think they are).",
+                                "time": 1713552058,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "gavi",
+                "id": 40074763,
+                "parent": 40071858,
+                "text": "The GPU requirements for realtime video generation are very minimal in the grand scheme of things. Assault on reality itself.",
+                "time": 1713436562,
+                "type": "comment"
+            },
+            {
+                "by": "m3kw9",
+                "id": 40089980,
+                "kids": [
+                    40090069,
+                    40090027
+                ],
+                "parent": 40071858,
+                "text": "If you see talking heads with static&#x2F;simple&#x2F;blurred backgrounds from now on, assume it is fake.  In the near future they will accompany realistic backgrounds and even less detectable fakes, we will have to assume all vids could be faked.",
+                "time": 1713549398,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "hypeatei",
+                        "id": 40090069,
+                        "kids": [
+                            40095091,
+                            40090309
+                        ],
+                        "parent": 40089980,
+                        "text": "I wonder how video evidence in court is going to be affected by this. Both from a defense and prosecution perspective.<p>Technically videos could&#x27;ve been faked before but it would require a ton of effort and skill that no average person would have.",
+                        "time": 1713549821,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "PeterisP",
+                                "id": 40095091,
+                                "parent": 40090069,
+                                "text": "Just as before, a major part of photo or video evidence in court is not the actual video itself, but a person testifying &quot;on that day I saw this horrible event, where these things happened, and here&#x27;s attached evidence that I filmed which illustrates some details of what I saw.&quot; - which would be a valid consideration even without the photo&#x2F;video, but the added details do obviously help.<p>Courts already wouldn&#x27;t generally approve random footage without clear provenance.",
+                                "time": 1713591489,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "greenavocado",
+                                "id": 40090309,
+                                "parent": 40090069,
+                                "text": "There will be a new cottage industry of AI detectives that serve as expert witnesses and they will attest to the originality of media to the court",
+                                "time": 1713551000,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "Retric",
+                        "id": 40090027,
+                        "kids": [
+                            40096389,
+                            40090067
+                        ],
+                        "parent": 40089980,
+                        "text": "I still find the faces themselves to be really obviously wrong. The sound is just off, close enough to tell who is being imitated but not particularly good.",
+                        "time": 1713549597,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "tyingq",
+                                "id": 40096389,
+                                "parent": 40090027,
+                                "text": "It&#x27;s interesting to me that some of the long-standing things are still there.  For example, lots of people with an earring in only one ear, unlikely asymmetry in the shape or size of their ears, etc.",
+                                "time": 1713610705,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "tredre3",
+                                "id": 40090067,
+                                "parent": 40090027,
+                                "text": "Especially the hair &quot;physics&quot; and sometimes the teeth shift around a bit.<p>But that&#x27;s nitpicking. It&#x27;s good enough to fool someone not watching too closely. And the fact that the result is <i>this</i> good with a single photo is truly astonishing, we used to have to train models on thousands of photos for days only to end up with a worse result!",
+                                "time": 1713549812,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "SirMaster",
+                "id": 40090433,
+                "kids": [
+                    40097408
+                ],
+                "parent": 40071858,
+                "text": "It looks all warpy and stretchy.  That&#x27;s not how skin and face muscles work.  Looks fake to me.",
+                "time": 1713551680,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "Zopieux",
+                        "id": 40097408,
+                        "parent": 40090433,
+                        "text": "I find the hairs to be the least realistic, they look elastic, which is unsurprising: highly detailed things like hairs are hard to simulate with good fidelity.",
+                        "time": 1713621638,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "nowhereai",
+                "id": 40072463,
+                "parent": 40071858,
+                "text": "woah. so far not in the news. this is the only article <a href=\"https:&#x2F;&#x2F;www.ai-gen.blog&#x2F;2024&#x2F;04&#x2F;microsoft-vasa-1-ai-technology.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ai-gen.blog&#x2F;2024&#x2F;04&#x2F;microsoft-vasa-1-ai-technolo...</a>",
+                "time": 1713408437,
+                "type": "comment"
+            },
+            {
+                "by": "metalspoon",
+                "id": 40093925,
+                "parent": 40071858,
+                "text": "AI can talk with me. Why need a friend in real life?",
+                "time": 1713578028,
+                "type": "comment"
+            },
+            {
+                "by": "balls187",
+                "id": 40090126,
+                "kids": [
+                    40090473,
+                    40090183,
+                    40090207,
+                    40090460,
+                    40090171,
+                    40090191,
+                    40090523,
+                    40090162,
+                    40090134,
+                    40090395,
+                    40090181,
+                    40090510
+                ],
+                "parent": 40071858,
+                "text": "I&#x27;m curious what is the reason for deepfake research and what the practical application is.<p>Can someone explain the commercial need to take someones likeness and generate video content?<p>If I was an a-list celebrity, I would give permission for coke to make a commercial with my likeness, provided I am allowed final approval of the finished ad?<p>Do I have an avatar that attends my zoom work calls?",
+                "time": 1713550060,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "bonton89",
+                        "id": 40090473,
+                        "parent": 40090126,
+                        "text": "Propaganda, political manipulation, narrative nudging, regular scams and advertising.<p>Even though most of those things are illegal you could just have foreign cat&#x27;s paw firms do it. Maybe you fire them for &quot;going to far&quot; after the damage is done, assuming some even manages to connect the dots.",
+                        "time": 1713551856,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "JamesBarney",
+                        "id": 40090183,
+                        "kids": [
+                            40090390
+                        ],
+                        "parent": 40090126,
+                        "text": "Video games, entertainment, and avatars seems like the big ones.",
+                        "time": 1713550371,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "HeatrayEnjoyer",
+                                "id": 40090390,
+                                "kids": [
+                                    40090521
+                                ],
+                                "parent": 40090183,
+                                "text": "If that is really the reason then this is insane and everyone involved should put their keyboards down and stop what they are doing.<p>This would be as if we invented and sold nuclear weapons to dig out quarry mines faster. The inconvenience it saves us quickly disappears into the overwhelming shadow of the enormous harm now enabled.",
+                                "time": 1713551426,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "ImPostingOnHN",
+                                        "id": 40090521,
+                                        "kids": [
+                                            40090576
+                                        ],
+                                        "parent": 40090390,
+                                        "text": "<i>&gt; This would be as if we invented and sold nuclear weapons to dig out quarry mines faster.</i><p>\u201dProject Plowshare was the overall United States program for the development of techniques to use nuclear explosives for peaceful construction purposes.\u201d<i>[0]</i><p><i>0: <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Project_Plowshare\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Project_Plowshare</a></i>",
+                                        "time": 1713552071,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "wumeow",
+                                                "id": 40090576,
+                                                "parent": 40090521,
+                                                "text": "Yeah, and it was terminated. Much harder to put this genie back in the bottle.",
+                                                "time": 1713552329,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "by": "SkyPuncher",
+                        "id": 40090207,
+                        "parent": 40090126,
+                        "text": "One the surface, it&#x27;s a simple, understandable demo for the masses. While at the same time, it hints at deeper commercial usage.<p>Disney has been using digital likeness to maintain characters who&#x27;s actors&#x2F;actresses have died. Princess Leia is the most prominent example. Arguably, there is significant realistic value in being able to generate a human-like character that doesn&#x27;t have to be recast. That character can be any age, at any time, and look exactly like the actor&#x2F;actress.<p>For actors&#x2F;actresses, I suspect many of them will start licensing their image&#x2F;likeness as they look to wind down their careers. It gives them on-going income with very little effort.",
+                        "time": 1713550458,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "jdietrich",
+                        "id": 40090460,
+                        "parent": 40090126,
+                        "text": "In this case, replacing humans in service jobs. From the paper:<p><i>&quot;Such technology holds the promise of enriching digital communication,\nincreasing accessibility for those with communicative impairments, transforming education methods with interactive AI tutoring, and providing therapeutic support and social interaction in healthcare.&quot;</i><p>A convincing simulacrum of empathy could plausibly be the most profitable product since oil.",
+                        "time": 1713551784,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "hypeatei",
+                        "id": 40090171,
+                        "parent": 40090126,
+                        "text": "Entertainment maybe? I know that&#x27;s not necessarily an ethical reason but some have made hilarious AI-generated songs already.",
+                        "time": 1713550321,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "r1chardnl",
+                        "id": 40090191,
+                        "kids": [
+                            40090665
+                        ],
+                        "parent": 40090126,
+                        "text": "Apple Vision Pro personas competition",
+                        "time": 1713550403,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "selimnairb",
+                                "id": 40090665,
+                                "parent": 40090191,
+                                "text": "Thank god. I will finally be able to use my EyeMac with dignity.",
+                                "time": 1713552776,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "criddell",
+                        "id": 40090523,
+                        "parent": 40090126,
+                        "text": "If beautiful people have an advantage in the job market, maybe people will use deepfake technology when doing zoom interviews? Maybe they will use it to alter their accent?",
+                        "time": 1713552085,
+                        "type": "comment"
+                    },
+                    {
+                        "deleted": true,
+                        "id": 40090162,
+                        "parent": 40090126,
+                        "time": 1713550278,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "bugglebeetle",
+                        "id": 40090134,
+                        "kids": [
+                            40090470
+                        ],
+                        "parent": 40090126,
+                        "text": "State disinformation and propaganda campaigns.",
+                        "time": 1713550117,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "NortySpock",
+                                "id": 40090470,
+                                "parent": 40090134,
+                                "text": "Corporate disinformation and propaganda campaigns.<p>Personal disinformation and propaganda campaigns.<p>Oh Brave New World, that has such fake people in it!",
+                                "time": 1713551840,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "szundi",
+                        "id": 40090395,
+                        "parent": 40090126,
+                        "text": "Imagine being the CEO and you just grab your salary and options, go home, sit in the hot tub while one of the interns carefully prompts GPT and VASE how you are giving a speech online about strategic directions. &#x2F;s",
+                        "time": 1713551460,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "mensetmanusman",
+                        "id": 40090181,
+                        "parent": 40090126,
+                        "text": "The purpose is to give remote workers the ability to clone themselves and automate their many jobs. &#x2F;s<p>(but actually, because laziness is the driver of all innovation, I wouldn&#x27;t be surprised if this happens).",
+                        "time": 1713550365,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "probably_jesus",
+                        "dead": true,
+                        "id": 40090510,
+                        "parent": 40090126,
+                        "text": "[dead]",
+                        "time": 1713552034,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "nycdatasci",
+                "id": 40074894,
+                "kids": [
+                    40076821,
+                    40089345,
+                    40076727,
+                    40078011
+                ],
+                "parent": 40071858,
+                "text": "\u201cWe have no plans to release an online demo, API, product, additional implementation details, or any related offerings until we are certain that the technology will be used responsibly and in accordance with proper regulations.\u201d",
+                "time": 1713437955,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "justinclift",
+                        "id": 40076821,
+                        "kids": [
+                            40082733,
+                            40079347
+                        ],
+                        "parent": 40074894,
+                        "text": "&gt; until we are certain that the technology will be used responsibly ...<p>That&#x27;s basically &quot;never&quot; then, so we&#x27;ll see how long they hold out.<p>Scammers are already using the existing voice&#x2F;image&#x2F;video generation apparently fairly successfully. :(",
+                        "time": 1713451449,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "spacemanspiff01",
+                                "id": 40082733,
+                                "kids": [
+                                    40082881
+                                ],
+                                "parent": 40076821,
+                                "text": "Having a delay, where people can see what&#x27;s coming down the pipe, does have value. In a year there may&#x2F;will be a open source model.<p>But knowing that this is possible is important to know.<p>I&#x27;m fairly clued in, and am constantly surprised at how fast things are changing.",
+                                "time": 1713491713,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "justinclift",
+                                        "id": 40082881,
+                                        "parent": 40082733,
+                                        "text": "&gt; But knowing that this is possible ...<p><i>Who</i> knowing this is possible?<p>The general elderly person isn&#x27;t going to know any time soon.  The SV IT people probably will.<p>It&#x27;s not an even distribution of knowledge. ;&#x2F;",
+                                        "time": 1713493436,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "ilaksh",
+                                "id": 40079347,
+                                "parent": 40076821,
+                                "text": "Eventually someone will implement one of these really good recent ones as open source and then it will be on replicate etc. right now the open source ones like SadTalker and Video Retalking are not live and are unconvincing.",
+                                "time": 1713465606,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "araes",
+                        "id": 40089345,
+                        "parent": 40074894,
+                        "text": "Translation: &quot;We&#x27;re attempting to preserve our moat, and this is the correct PR blurb.  We&#x27;ll release an API once we&#x27;re far enough ahead and extracted enough money.&quot;<p>Like somebody on Ars noted &quot;anybody notice it&#x27;s an election year?&quot;  You don&#x27;t need to release an API, all online videos are now suspicious authenticity.  Somebody make a video of Trump or Biden&#x27;s eyes following the mouse cursor around.  Real videos turned into fake videos.",
+                        "time": 1713546529,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "feyman_r",
+                        "id": 40076727,
+                        "parent": 40074894,
+                        "text": "&#x2F;s it doesn\u2019t have the phrase LLM in the title",
+                        "time": 1713450911,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "sitzkrieg",
+                        "id": 40078011,
+                        "parent": 40074894,
+                        "text": "money will change that",
+                        "time": 1713458061,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "fullstackchris",
+                "id": 40075687,
+                "parent": 40071858,
+                "text": "lol how does something like this get only 50ish votes but some hallucinating video slop generator from some of the <i>other</i> competitors gets thousands?",
+                "time": 1713444804,
+                "type": "comment"
+            },
+            {
+                "by": "mdrzn",
+                "id": 40074070,
+                "kids": [
+                    40074374
+                ],
+                "parent": 40071858,
+                "text": "Holy shit these are really high quality and basically in realtime on a 4090. What a time to be alive.",
+                "time": 1713428282,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "rbinv",
+                        "id": 40074374,
+                        "parent": 40074070,
+                        "text": "It really is something. 40 FPS on a 4090, damn.",
+                        "time": 1713432179,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "IshKebab",
+                "id": 40079687,
+                "kids": [
+                    40097058,
+                    40079872
+                ],
+                "parent": 40071858,
+                "text": "Oh god don&#x27;t watch their teeth! Proper creepy.<p>Still, apart from the teeth this looks extremely convincing!",
+                "time": 1713467418,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "mtremsal",
+                        "id": 40097058,
+                        "parent": 40079687,
+                        "text": "The teeth resizing dynamically is incredibly distracting, or more positively, a nice way to identify fakes. For now.",
+                        "time": 1713617918,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "ygjb",
+                        "id": 40079872,
+                        "parent": 40079687,
+                        "text": "yeah, teeth, tongue movement and lack of tongue shape and the &quot;stretching&quot; of the skin around the cheeks in the images pushed the videos right into the uncanny valley for me.",
+                        "time": 1713468636,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "pxoe",
+                "id": 40077770,
+                "kids": [
+                    40078030
+                ],
+                "parent": 40071858,
+                "text": "maybe making a webpage with 27 videos isn&#x27;t the greatest web design idea",
+                "time": 1713457068,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "sitzkrieg",
+                        "id": 40078030,
+                        "parent": 40077770,
+                        "text": "the busted two scrolling sections on mobile really doesnt help",
+                        "time": 1713458157,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "RcouF1uZ4gsC",
+                "id": 40092189,
+                "parent": 40071858,
+                "text": "&gt; To show off the model, Microsoft created a VASA-1 research page featuring many sample videos of the tool in action<p>With AI stuff, I have learned to be very skeptical until and unless a relatively publicly accessible demo with user specified inputs is available.<p>It is way too easy for humans to cherry pick the nice outputs, or to take advantage of biases in the training data to generate nice outputs, and is not at all reflective of how it holds up in the real world.<p>Part of the reason why ChatGPT, Stable Diffusion, Dall-E had such an impact is the people could try and see for themselves without being told how awesome it was by the people making it.",
+                "time": 1713562598,
+                "type": "comment"
+            },
+            {
+                "by": "andrewstuart",
+                "id": 40090518,
+                "parent": 40071858,
+                "text": "Despite vast investment in AI by VCs and vast numbers of startups in the field, these sort of things remain unavailable as simple consumer installable software.<p>Every second day HN has some post about some new amazing AI system. Never available to download run and use.<p>Why the vast investment and no startup selling consumer downloadable software to do it?",
+                "time": 1713552064,
+                "type": "comment"
+            },
+            {
+                "by": "BobaFloutist",
+                "id": 40090891,
+                "parent": 40071858,
+                "text": "Oh good!",
+                "time": 1713554051,
+                "type": "comment"
+            },
+            {
+                "by": "jazzyjackson",
+                "id": 40083605,
+                "kids": [
+                    40083761
+                ],
+                "parent": 40071858,
+                "text": "i get why this is interesting but why is it desirable?<p>real jurassic park &quot;too preoccupied with whether they could&quot; vibes",
+                "time": 1713503384,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "acidburnNSA",
+                        "id": 40083761,
+                        "parent": 40083605,
+                        "text": "Now I can join the meeting &quot;in a suit&quot; while being out paddleboarding!",
+                        "time": 1713505387,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "egberts1",
+                "id": 40090887,
+                "parent": 40071858,
+                "text": "Cool! Now we can expect to see an endless stream of dead president&#x27;s speeches &quot;LIVE&quot; from the White House.<p>This should end well.",
+                "time": 1713554023,
+                "type": "comment"
+            }
+        ]
+    },
+    {
+        "by": "vyrotek",
+        "descendants": 135,
+        "id": 40071858,
+        "kids": [
+            40092641,
+            40098755,
+            40090464,
+            40091389,
+            40090099,
+            40090096,
+            40079794,
+            40074589,
+            40075815,
+            40090297,
+            40090411,
+            40076453,
+            40072759,
+            40075386,
+            40090350,
+            40090417,
+            40074763,
+            40089980,
+            40090433,
+            40072463,
+            40090126,
+            40093925,
+            40074894,
+            40075687,
+            40074070,
+            40079687,
+            40077770,
+            40092189,
+            40090518,
+            40090891,
+            40083605,
+            40090887
+        ],
+        "score": 282,
+        "time": 1713401734,
+        "title": "VASA-1: Lifelike audio-driven talking faces generated in real time",
+        "type": "story",
+        "url": "https://www.microsoft.com/en-us/research/project/vasa-1/",
+        "keywords": [
+            "VASA-1"
+        ],
+        "comments": [
+            {
+                "by": "dang",
+                "id": 40092641,
+                "parent": 40071858,
+                "text": "Related: <a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2024&#x2F;04&#x2F;microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2024&#x2F;04&#x2F;micro...</a><p>(via <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40088826\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40088826</a>, but we merged that thread hither)",
+                "time": 1713565789,
+                "type": "comment"
+            },
+            {
+                "by": "thih9",
+                "id": 40098755,
+                "parent": 40071858,
+                "text": "I could see this being used in movie production.",
+                "time": 1713632607,
+                "type": "comment"
+            },
+            {
+                "by": "cs702",
+                "id": 40090464,
+                "kids": [
+                    40090713,
+                    40095818,
+                    40096983,
+                    40092087,
+                    40097419,
+                    40090740
+                ],
+                "parent": 40071858,
+                "text": "And it&#x27;s only going to get faster, better, easier, cheaper.[a]<p>Meanwhile, yesterday my credit card company asked me if I wanted to use voice authentication for verifying my identity &quot;more securely&quot; on the phone. Surely the company spent many millions of dollars to enable this new security-theater feature.<p>It begs the question: Is every single executive and manager at my credit card company <i>completely unaware</i> that right now anyone can clone anyone else&#x27;s voice by obtaining a short sample audio clip taken from any social network? If anyone is aware, why is the company acting like this?<p>Corporate America is <i>so far behind the times</i> it&#x27;s not even funny.<p>---<p>[a] With apologies to Daft Punk.",
+                "time": 1713551801,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "user_7832",
+                        "id": 40090713,
+                        "kids": [
+                            40091425,
+                            40093098
+                        ],
+                        "parent": 40090464,
+                        "text": "&gt;  Is every single executive and manager at my credit card company completely unaware that right now anyone can clone anyone else&#x27;s voice by obtaining a short sample audio clip taken from any social network?<p>Your mistake is assuming the company cares. The &quot;company&quot; is a hundred different disjointed departments that only care about not getting caught Equifax-style (or filing for bankruptcy if caught). If the marketing director sees a shiny new thing that might boost some random KPI they may not really care about security.<p>However in the rare chance that your bank is actually half decent, I&#x27;d suggest contacting their IT&#x2F;Security teams about your concerns. Maybe you&#x27;ll save some folks from getting scammed?",
+                        "time": 1713553049,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "cyanydeez",
+                                "id": 40091425,
+                                "kids": [
+                                    40095234
+                                ],
+                                "parent": 40090713,
+                                "text": "Also, this feature is probably just some midd level execs plan for a bonus, not a rigorously reviewed and planned. It&#x27;s also probably in the pipeline for a decade so if they don&#x27;t push it out, suddenly they get no bonus for cancelling a project.<p>Corporations are ultimately no better than governments and likely worse depending on what their regulatory environment looks like.",
+                                "time": 1713557379,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "iamflimflam1",
+                                        "id": 40095234,
+                                        "kids": [
+                                            40095486
+                                        ],
+                                        "parent": 40091425,
+                                        "text": "There\u2019s a really important thing here for anyone trying to do sales to big companies.<p>Find an exec that needs a project to advance their career. Make your software that project.<p>Suck in as many other execs into the project so their careers become coupled to getting your software rolled out.",
+                                        "time": 1713593826,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "amindeed",
+                                                "id": 40095486,
+                                                "parent": 40095234,
+                                                "text": "That&#x27;s clever!",
+                                                "time": 1713597429,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "b3yondtopsecret",
+                                "dead": true,
+                                "id": 40093098,
+                                "parent": 40090713,
+                                "text": "[dead]",
+                                "time": 1713570255,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "supercheetah",
+                        "id": 40095818,
+                        "parent": 40090464,
+                        "text": "That scene from Sneakers would be so different nowadays. [1]<p>&quot;My voice is my passport. Verify me.&quot; [2]<p>1. <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;WdcIqFOc2UE?si=Df3DtSakatp9eD0L\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;WdcIqFOc2UE?si=Df3DtSakatp9eD0L</a><p>2. <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;-zVgWpVXb64?si=yT2GZpb7E2yZoEYl\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;-zVgWpVXb64?si=yT2GZpb7E2yZoEYl</a>",
+                        "time": 1713602451,
+                        "type": "comment"
+                    },
+                    {
+                        "deleted": true,
+                        "id": 40096983,
+                        "parent": 40090464,
+                        "time": 1713617240,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "ryandrake",
+                        "id": 40092087,
+                        "kids": [
+                            40098071
+                        ],
+                        "parent": 40090464,
+                        "text": "Any time you add a &quot;new&quot; security gate to your product, it should be <i>in addition to</i> and not <i>instead of</i> the existing gates. Biometrics should not replace username&#x2F;password, they should be in addition to. Security Questions like &quot;What was your first pet&#x27;s name&quot; should not be able to get you in the backdoor. SMS verification alone should not allow you to reset your password. Same with this voice authentication stuff. It should be another layer, not a replacement of your actual credentials.<p>If you treat it as OR instead of AND, then your security is only as good as the worst link in the chain.",
+                        "time": 1713561985,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "recursive",
+                                "id": 40098071,
+                                "parent": 40092087,
+                                "text": "If you make your product sufficiently inconvenient, then you&#x27;ll have the unassailable security posture of having no users.",
+                                "time": 1713626760,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "dade_",
+                        "id": 40097419,
+                        "parent": 40090464,
+                        "text": "Yes, they are and they also know it isn&#x27;t foolproof so that isn&#x27;t the only information being compared against.  Some services compare the calling number is compared against live activity on the PSTN (ie, subscriber&#x27;s phone is not in an active call, but their number is being presented as as the caller ID is one such metric).  Many of these deep fake generators with public access have watermarks in the audio.   The audio stream comparison continues, it needs to speak like you, word and phrase choices.  There are other fingerprints of generated audio that you can&#x27;t hear, but are still obvious at the moment.  With security, it always cat and mouse with fraudsters on one hand and the effort&#x2F;frustration with customers on the other.<p>Asking customers questions that they don&#x27;t remember and that fraudsters have in front of them isn&#x27;t working and the time it takes for agents to authenticate is very expensive.<p>While there is no doubt that companies will screw up with security, you are making wild accusations without reference to any evidence.",
+                        "time": 1713621796,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "fragmede",
+                        "id": 40090740,
+                        "kids": [
+                            40093680
+                        ],
+                        "parent": 40090464,
+                        "text": "I mean, what do you want them to do? If we think their security officers are freaking out and holding meetings right now about what to do, or if they&#x27;re asleep at the wheel, we&#x27;d be seeing the same thing from the outside, no?",
+                        "time": 1713553210,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "addandsubtract",
+                                "id": 40093680,
+                                "parent": 40090740,
+                                "text": "No, because multiple companies are pushing this atm. If it was only company I would agree, but with multiple, you&#x27;d have at least one that would back out of it again.",
+                                "time": 1713575658,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "smusamashah",
+                "id": 40091389,
+                "kids": [
+                    40091532
+                ],
+                "parent": 40071858,
+                "text": "This is good but nowhere as good as EMO <a href=\"https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;</a> (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326</a>)<p>This one has too much fake looking body movement and looks eerie&#x2F;robotic&#x2F;uncanny valley. The lips don&#x27;t sync properly in many places. Eye movement and over all head and body movement is not very natural at all.<p>While EMO looks just perfect mostly. The very first two videos on EMO page are perfect example of that. See the rap near the end to see how good EMO is at lip sync.",
+                "time": 1713557080,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "cchance",
+                        "id": 40091532,
+                        "parent": 40091389,
+                        "text": "Another research project with 0 model release",
+                        "time": 1713558144,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "TriangleEdge",
+                "id": 40090099,
+                "kids": [
+                    40098344,
+                    40090306,
+                    40097145,
+                    40096991,
+                    40091736,
+                    40090222,
+                    40090430
+                ],
+                "parent": 40071858,
+                "text": "Why is this research being done? Is this some kind of arms race? The only purpose of this technology I can think of is getting spies to abuse others.<p>Am I going to have to do AuthN and AuthZ on every phone call and zoom now?",
+                "time": 1713549949,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "HarHarVeryFunny",
+                        "id": 40098344,
+                        "parent": 40090099,
+                        "text": "&gt; Why is this research being done?<p>I think it&#x27;s mostly &quot;because it can be done&quot;. These types of impressive demos have become relatively low hanging fruit in terms of how modern machine learning can be applied.<p>One could imagine commercial applications (VR, virtual &quot;try before you buy&quot;, etc), but things like this can also be a flex by the AI labs, or a PhD student wanting to write a paper.",
+                        "time": 1713629103,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "tithe",
+                        "id": 40090306,
+                        "parent": 40090099,
+                        "text": "I get the feeling it&#x27;s &quot;someone&#x27;s going to do this, so it might as well be us.&quot;<p>It&#x27;s fascinating how research can take on a life of its own and will be pushed, by someone, to its own conclusion.  Even for immensely destructive technologies (e.g., atomic weapons, viruses), the impact of a technology is its own attractor (could you say that&#x27;s risk-seeking behavior?)<p>&gt; Am I going to have to do AuthN and AuthZ on every phone call and zoom now?<p>&quot;Alexa, I need an alibi for yesterday at noon.&quot;",
+                        "time": 1713550977,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "phkahler",
+                        "id": 40097145,
+                        "parent": 40090099,
+                        "text": "Newscasters and other talking heads will be out of business. Just pipe the script into some AI and get video.",
+                        "time": 1713618915,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "danmur",
+                        "id": 40096991,
+                        "kids": [
+                            40097432
+                        ],
+                        "parent": 40090099,
+                        "text": "We all know why this is really happening. Clippy 2.0.",
+                        "time": 1713617282,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "deleted": true,
+                                "id": 40097432,
+                                "parent": 40096991,
+                                "time": 1713621962,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "1659447091",
+                        "id": 40091736,
+                        "parent": 40090099,
+                        "text": "Advertising. Now you and your friends star in the streaming commercials and digital billboards near you! (whether you want to or not)",
+                        "time": 1713559701,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "Arnavion",
+                        "id": 40090222,
+                        "kids": [
+                            40091902,
+                            40090331,
+                            40090484,
+                            40092781
+                        ],
+                        "parent": 40090099,
+                        "text": "On the other hand, if deepfaking becomes common enough that everyone stops trusting everything they read &#x2F; see on the internet, it would be a net good against the spread of disinformation compared to today.",
+                        "time": 1713550504,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "anigbrowl",
+                                "id": 40091902,
+                                "kids": [
+                                    40092158
+                                ],
+                                "parent": 40090222,
+                                "text": "<i>everyone stops trusting everything</i><p>Why would you expect this to happen? Lots of people are gullible, if it were otherwise a lot of well-known politicians would be out of a job or would never have been elected to begin with.",
+                                "time": 1713560857,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "ryandrake",
+                                        "id": 40092158,
+                                        "parent": 40091902,
+                                        "text": "If it&#x27;s even commoner than &quot;common enough&quot; then anyone could at least try to help their gullible friends and family by sending them a deepfake video of them doing&#x2F;saying something they&#x27;ve never said. A lot of people will suddenly wise up when a problem affects them directly.",
+                                        "time": 1713562382,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "hiatus",
+                                "id": 40090331,
+                                "kids": [
+                                    40097047,
+                                    40090454
+                                ],
+                                "parent": 40090222,
+                                "text": "I don&#x27;t see that as an outcome. We have already seen a grand erosion of trust in institutions. Moving to an even lower trust society does not sound like it would have positive consequences for discourse, public policy, or society at large.",
+                                "time": 1713551099,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "throwthrowuknow",
+                                        "id": 40097047,
+                                        "kids": [
+                                            40098207
+                                        ],
+                                        "parent": 40090331,
+                                        "text": "The benefit is that you can only trust in person interaction with social and governmental institutions so people will have to leave their damn house again and go talk to each other face to face. Too many of our current problems are caused by people only interacting with each other and the world through third parties who are performing a MITM operation for their own benefit.",
+                                        "time": 1713617793,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "1attice",
+                                                "id": 40098207,
+                                                "parent": 40097047,
+                                                "text": "This assumes that it&#x27;s a two-way door.<p>Over the past century and a half, we&#x27;ve moved into vast, anonymous spaces, where I&#x27;m as likely to know <i>and get along with</i> my neighbour as I am to win the lottery.<p>And this is important. No, it&#x27;s not just a matter of putting on an effort to learn who my neighbour is -- my neighbour is literally someone whose life experiences are wildly different, whose social outcomes will be wildly different, whose beliefs and values are wildly different, and, for all I know, goes to conferences about how to eliminate me and my kind.<p>(This last part is not speculation; I&#x27;m trans; see: CPAC)<p>And these are <i>my</i> reasons. My neighbour is probably equivalently terrified of <i>me</i>, or what I represent, or the media I consume, or the conferences that I go to.<p>Generalizing, you can&#x27;t take a bunch of random people whose only bond is that they share meatspace-proximity, draw a circle around them, and declare them a community; those communities are _gone_, and you can no more bring them back than you can revive a corpse. (This would also probably not be a good idea, even if it were possible: they were also incredibly uncomfortable places for anyone who didn&#x27;t fit in, and we have generations of fiction about people risking everything to leave for those big anonymous cities we created in step 1.)<p>So, here we are, dependent on technology to stay in touch with far-flung friends and lovers and family, all of us, scattered like spiderwebs across the globe, and now into the strands drips a poison.<p>Daniel Dennett was right. Counterfeit people are an enormous danger to civilization. Research like this should stop immediately.",
+                                                "time": 1713627887,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "by": "rightbyte",
+                                        "id": 40090454,
+                                        "parent": 40090331,
+                                        "text": "Ironically low effort deep fakes might increase trust in organizations that have had the budget to fake stuff since their inception. The losers are &#x27;citizen journalist&#x27; broadcasting on Youtube etc.",
+                                        "time": 1713551764,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "notaustinpowers",
+                                "id": 40090484,
+                                "kids": [
+                                    40097070
+                                ],
+                                "parent": 40090222,
+                                "text": "I don&#x27;t see the extinction of trust through the introduction of garbage falsehoods to be a net good.<p>Believing that everything you eat is poisoned is no way to live. Believing that everything you see is a lie is also no way to live.",
+                                "time": 1713551927,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "throwthrowuknow",
+                                        "id": 40097070,
+                                        "parent": 40090484,
+                                        "text": "Before photography this was just the normal state of the world. Think a little, back then any story or picture you saw was made by a person and you only had their reputation to go by. Think some more and you realize that\u2019s never changed even with pictures and video. Easy AI generated pictures and video just remove the illusion of trust.",
+                                        "time": 1713618049,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "piva00",
+                                "id": 40092781,
+                                "parent": 40090222,
+                                "text": "That&#x27;s the whole issue though, spread of disinformation eroded trust, furthering this into obliteration of all trust is not a good outcome.",
+                                "time": 1713566954,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "andybak",
+                        "id": 40090430,
+                        "kids": [
+                            40093642
+                        ],
+                        "parent": 40090099,
+                        "text": "Because the text for this is only a slight variation of the tech for a broad range of legitimate applications?<p>Because even this precise tech has legitimate use cases?<p>&gt; The only purpose of this technology I can think of is getting spies to abuse others.<p>Can you really not think of any other use cases?",
+                        "time": 1713551667,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "krainboltgreene",
+                                "id": 40093642,
+                                "parent": 40090430,
+                                "text": "Why don&#x27;t you list some legitimate and useful values of this work? Especially at the price we and this company are paying.",
+                                "time": 1713575193,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "alfalfasprout",
+                "id": 40090096,
+                "kids": [
+                    40090157,
+                    40095060,
+                    40090379,
+                    40090158
+                ],
+                "parent": 40071858,
+                "text": "What this is starting to reveal is that there&#x27;s a clear need for some kind of chain of custody system that guarantees the authenticity of what we see. Nikon&#x2F;Canon tried doing this in the past, but improper storage of private keys lead to vulnerabilities. As far as I&#x27;m aware it&#x27;s never extended to video either.<p>With modern secure hardware keys it may yet be possible. The difficulty is that any kind of photo&#x2F;video manipulation would break the signature (and there are practical reasons to want to be able to edit videos obviously).<p>In the ideal world, any mutation to the original source content could be traceable to the original source content. But that&#x27;s not an easy problem to solve.",
+                "time": 1713549936,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "throw__away7391",
+                        "id": 40090157,
+                        "kids": [
+                            40090424,
+                            40091926,
+                            40090992,
+                            40090219
+                        ],
+                        "parent": 40090096,
+                        "text": "No, we are merely returning to the pre-photography state of things where a mere printed image is not sufficient evidence for anything.",
+                        "time": 1713550249,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "hx8",
+                                "id": 40090424,
+                                "kids": [
+                                    40090650,
+                                    40090626
+                                ],
+                                "parent": 40090157,
+                                "text": "True, an image, audio clip, or video is not enough evidence to establish truth.<p>We still need a way to establish truth.  It&#x27;s important for security cameras, for politics, and for public figures.  Here are some things we could start looking into.<p>* Cameras that sign their output.  Yes, this camera caught this video, and it hasn&#x27;t been modified.  This is a must for recordings being used in court evidence IMO.  Otherwise framing a crime is as easy as a few deep fakes and planting some DNA or fingerprints at the scene of the crime.<p>* People digitally signing pictures&#x2F;audio&#x2F;videos of them.  Even if they digitally modified the data it shows that they consent to having their image associated with that message.  It reduces the strength of the attack vector of deep fake videos for reputation sabotage.<p>* Malicious content source detection and flagging.  Think email spam filter type tagging of fake content.  Community notes on X would be another good example.<p>* Digital manipulation detection.  I&#x27;m less than hopeful this will be the way in the long term, but could be used to disprove some fraud.",
+                                "time": 1713551633,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "alex_suzuki",
+                                        "id": 40090650,
+                                        "parent": 40090424,
+                                        "text": "Signing is great, but the hard part is managing keys and trust.",
+                                        "time": 1713552696,
+                                        "type": "comment"
+                                    },
+                                    {
+                                        "by": "alchemist1e9",
+                                        "id": 40090626,
+                                        "kids": [
+                                            40095120
+                                        ],
+                                        "parent": 40090424,
+                                        "text": "Blockchains can be used for cryptography time-stamping.<p>I\u2019ve always had a suspicion that governments and large companies would prefer a world without hard cryptographic proofs. After wikileaks they noticed DKIM can cause them major blowback. Somehow general public isn\u2019t aware all the emails were proven authentic with DKIM signatures and even in fairly educated circles people believe the \u201cemails were fake\u201d but it\u2019s not actually possible.",
+                                        "time": 1713552553,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "PeterisP",
+                                                "id": 40095120,
+                                                "parent": 40090626,
+                                                "text": "Quite the opposite, governments and large companies even explicitly run services for digital timestamping of documents - if I wanted to potentially assert some facts in court, I&#x27;d definitely prefer having that e-document with a timestamp notarized from my local government service instead of Bitcoin, because while the cryptography is the same, it would be much simpler from the practical legal perspective, requiring less time and effort and cost to get the court to accept that.",
+                                                "time": 1713591848,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "anigbrowl",
+                                "id": 40091926,
+                                "kids": [
+                                    40096851
+                                ],
+                                "parent": 40090157,
+                                "text": "<i>merely</i><p>You say this as if it were not a big deal, but losing a century&#x27;s worth of authentication infrastructure&#x2F;practises is a Bad Thing which will have large negative externalities.",
+                                "time": 1713560994,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "throw__away7391",
+                                        "id": 40096851,
+                                        "parent": 40091926,
+                                        "text": "It isn&#x27;t really though. It has been technical possible to convincingly doctor photos for some time already, gradually getting easier, cheaper, and faster with time for decades, and even now the currently available tech has limitations and the full change is not going to happen overnight.",
+                                        "time": 1713615934,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "BobaFloutist",
+                                "id": 40090992,
+                                "parent": 40090157,
+                                "text": "Pre-photography it at least took effort, practice, and time, to draw something convincing. Any skill with that much of a barrier to entry kind of automatically reduces the ability to be anonymous. And we didn&#x27;t have the ability to instantaneously distribute images world-wide.",
+                                "time": 1713554645,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "tass",
+                                "id": 40090219,
+                                "kids": [
+                                    40090330
+                                ],
+                                "parent": 40090157,
+                                "text": "There goes the dashcam industry\u2026",
+                                "time": 1713550495,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "barbazoo",
+                                        "id": 40090330,
+                                        "parent": 40090219,
+                                        "text": "You&#x27;re being downvoted but I think the comment raises a good question. what will happen when someone gets accused of doctoring their dashcam footage? Or any footage used for evidence.",
+                                        "time": 1713551097,
+                                        "type": "comment"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "by": "PeterisP",
+                        "id": 40095060,
+                        "kids": [
+                            40097113
+                        ],
+                        "parent": 40090096,
+                        "text": "I think it&#x27;s practically impossible for such a system to be globally trustworthy due to the practical inevitability of &quot;but improper storage of private keys lead to vulnerabilities&quot; scenarios.<p>People will expect or require that chain of custody only if all or at least the vast majority of the content they want would have that chain of custody.<p>Photo&#x2F;video content will have that chain of custody only if all or almost all of devices recording that content will support it - including all the cheapest mass-produced devices in reasonably widespread use anywhere in the world.<p>And that chain of custody provides the benefit <i>only</i> if literally 100% of these manufacturers have their private keys secure 100% of the time, which is simply not happening; at least one such key will leak, if not unintentionally then intentionally for some intelligence agency who wants to fake content.<p>And what do you do once you see a leak of the private keys used for signing the certificates for the private keys securely embedded in (for example) all of 2029 Huawei smartphones, which could be like 200 million phones? The users won&#x27;t replace their phones just because of that, and you&#x27;ll have all these users making content - so everyone will have to choose to either auto-block and discard everything from all those 200 million users, or permit content with a potentially fake chain of custody; and I&#x27;m totally certain that most people will prefer the latter.",
+                        "time": 1713591179,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "macrolime",
+                                "id": 40097113,
+                                "parent": 40095060,
+                                "text": "Multisig by the user and camera manufacturer can help to some extent.",
+                                "time": 1713618632,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "bonton89",
+                        "id": 40090379,
+                        "kids": [
+                            40096461
+                        ],
+                        "parent": 40090096,
+                        "text": "I expect this type of system to be implemented in my lifetime. It will allow whistleblowers and investigative sources to be discredited or tracked down and persecuted.",
+                        "time": 1713551363,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "20after4",
+                                "id": 40096461,
+                                "parent": 40090379,
+                                "text": "Unfortunately that seems inevitable.",
+                                "time": 1713611858,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "deleted": true,
+                        "id": 40090158,
+                        "parent": 40090096,
+                        "time": 1713550250,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "ilaksh",
+                "id": 40079794,
+                "parent": 40071858,
+                "text": "The paper mentions it uses Diffusion Transformers. The open source implementation that comes up in Google is Facebook Research&#x27;s PyTorch implementation which is a non-commercial license. <a href=\"https:&#x2F;&#x2F;github.com&#x2F;facebookresearch&#x2F;DiT\">https:&#x2F;&#x2F;github.com&#x2F;facebookresearch&#x2F;DiT</a><p>Is there something equivalent but MIT or Apache?<p>I feel like diffusion transformers are key now.<p>I wonder if OpenAI implemented their SORA stuff from scratch or if they built on the Facebook Research diffusion transformers library. That would be interesting if they violated the non-commercial part.<p>Hm. Found one: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;milmor&#x2F;diffusion-transformer-keras\">https:&#x2F;&#x2F;github.com&#x2F;milmor&#x2F;diffusion-transformer-keras</a>",
+                "time": 1713468016,
+                "type": "comment"
+            },
+            {
+                "by": "nojvek",
+                "id": 40074589,
+                "parent": 40071858,
+                "text": "I like the considerations topic.<p>There\u2019s likely also a an unsaid statement. This is for us only and we\u2019ll be the only ones making money from it with our definition of \u201csafety\u201d and \u201cpositive\u201d.",
+                "time": 1713434749,
+                "type": "comment"
+            },
+            {
+                "by": "fluffet",
+                "id": 40075815,
+                "kids": [
+                    40078765
+                ],
+                "parent": 40071858,
+                "text": "This is absolutely crazy. And it&#x27;ll only get better from here. Imagine &quot;VASA-9&quot; or whatever.<p>I thought deepfakes were still quite a bit away but after this I will have to be way more careful online. It&#x27;s not far from behind something that can show up in your &quot;YouTube shorts&quot; feed and trick you if you didn&#x27;t already know it was AI.",
+                "time": 1713445712,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "smusamashah",
+                        "id": 40078765,
+                        "kids": [
+                            40081343
+                        ],
+                        "parent": 40075815,
+                        "text": "This is good but nowhere as good as EMO <a href=\"https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;humanaigc.github.io&#x2F;emote-portrait-alive&#x2F;</a> (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39533326</a>)<p>This one has too much movement and looks eerie&#x2F;robotic&#x2F;uncanny valley. While EMO looks just perfect.",
+                        "time": 1713462347,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "vessenes",
+                                "id": 40081343,
+                                "kids": [
+                                    40085833
+                                ],
+                                "parent": 40078765,
+                                "text": "Hard disagree -- I think you might be misremembering how EMO looks in practice -- I&#x27;m sure we&#x27;ll learn VASA-1 &quot;telltales&quot; but to my eyes there are far fewer than EMO - zero of the EMO videos were &#x27;perfect&#x27; for me, and many show little glitches or missing sync. VASA-1 still blinks a bit more than I think is natural, but it looks much more fluid.<p>Both are, BTW, AMAZING!! Pretty crazy.",
+                                "time": 1713478671,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "smusamashah",
+                                        "id": 40085833,
+                                        "parent": 40081343,
+                                        "text": "In VASA there is way to much body movement instead of just being he head as if camera is moving in the strong winds. EMO is a lot more human like. In the very first video on the EMO page I still cannot see it as a generated video, its that real. The lip movement, the expressions are in almost in perfect sync with the voice. That is absolutely not the case with VASA",
+                                        "time": 1713529005,
+                                        "type": "comment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "physhster",
+                "id": 40090297,
+                "kids": [
+                    40096438,
+                    40090351
+                ],
+                "parent": 40071858,
+                "text": "A fantastic technological advance for election interference!",
+                "time": 1713550944,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "IshKebab",
+                        "id": 40096438,
+                        "parent": 40090297,
+                        "text": "As if this technology was needed.",
+                        "time": 1713611468,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "RGamma",
+                        "id": 40090351,
+                        "parent": 40090297,
+                        "text": "Such an <i>exciting</i> startup idea! I&#x27;m <i>thrilled</i>!",
+                        "time": 1713551172,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "binkHN",
+                "id": 40090411,
+                "parent": 40071858,
+                "text": "Full details at <a href=\"https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;project&#x2F;vasa-1&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;project&#x2F;vasa-1&#x2F;</a>",
+                "time": 1713551565,
+                "type": "comment"
+            },
+            {
+                "by": "gedy",
+                "id": 40076453,
+                "kids": [
+                    40095138,
+                    40083771
+                ],
+                "parent": 40071858,
+                "text": "My first thought was &quot;oh no the interview fakes&quot;, but then I realized - what if they just kept using the face?  Would I care?",
+                "time": 1713449415,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "PeterisP",
+                        "id": 40095138,
+                        "parent": 40076453,
+                        "text": "It would be interesting that a remote candidate could easily identify as whatever ethnicity, age or even gender they consider most beneficial for hiring to avoid discrimination or fit certain diversity incentives.<p>Tech like this has the potential to bring us back to the days of &quot;on the Internet, nobody know&#x27;s you&#x27;re a dog&quot; <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;On_the_Internet,_nobody_knows_you%27re_a_dog\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;On_the_Internet,_nobody_knows_...</a>",
+                        "time": 1713592106,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "acidburnNSA",
+                        "id": 40083771,
+                        "parent": 40076453,
+                        "text": "Yeah, even if they just use LLMs to do all the work, or are a LLM themselves, as long as they can do the work I guess.<p>Weird implications for various regulations though.",
+                        "time": 1713505478,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "acidburnNSA",
+                "id": 40072759,
+                "kids": [
+                    40076877
+                ],
+                "parent": 40071858,
+                "text": "Oh no. &quot;Cameras on please!&quot; will be replaced by &quot;AI generated faces off please!&quot; in teams.",
+                "time": 1713412019,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "darig",
+                        "dead": true,
+                        "id": 40076877,
+                        "parent": 40072759,
+                        "text": "[dead]",
+                        "time": 1713451790,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "qwertox",
+                "id": 40075386,
+                "parent": 40071858,
+                "text": "So an ugly person will be able to present his or her ideas on the same visual level as a beautiful person. Is this some sort of democratization?",
+                "time": 1713442481,
+                "type": "comment"
+            },
+            {
+                "by": "karaterobot",
+                "id": 40090350,
+                "kids": [
+                    40090419,
+                    40092684,
+                    40090468
+                ],
+                "parent": 40071858,
+                "text": "We need some clear legislation around this right now.",
+                "time": 1713551168,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "stronglikedan",
+                        "id": 40090419,
+                        "kids": [
+                            40090792
+                        ],
+                        "parent": 40090350,
+                        "text": "counterpoint: we don&#x27;t need any more legislation",
+                        "time": 1713551615,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "qwertox",
+                                "id": 40090792,
+                                "parent": 40090419,
+                                "text": "I tend towards agreeing with you. Many of the problems, like impersonation, are already illegal.<p>And replacing a person which spreads lies, as can be seen in most TV or glossy cover ads, shouldn&#x27;t trigger some new legal action. The only difference is that now the actor is also a lie.<p>And countries which use actors or news anchors for spreading propaganda surely won&#x27;t see an issue with replacing them with AI characters.<p>People who then get to read that their most favorite, stunningly beautiful Instagram or TikTok influencer is nothing but a fat, chips-eating ugly person using AI, may try to raise some legal issues to soothe their disappointment. They then might raise a point which sounds reasonable, but which would then force politicians to also tackle the lies which are spread in TV&#x2F;Magazines ads.<p>Maybe clearly labeling any use of this tech, maybe even with a QR code linking to who is the owner of the AI, similar to QR codes on meat packaging which allow you to track the origin of the meat, would be something what laws could be helpful with, in the spirit of transparency.",
+                                "time": 1713553542,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "CamperBob2",
+                        "id": 40092684,
+                        "parent": 40090350,
+                        "text": "Legislation only impairs the good guys.",
+                        "time": 1713566161,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "4ndrewl",
+                        "id": 40090468,
+                        "kids": [
+                            40091322
+                        ],
+                        "parent": 40090350,
+                        "text": "In which jurisdiction?",
+                        "time": 1713551820,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "karaterobot",
+                                "id": 40091322,
+                                "parent": 40090468,
+                                "text": "What jurisdiction would not benefit from legislation around duplicating people&#x27;s identities using AI?",
+                                "time": 1713556660,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "FredPret",
+                "id": 40090417,
+                "kids": [
+                    40090731,
+                    40090486,
+                    40092036,
+                    40090506,
+                    40091964,
+                    40090571,
+                    40090505,
+                    40090437
+                ],
+                "parent": 40071858,
+                "text": "Anyone have any good ideas for how we&#x27;re going to do politics now?<p>Today a big ML model can do this and it&#x27;s somewhat regulate-able, tomorrow people can do this on their contact-lens supercomputers and anyone can generate a video of anything.<p>Is going back to personally knowing your local representative the only way? How will we vote for national candidates if nobody knows what they think or say?",
+                "time": 1713551602,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "dwb",
+                        "id": 40090731,
+                        "kids": [
+                            40092215,
+                            40092521,
+                            40091019,
+                            40090928
+                        ],
+                        "parent": 40090417,
+                        "text": "We already rely on chains of trust going back to the original source, and will still. I find these alarmist posts a bit mystifying \u2013 before photography, anyone could fake a quote of anyone, and human civilisation got quite far. We had a bit over a hundred years where phographic-quality images were possible and very hard to fake (which did and still does vary with technology), but clearly now we\u2019re past that. We\u2019ll manage!",
+                        "time": 1713553156,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "woleium",
+                                "id": 40092215,
+                                "parent": 40090731,
+                                "text": "The issue is better phrased as \u201chow will we survive the transition while some folk still believe the video they are seeing is irrefutable proof the event happened?\u201d",
+                                "time": 1713562763,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "GeoAtreides",
+                                "id": 40092521,
+                                "parent": 40090731,
+                                "text": "In the before times we didn&#x27;t have social media and its algorithms and reach. Does it matter that the chains of trust debunk a viral lie 24 hours after it had spread? Not that there&#x27;s a lot of trust in the chains of trust to begin with. And if you still have trust, then you&#x27;re not the target of the viral lie. And if you still have trust, then how long can you hold on that trust when the lies keep coming 24&#x2F;7 one after another without end. As one movie critic once put it: You might not have noticed it, but your brain did. Very malleable this brain of ours.<p>The civilization might be fine, sure. Now, democracy, on the other hand...",
+                                "time": 1713564978,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "marcusverus",
+                                "id": 40091019,
+                                "kids": [
+                                    40091286
+                                ],
+                                "parent": 40090731,
+                                "text": "Presidential elections are frequently pretty close. Taking the electoral college into account (not the popular vote, which doesn&#x27;t matter) Donald Trump won the 2016 election by a grand total of ~80,000 votes in three states[0].<p>Knowing that retractions rarely get viral exposure, it&#x27;s not difficult to imagine that a few sufficiently-viral videos could swing enough votes to impact a presidential election. <i>Especially</i> when considering that the average person is not up to speed on the current state of the tech, and so has not been prompted to build up the mindset that&#x27;s required to fend off this new threat.<p>[0] <a href=\"https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;news&#x2F;the-fix&#x2F;wp&#x2F;2016&#x2F;12&#x2F;01&#x2F;donald-trump-will-be-president-thanks-to-80000-people-in-three-states&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;news&#x2F;the-fix&#x2F;wp&#x2F;2016&#x2F;12&#x2F;01&#x2F;do...</a>",
+                                "time": 1713554821,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "dwb",
+                                        "id": 40091286,
+                                        "parent": 40091019,
+                                        "text": "Plausible. I was thinking over the longer-term.",
+                                        "time": 1713556412,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "BobaFloutist",
+                                "id": 40090928,
+                                "parent": 40090731,
+                                "text": "Yeah I mean tabloids have been fooling people with doctored photos for decades.<p>Potentially we&#x27;ll need slightly tighter regulations on formal press (so that people that care for accurate information have a place they can get it) and definitely we&#x27;ll want to steer the culture back towards holding them accountable for misinformation, but credulous people have always had easy access to bad information.<p>I&#x27;m <i>much</i> more worried at the potential abuse cases that involve ordinary people that aren&#x27;t public figures, and have much less ability to defend themselves. Heck, even celebrities are a more vulnerable targets than politicians.",
+                                "time": 1713554318,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "T-A",
+                        "id": 40090486,
+                        "kids": [
+                            40091544
+                        ],
+                        "parent": 40090417,
+                        "text": "&gt; Today a big ML model can do this<p>Not that big:<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;Zejun-Yang&#x2F;AniPortrait\">https:&#x2F;&#x2F;github.com&#x2F;Zejun-Yang&#x2F;AniPortrait</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;ZJYang&#x2F;AniPortrait&#x2F;tree&#x2F;main\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;ZJYang&#x2F;AniPortrait&#x2F;tree&#x2F;main</a>",
+                        "time": 1713551937,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "cchance",
+                                "id": 40091544,
+                                "parent": 40090486,
+                                "text": "Didn&#x27;t see that one pretty cool, not as good as Emo or Vasa but pretty good",
+                                "time": 1713558237,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "TimedToasts",
+                        "id": 40092036,
+                        "parent": 40090417,
+                        "text": "&gt; Anyone have any good ideas for how we&#x27;re going to do politics now?<p>If a business is showing a demo of this you can be assured that the Government already has this tech and has for a period of time.<p>&gt; How will we vote for national candidates if nobody knows what they think or say?<p>You don&#x27;t know what they think or say <i>now</i> - hopefully this disabuses people of this notion.",
+                        "time": 1713561666,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "4ndrewl",
+                        "id": 40090506,
+                        "parent": 40090417,
+                        "text": "DNS? Might be that we need a radical (for some) change of viewpoint.<p>Just as there&#x27;s no privacy on the internet, how about &#x27;theres very little trust on the internet&#x27;. Assume everything not securely signed by a trusted party is false.",
+                        "time": 1713552018,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "hooverd",
+                        "id": 40091964,
+                        "parent": 40090417,
+                        "text": "People already believe any quote you slap on a JPEG.",
+                        "time": 1713561200,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "kmlx",
+                        "id": 40090571,
+                        "parent": 40090417,
+                        "text": "&gt; How will we vote for national candidates if nobody knows what they think or say?<p>i\u2019m going to burst your bubble here, but most voters have no idea about policies or candidates. most voters vote based on inertia or minimal cues, not on policies or candidates.<p>i suggest you look up \u201cThe American Voter\u201d, \u201cThe Democratic Dilemma: Can Citizens Learn What They Need to Know?\u201d and \u201cAmerican National Election Studies\u201d.",
+                        "time": 1713552298,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "hx8",
+                        "id": 40090505,
+                        "parent": 40090417,
+                        "text": "Hyper targeted placement of generated content designed to entice you to donate to political campaigns and to vote.  Perhaps leading to a point where entire video clips are generated for a single viewer.  Politicians and political commentators will lease their likeness and voice out for targeted messaging to be generated using their likeness.  Less reputable platforms will allow disinformation campaigns to spread.",
+                        "time": 1713552011,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "qup",
+                        "id": 40090437,
+                        "kids": [
+                            40090516
+                        ],
+                        "parent": 40090417,
+                        "text": "People in my circles have been saying this for a few years now, and we&#x27;ve yet to see it happen.<p>I&#x27;ve got my popcorn ready.<p>But you can rest easy. Everyone just votes for the candidate their party picked, anyway.",
+                        "time": 1713551708,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "FredPret",
+                                "id": 40090516,
+                                "parent": 40090437,
+                                "text": "It&#x27;ll happen - deepfakes aren&#x27;t good enough yet. But when they become ubiquitous and hard to spot, it&#x27;ll be chaos until the average person is mentally inoculated against believing any video &#x2F; anything on the internet.<p>I wonder if it&#x27;s possible to digitally sign footage as it&#x27;s captured? It&#x27;d be nice to have some share-able demonstrably true media.<p>Edit: I&#x27;m a centrist and I definitely would lean one way or the other based on who the options are (or who I think they are).",
+                                "time": 1713552058,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "gavi",
+                "id": 40074763,
+                "parent": 40071858,
+                "text": "The GPU requirements for realtime video generation are very minimal in the grand scheme of things. Assault on reality itself.",
+                "time": 1713436562,
+                "type": "comment"
+            },
+            {
+                "by": "m3kw9",
+                "id": 40089980,
+                "kids": [
+                    40090069,
+                    40090027
+                ],
+                "parent": 40071858,
+                "text": "If you see talking heads with static&#x2F;simple&#x2F;blurred backgrounds from now on, assume it is fake.  In the near future they will accompany realistic backgrounds and even less detectable fakes, we will have to assume all vids could be faked.",
+                "time": 1713549398,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "hypeatei",
+                        "id": 40090069,
+                        "kids": [
+                            40095091,
+                            40090309
+                        ],
+                        "parent": 40089980,
+                        "text": "I wonder how video evidence in court is going to be affected by this. Both from a defense and prosecution perspective.<p>Technically videos could&#x27;ve been faked before but it would require a ton of effort and skill that no average person would have.",
+                        "time": 1713549821,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "PeterisP",
+                                "id": 40095091,
+                                "parent": 40090069,
+                                "text": "Just as before, a major part of photo or video evidence in court is not the actual video itself, but a person testifying &quot;on that day I saw this horrible event, where these things happened, and here&#x27;s attached evidence that I filmed which illustrates some details of what I saw.&quot; - which would be a valid consideration even without the photo&#x2F;video, but the added details do obviously help.<p>Courts already wouldn&#x27;t generally approve random footage without clear provenance.",
+                                "time": 1713591489,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "greenavocado",
+                                "id": 40090309,
+                                "parent": 40090069,
+                                "text": "There will be a new cottage industry of AI detectives that serve as expert witnesses and they will attest to the originality of media to the court",
+                                "time": 1713551000,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "Retric",
+                        "id": 40090027,
+                        "kids": [
+                            40096389,
+                            40090067
+                        ],
+                        "parent": 40089980,
+                        "text": "I still find the faces themselves to be really obviously wrong. The sound is just off, close enough to tell who is being imitated but not particularly good.",
+                        "time": 1713549597,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "tyingq",
+                                "id": 40096389,
+                                "parent": 40090027,
+                                "text": "It&#x27;s interesting to me that some of the long-standing things are still there.  For example, lots of people with an earring in only one ear, unlikely asymmetry in the shape or size of their ears, etc.",
+                                "time": 1713610705,
+                                "type": "comment"
+                            },
+                            {
+                                "by": "tredre3",
+                                "id": 40090067,
+                                "parent": 40090027,
+                                "text": "Especially the hair &quot;physics&quot; and sometimes the teeth shift around a bit.<p>But that&#x27;s nitpicking. It&#x27;s good enough to fool someone not watching too closely. And the fact that the result is <i>this</i> good with a single photo is truly astonishing, we used to have to train models on thousands of photos for days only to end up with a worse result!",
+                                "time": 1713549812,
+                                "type": "comment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "by": "SirMaster",
+                "id": 40090433,
+                "kids": [
+                    40097408
+                ],
+                "parent": 40071858,
+                "text": "It looks all warpy and stretchy.  That&#x27;s not how skin and face muscles work.  Looks fake to me.",
+                "time": 1713551680,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "Zopieux",
+                        "id": 40097408,
+                        "parent": 40090433,
+                        "text": "I find the hairs to be the least realistic, they look elastic, which is unsurprising: highly detailed things like hairs are hard to simulate with good fidelity.",
+                        "time": 1713621638,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "nowhereai",
+                "id": 40072463,
+                "parent": 40071858,
+                "text": "woah. so far not in the news. this is the only article <a href=\"https:&#x2F;&#x2F;www.ai-gen.blog&#x2F;2024&#x2F;04&#x2F;microsoft-vasa-1-ai-technology.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ai-gen.blog&#x2F;2024&#x2F;04&#x2F;microsoft-vasa-1-ai-technolo...</a>",
+                "time": 1713408437,
+                "type": "comment"
+            },
+            {
+                "by": "balls187",
+                "id": 40090126,
+                "kids": [
+                    40090473,
+                    40090183,
+                    40090207,
+                    40090460,
+                    40090171,
+                    40090191,
+                    40090523,
+                    40090162,
+                    40090134,
+                    40090395,
+                    40090181,
+                    40090510
+                ],
+                "parent": 40071858,
+                "text": "I&#x27;m curious what is the reason for deepfake research and what the practical application is.<p>Can someone explain the commercial need to take someones likeness and generate video content?<p>If I was an a-list celebrity, I would give permission for coke to make a commercial with my likeness, provided I am allowed final approval of the finished ad?<p>Do I have an avatar that attends my zoom work calls?",
+                "time": 1713550060,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "bonton89",
+                        "id": 40090473,
+                        "parent": 40090126,
+                        "text": "Propaganda, political manipulation, narrative nudging, regular scams and advertising.<p>Even though most of those things are illegal you could just have foreign cat&#x27;s paw firms do it. Maybe you fire them for &quot;going to far&quot; after the damage is done, assuming some even manages to connect the dots.",
+                        "time": 1713551856,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "JamesBarney",
+                        "id": 40090183,
+                        "kids": [
+                            40090390
+                        ],
+                        "parent": 40090126,
+                        "text": "Video games, entertainment, and avatars seems like the big ones.",
+                        "time": 1713550371,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "HeatrayEnjoyer",
+                                "id": 40090390,
+                                "kids": [
+                                    40090521
+                                ],
+                                "parent": 40090183,
+                                "text": "If that is really the reason then this is insane and everyone involved should put their keyboards down and stop what they are doing.<p>This would be as if we invented and sold nuclear weapons to dig out quarry mines faster. The inconvenience it saves us quickly disappears into the overwhelming shadow of the enormous harm now enabled.",
+                                "time": 1713551426,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "ImPostingOnHN",
+                                        "id": 40090521,
+                                        "kids": [
+                                            40090576
+                                        ],
+                                        "parent": 40090390,
+                                        "text": "<i>&gt; This would be as if we invented and sold nuclear weapons to dig out quarry mines faster.</i><p>\u201dProject Plowshare was the overall United States program for the development of techniques to use nuclear explosives for peaceful construction purposes.\u201d<i>[0]</i><p><i>0: <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Project_Plowshare\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Project_Plowshare</a></i>",
+                                        "time": 1713552071,
+                                        "type": "comment",
+                                        "comments": [
+                                            {
+                                                "by": "wumeow",
+                                                "id": 40090576,
+                                                "parent": 40090521,
+                                                "text": "Yeah, and it was terminated. Much harder to put this genie back in the bottle.",
+                                                "time": 1713552329,
+                                                "type": "comment"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "by": "SkyPuncher",
+                        "id": 40090207,
+                        "parent": 40090126,
+                        "text": "One the surface, it&#x27;s a simple, understandable demo for the masses. While at the same time, it hints at deeper commercial usage.<p>Disney has been using digital likeness to maintain characters who&#x27;s actors&#x2F;actresses have died. Princess Leia is the most prominent example. Arguably, there is significant realistic value in being able to generate a human-like character that doesn&#x27;t have to be recast. That character can be any age, at any time, and look exactly like the actor&#x2F;actress.<p>For actors&#x2F;actresses, I suspect many of them will start licensing their image&#x2F;likeness as they look to wind down their careers. It gives them on-going income with very little effort.",
+                        "time": 1713550458,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "jdietrich",
+                        "id": 40090460,
+                        "parent": 40090126,
+                        "text": "In this case, replacing humans in service jobs. From the paper:<p><i>&quot;Such technology holds the promise of enriching digital communication,\nincreasing accessibility for those with communicative impairments, transforming education methods with interactive AI tutoring, and providing therapeutic support and social interaction in healthcare.&quot;</i><p>A convincing simulacrum of empathy could plausibly be the most profitable product since oil.",
+                        "time": 1713551784,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "hypeatei",
+                        "id": 40090171,
+                        "parent": 40090126,
+                        "text": "Entertainment maybe? I know that&#x27;s not necessarily an ethical reason but some have made hilarious AI-generated songs already.",
+                        "time": 1713550321,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "r1chardnl",
+                        "id": 40090191,
+                        "kids": [
+                            40090665
+                        ],
+                        "parent": 40090126,
+                        "text": "Apple Vision Pro personas competition",
+                        "time": 1713550403,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "selimnairb",
+                                "id": 40090665,
+                                "parent": 40090191,
+                                "text": "Thank god. I will finally be able to use my EyeMac with dignity.",
+                                "time": 1713552776,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "criddell",
+                        "id": 40090523,
+                        "parent": 40090126,
+                        "text": "If beautiful people have an advantage in the job market, maybe people will use deepfake technology when doing zoom interviews? Maybe they will use it to alter their accent?",
+                        "time": 1713552085,
+                        "type": "comment"
+                    },
+                    {
+                        "deleted": true,
+                        "id": 40090162,
+                        "parent": 40090126,
+                        "time": 1713550278,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "bugglebeetle",
+                        "id": 40090134,
+                        "kids": [
+                            40090470
+                        ],
+                        "parent": 40090126,
+                        "text": "State disinformation and propaganda campaigns.",
+                        "time": 1713550117,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "NortySpock",
+                                "id": 40090470,
+                                "parent": 40090134,
+                                "text": "Corporate disinformation and propaganda campaigns.<p>Personal disinformation and propaganda campaigns.<p>Oh Brave New World, that has such fake people in it!",
+                                "time": 1713551840,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "szundi",
+                        "id": 40090395,
+                        "parent": 40090126,
+                        "text": "Imagine being the CEO and you just grab your salary and options, go home, sit in the hot tub while one of the interns carefully prompts GPT and VASE how you are giving a speech online about strategic directions. &#x2F;s",
+                        "time": 1713551460,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "mensetmanusman",
+                        "id": 40090181,
+                        "parent": 40090126,
+                        "text": "The purpose is to give remote workers the ability to clone themselves and automate their many jobs. &#x2F;s<p>(but actually, because laziness is the driver of all innovation, I wouldn&#x27;t be surprised if this happens).",
+                        "time": 1713550365,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "probably_jesus",
+                        "dead": true,
+                        "id": 40090510,
+                        "parent": 40090126,
+                        "text": "[dead]",
+                        "time": 1713552034,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "metalspoon",
+                "id": 40093925,
+                "parent": 40071858,
+                "text": "AI can talk with me. Why need a friend in real life?",
+                "time": 1713578028,
+                "type": "comment"
+            },
+            {
+                "by": "nycdatasci",
+                "id": 40074894,
+                "kids": [
+                    40076821,
+                    40089345,
+                    40076727,
+                    40078011
+                ],
+                "parent": 40071858,
+                "text": "\u201cWe have no plans to release an online demo, API, product, additional implementation details, or any related offerings until we are certain that the technology will be used responsibly and in accordance with proper regulations.\u201d",
+                "time": 1713437955,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "justinclift",
+                        "id": 40076821,
+                        "kids": [
+                            40082733,
+                            40079347
+                        ],
+                        "parent": 40074894,
+                        "text": "&gt; until we are certain that the technology will be used responsibly ...<p>That&#x27;s basically &quot;never&quot; then, so we&#x27;ll see how long they hold out.<p>Scammers are already using the existing voice&#x2F;image&#x2F;video generation apparently fairly successfully. :(",
+                        "time": 1713451449,
+                        "type": "comment",
+                        "comments": [
+                            {
+                                "by": "spacemanspiff01",
+                                "id": 40082733,
+                                "kids": [
+                                    40082881
+                                ],
+                                "parent": 40076821,
+                                "text": "Having a delay, where people can see what&#x27;s coming down the pipe, does have value. In a year there may&#x2F;will be a open source model.<p>But knowing that this is possible is important to know.<p>I&#x27;m fairly clued in, and am constantly surprised at how fast things are changing.",
+                                "time": 1713491713,
+                                "type": "comment",
+                                "comments": [
+                                    {
+                                        "by": "justinclift",
+                                        "id": 40082881,
+                                        "parent": 40082733,
+                                        "text": "&gt; But knowing that this is possible ...<p><i>Who</i> knowing this is possible?<p>The general elderly person isn&#x27;t going to know any time soon.  The SV IT people probably will.<p>It&#x27;s not an even distribution of knowledge. ;&#x2F;",
+                                        "time": 1713493436,
+                                        "type": "comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "by": "ilaksh",
+                                "id": 40079347,
+                                "parent": 40076821,
+                                "text": "Eventually someone will implement one of these really good recent ones as open source and then it will be on replicate etc. right now the open source ones like SadTalker and Video Retalking are not live and are unconvincing.",
+                                "time": 1713465606,
+                                "type": "comment"
+                            }
+                        ]
+                    },
+                    {
+                        "by": "araes",
+                        "id": 40089345,
+                        "parent": 40074894,
+                        "text": "Translation: &quot;We&#x27;re attempting to preserve our moat, and this is the correct PR blurb.  We&#x27;ll release an API once we&#x27;re far enough ahead and extracted enough money.&quot;<p>Like somebody on Ars noted &quot;anybody notice it&#x27;s an election year?&quot;  You don&#x27;t need to release an API, all online videos are now suspicious authenticity.  Somebody make a video of Trump or Biden&#x27;s eyes following the mouse cursor around.  Real videos turned into fake videos.",
+                        "time": 1713546529,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "feyman_r",
+                        "id": 40076727,
+                        "parent": 40074894,
+                        "text": "&#x2F;s it doesn\u2019t have the phrase LLM in the title",
+                        "time": 1713450911,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "sitzkrieg",
+                        "id": 40078011,
+                        "parent": 40074894,
+                        "text": "money will change that",
+                        "time": 1713458061,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "fullstackchris",
+                "id": 40075687,
+                "parent": 40071858,
+                "text": "lol how does something like this get only 50ish votes but some hallucinating video slop generator from some of the <i>other</i> competitors gets thousands?",
+                "time": 1713444804,
+                "type": "comment"
+            },
+            {
+                "by": "mdrzn",
+                "id": 40074070,
+                "kids": [
+                    40074374
+                ],
+                "parent": 40071858,
+                "text": "Holy shit these are really high quality and basically in realtime on a 4090. What a time to be alive.",
+                "time": 1713428282,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "rbinv",
+                        "id": 40074374,
+                        "parent": 40074070,
+                        "text": "It really is something. 40 FPS on a 4090, damn.",
+                        "time": 1713432179,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "IshKebab",
+                "id": 40079687,
+                "kids": [
+                    40097058,
+                    40079872
+                ],
+                "parent": 40071858,
+                "text": "Oh god don&#x27;t watch their teeth! Proper creepy.<p>Still, apart from the teeth this looks extremely convincing!",
+                "time": 1713467418,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "mtremsal",
+                        "id": 40097058,
+                        "parent": 40079687,
+                        "text": "The teeth resizing dynamically is incredibly distracting, or more positively, a nice way to identify fakes. For now.",
+                        "time": 1713617918,
+                        "type": "comment"
+                    },
+                    {
+                        "by": "ygjb",
+                        "id": 40079872,
+                        "parent": 40079687,
+                        "text": "yeah, teeth, tongue movement and lack of tongue shape and the &quot;stretching&quot; of the skin around the cheeks in the images pushed the videos right into the uncanny valley for me.",
+                        "time": 1713468636,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "pxoe",
+                "id": 40077770,
+                "kids": [
+                    40078030
+                ],
+                "parent": 40071858,
+                "text": "maybe making a webpage with 27 videos isn&#x27;t the greatest web design idea",
+                "time": 1713457068,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "sitzkrieg",
+                        "id": 40078030,
+                        "parent": 40077770,
+                        "text": "the busted two scrolling sections on mobile really doesnt help",
+                        "time": 1713458157,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "RcouF1uZ4gsC",
+                "id": 40092189,
+                "parent": 40071858,
+                "text": "&gt; To show off the model, Microsoft created a VASA-1 research page featuring many sample videos of the tool in action<p>With AI stuff, I have learned to be very skeptical until and unless a relatively publicly accessible demo with user specified inputs is available.<p>It is way too easy for humans to cherry pick the nice outputs, or to take advantage of biases in the training data to generate nice outputs, and is not at all reflective of how it holds up in the real world.<p>Part of the reason why ChatGPT, Stable Diffusion, Dall-E had such an impact is the people could try and see for themselves without being told how awesome it was by the people making it.",
+                "time": 1713562598,
+                "type": "comment"
+            },
+            {
+                "by": "andrewstuart",
+                "id": 40090518,
+                "parent": 40071858,
+                "text": "Despite vast investment in AI by VCs and vast numbers of startups in the field, these sort of things remain unavailable as simple consumer installable software.<p>Every second day HN has some post about some new amazing AI system. Never available to download run and use.<p>Why the vast investment and no startup selling consumer downloadable software to do it?",
+                "time": 1713552064,
+                "type": "comment"
+            },
+            {
+                "by": "BobaFloutist",
+                "id": 40090891,
+                "parent": 40071858,
+                "text": "Oh good!",
+                "time": 1713554051,
+                "type": "comment"
+            },
+            {
+                "by": "jazzyjackson",
+                "id": 40083605,
+                "kids": [
+                    40083761
+                ],
+                "parent": 40071858,
+                "text": "i get why this is interesting but why is it desirable?<p>real jurassic park &quot;too preoccupied with whether they could&quot; vibes",
+                "time": 1713503384,
+                "type": "comment",
+                "comments": [
+                    {
+                        "by": "acidburnNSA",
+                        "id": 40083761,
+                        "parent": 40083605,
+                        "text": "Now I can join the meeting &quot;in a suit&quot; while being out paddleboarding!",
+                        "time": 1713505387,
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "by": "egberts1",
+                "id": 40090887,
+                "parent": 40071858,
+                "text": "Cool! Now we can expect to see an endless stream of dead president&#x27;s speeches &quot;LIVE&quot; from the White House.<p>This should end well.",
+                "time": 1713554023,
+                "type": "comment"
+            }
+        ]
+    }
+]

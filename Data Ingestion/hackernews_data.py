@@ -2,50 +2,10 @@ import requests
 import json
 import pandas as pd
 
+
 def extract_hn_data():
     # Expanded list of keywords related to various language models and AI technologies
-    keywords = [
-        "Large Language Models",
-        "GPT",
-        "GPT-2",
-        "GPT2",
-        "GPT-3",
-        "GPT3",
-        "GPT-3.5",
-        "GPT3.5",  # <-- Added comma here
-        "GPT-4",
-        "GPT4",
-        "OpenAI",
-        "ChatGPT",
-        "Natural Language Processing",
-        "NLP",
-        "Transformer",
-        "Google BERT",
-        "StableLM",
-        "Falcon AI",
-        "EleutherAI",
-        "Language Models",
-        "Copilot",
-        "Bard",
-        "Transformer Models",
-        "AI Writing",
-        "Text Generation",
-        "Language Generation",
-        "LaMDA",
-        "Generative Pre-trained Transformer",
-        "DistilBERT",
-        "XLNet",
-        "ALBERT",
-        "ERNIE",
-        "Meta AI",
-        "LLaMA",
-        "Devin AI",
-        "Gemini",
-        "PaLM2",
-        "Claude AI",
-        "Grok",
-        "xAI",
-    ]
+    keywords = ["VASA-1", "DBRX", "Devin AI"]
 
     # Function to normalize text for keyword comparison (lowercase, optionally remove hyphens)
     def normalize_text(text):
@@ -87,7 +47,9 @@ def extract_hn_data():
             story_url = f"{base_url}item/{story_id}.json"
             story_response = requests.get(story_url)
             story = (
-                story_response.json() if story_response and story_response.json() else {}
+                story_response.json()
+                if story_response and story_response.json()
+                else {}
             )
 
             # Check if the story matches keywords
@@ -123,65 +85,76 @@ def extract_hn_data():
         story_keywords = ", ".join(story.get("keywords", []))
 
         # Append story details to stories_data list
-        stories_data.append([
-            story.get("descendants"),
-            story.get("id"),
-            story.get("score"),
-            story.get("title"),
-            story.get("url"),
-            story_keywords  # Add keywords attribute
-        ])
+        stories_data.append(
+            [
+                story.get("descendants"),
+                story.get("id"),
+                story.get("score"),
+                story.get("title"),
+                story.get("url"),
+                story_keywords,  # Add keywords attribute
+            ]
+        )
 
         # Process each comment
         for comment in story.get("comments", []):
             # Append comment details to comments_data list
-            comments_data.append([
-                comment.get("id"),
-                comment.get("text"),
-                comment.get("time"),
-                story["id"]
-            ])
+            comments_data.append(
+                [
+                    comment.get("id"),
+                    comment.get("text"),
+                    comment.get("time"),
+                    story["id"],
+                ]
+            )
 
     # Create DataFrame for stories
-    stories_df = pd.DataFrame(stories_data, columns=["descendants", "story_id", "score", "title", "url", "keywords"])
+    stories_df = pd.DataFrame(
+        stories_data,
+        columns=["descendants", "story_id", "score", "title", "url", "keywords"],
+    )
 
     # Create DataFrame for comments
-    comments_df = pd.DataFrame(comments_data, columns=["comment_id","text", "time", "story_id"])
+    comments_df = pd.DataFrame(
+        comments_data, columns=["comment_id", "text", "time", "story_id"]
+    )
 
-    stories_df=stories_df.drop_duplicates(subset=['story_id'])
+    stories_df = stories_df.drop_duplicates(subset=["story_id"])
 
-    comments_df=comments_df.drop_duplicates(subset=['comment_id'])
+    comments_df = comments_df.drop_duplicates(subset=["comment_id"])
 
-    new_df=comments_df.merge(stories_df, on='story_id', how='left')
-    new_df=new_df.drop(columns=['story_id'])
+    new_df = comments_df.merge(stories_df, on="story_id", how="left")
+    new_df = new_df.drop(columns=["story_id"])
 
-    new_df = new_df.reindex(columns=[
-    'time',              # CreatedTime
-    'comment_id',        # SubmissionID
-    'title',             # SubmissionTitle
-    'text',              # Text
-    'url',               # SubmissionURL
-    'score',             # Score
-    'descendants',       # NumberOfComments
-    'keywords'           # TopicName
-    ])
+    new_df = new_df.reindex(
+        columns=[
+            "time",  # CreatedTime
+            "comment_id",  # SubmissionID
+            "title",  # SubmissionTitle
+            "text",  # Text
+            "url",  # SubmissionURL
+            "score",  # Score
+            "descendants",  # NumberOfComments
+            "keywords",  # TopicName
+        ]
+    )
 
     # Rename columns
-    new_df = new_df.rename(columns={
-    'time': 'CreatedTime',
-    'comment_id': 'SubmissionID',
-    'title': 'SubmissionTitle',
-    'text': 'Text',
-    'url': 'SubmissionURL',
-    'score': 'Score',
-    'descendants': 'NumberOfComments',
-    'keywords': 'TopicName'
-    })
+    new_df = new_df.rename(
+        columns={
+            "time": "CreatedTime",
+            "comment_id": "SubmissionID",
+            "title": "SubmissionTitle",
+            "text": "Text",
+            "url": "SubmissionURL",
+            "score": "Score",
+            "descendants": "NumberOfComments",
+            "keywords": "TopicName",
+        }
+    )
 
-    new_df['CreatedTime'] = pd.to_datetime(new_df['CreatedTime'], unit='s')
-    new_df['SubmissionID'] = new_df['SubmissionID'].astype(str)
-    #new_df.to_csv("hn_data.csv", index=False)
+    new_df["CreatedTime"] = pd.to_datetime(new_df["CreatedTime"], unit="s")
+    new_df["SubmissionID"] = new_df["SubmissionID"].astype(str)
+    # new_df.to_csv("hn_data.csv", index=False)
 
     return new_df
-
-
